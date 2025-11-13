@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2025-11-12T18:47:13.224636675</meta:creation-date><dc:date>2025-11-13T11:18:16.708376544</dc:date><meta:editing-duration>PT1H50M49S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="3" meta:paragraph-count="14" meta:word-count="592" meta:character-count="3702" meta:non-whitespace-character-count="3123"/></office:meta>
+ <office:meta><meta:creation-date>2025-11-12T18:47:13.224636675</meta:creation-date><dc:date>2025-11-13T12:30:15.872981889</dc:date><meta:editing-duration>PT1H56M</meta:editing-duration><meta:editing-cycles>3</meta:editing-cycles><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:print-date>2025-11-13T12:25:04.445726550</meta:print-date><meta:printed-by>PDF files</meta:printed-by><meta:document-statistic meta:table-count="1" meta:image-count="0" meta:object-count="0" meta:page-count="4" meta:paragraph-count="42" meta:word-count="600" meta:character-count="3792" meta:non-whitespace-character-count="3232"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">63973</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">62011</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">26831</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">24238</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">21698</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">4489</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">83645</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">6544</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">88459</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">63973</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">26829</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">85669</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">62011</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">24236</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">83707</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -40,7 +40,7 @@
    <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
    <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="PrintEmptyPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
    <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
    <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
    <config:config-item config:name="HyphenateURLs" config:type="boolean">false</config:config-item>
@@ -147,7 +147,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">992700</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1214032</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -174,7 +174,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -225,7 +225,7 @@
    <style:text-properties fo:font-size="18pt" fo:font-weight="bold" style:font-size-asian="18pt" style:font-weight-asian="bold" style:font-size-complex="18pt" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
-   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" style:border-line-width-bottom="0.0008in 0.0016in 0.0008in" fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.14pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" style:border-line-width-bottom="0.0008in 0.0016in 0.0008in" fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.2pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
    <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
   </style:style>
   <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
@@ -235,6 +235,7 @@
   <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
    <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
   </style:style>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
   <text:outline-style style:name="Outline">
    <text:outline-level-style text:level="1" loext:num-list-format="%1%" style:num-format="">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
@@ -337,36 +338,65 @@
   <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="000f25bc" officeooo:paragraph-rsid="000f25bc"/>
   </style:style>
-  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties officeooo:rsid="000f25bc" officeooo:paragraph-rsid="000f25bc"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:rsid="000deac5" officeooo:paragraph-rsid="000deac5"/>
   </style:style>
-  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="First_20_Page">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
    <style:paragraph-properties style:page-number="1"/>
    <style:text-properties officeooo:rsid="000deac5" officeooo:paragraph-rsid="000deac5"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Table_20_Contents">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Table_20_Contents">
    <style:text-properties officeooo:rsid="000deac5" officeooo:paragraph-rsid="000deac5"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="000eebd5" officeooo:paragraph-rsid="000eebd5"/>
   </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="000f25bc"/>
-  </style:style>
   <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Title">
-   <style:text-properties fo:font-size="60pt" style:font-size-asian="60pt" style:font-size-complex="60pt"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Title">
    <style:paragraph-properties fo:break-before="page"/>
    <style:text-properties officeooo:rsid="000eebd5" officeooo:paragraph-rsid="000eebd5"/>
   </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Title">
-   <style:text-properties officeooo:rsid="000f25bc" officeooo:paragraph-rsid="000f25bc"/>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="000f25bc"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties fo:font-size="60pt" style:font-size-asian="60pt" style:font-size-complex="60pt"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:paragraph-rsid="00108864"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00108864" officeooo:paragraph-rsid="00108864"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00110754" officeooo:paragraph-rsid="00110754"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="First_20_Page">
+   <style:paragraph-properties style:page-number="1"/>
+   <style:text-properties officeooo:rsid="000deac5" officeooo:paragraph-rsid="000deac5"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties style:font-name="Liberation Serif"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-left="0.5in" fo:margin-right="0.5in"/>
+   <style:text-properties style:font-name="Liberation Serif"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00110754" officeooo:paragraph-rsid="00110754"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="00110754"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties officeooo:rsid="00110754" officeooo:paragraph-rsid="00110754"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph">
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="center" fo:text-indent="0in"/>
   </style:style>
-  <style:style style:name="P14" style:family="paragraph">
+  <style:style style:name="P23" style:family="paragraph">
    <loext:graphic-properties draw:fill="none" draw:fill-color="#ffffff"/>
    <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" fo:line-height="100%" fo:text-align="center" fo:text-indent="0in"/>
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00a933" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="URW Bookman" fo:font-size="40pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="40pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="40pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
@@ -381,13 +411,74 @@
    <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
   </style:style>
   <style:style style:name="T4" style:family="text">
-   <style:text-properties officeooo:rsid="000f25bc"/>
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
   <style:style style:name="T5" style:family="text">
+   <style:text-properties officeooo:rsid="000f25bc"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties officeooo:rsid="00108864"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="00110754"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
    <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#00a933" loext:opacity="100%" style:text-outline="false" style:text-line-through-style="none" style:text-line-through-type="none" style:font-name="URW Bookman" fo:font-size="40pt" fo:font-style="normal" fo:text-shadow="none" style:text-underline-style="none" fo:font-weight="normal" style:letter-kerning="true" style:font-name-asian="Noto Sans CJK SC" style:font-size-asian="40pt" style:font-style-asian="normal" style:font-weight-asian="normal" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="40pt" style:font-style-complex="normal" style:font-weight-complex="normal" style:text-emphasize="none" style:font-relief="none" style:text-overline-style="none" style:text-overline-color="font-color"/>
   </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
   <style:style style:name="gr1" style:family="graphic">
-   <style:graphic-properties draw:stroke="none" svg:stroke-width="0in" svg:stroke-color="#000000" draw:marker-start="" draw:marker-start-width="0.0783in" draw:marker-start-center="false" draw:marker-end="" draw:marker-end-width="0.0783in" draw:marker-end-center="false" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.3335in" fo:min-width="0in" fo:padding-top="0.0492in" fo:padding-bottom="0.0492in" fo:padding-left="0.0984in" fo:padding-right="0.0984in" fo:wrap-option="wrap" draw:shadow="hidden" draw:shadow-offset-x="0.0783in" draw:shadow-offset-y="0.0783in" draw:shadow-color="#808080" loext:decorative="false" style:run-through="foreground" style:wrap="none" style:wrap-contour-mode="full" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
+   <style:graphic-properties draw:stroke="none" svg:stroke-width="0in" svg:stroke-color="#000000" draw:marker-start="" draw:marker-start-width="0.0783in" draw:marker-start-center="false" draw:marker-end="" draw:marker-end-width="0.0783in" draw:marker-end-center="false" draw:fill="none" draw:fill-color="#ffffff" draw:textarea-horizontal-align="left" draw:auto-grow-height="true" draw:auto-grow-width="false" fo:min-height="1.3339in" fo:min-width="0in" fo:padding-top="0.0492in" fo:padding-bottom="0.0492in" fo:padding-left="0.0984in" fo:padding-right="0.0984in" fo:wrap-option="wrap" draw:shadow="hidden" draw:shadow-offset-x="0.0783in" draw:shadow-offset-y="0.0783in" draw:shadow-color="#808080" loext:decorative="false" style:run-through="foreground" style:wrap="none" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph" draw:wrap-influence-on-position="once-concurrent" loext:allow-overlap="true" style:flow-with-text="false"/>
    <style:paragraph-properties style:writing-mode="lr-tb"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -398,14 +489,7 @@
    <style:footer-style/>
   </style:page-layout>
   <style:page-layout style:name="pm2">
-   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.5in" fo:margin-bottom="0.5in" fo:margin-left="0.5in" fo:margin-right="0.5in" style:writing-mode="lr-tb" style:footnote-max-height="0in" loext:margin-gutter="0in">
-    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
-   </style:page-layout-properties>
-   <style:header-style/>
-   <style:footer-style/>
-  </style:page-layout>
-  <style:page-layout style:name="pm3">
-   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in" loext:margin-gutter="0in">
+   <style:page-layout-properties fo:page-width="8.5in" fo:page-height="11in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
    </style:page-layout-properties>
    <style:header-style/>
@@ -417,8 +501,8 @@
  </office:automatic-styles>
  <office:master-styles>
   <style:master-page style:name="Standard" style:page-layout-name="pm1" draw:style-name="dp1"/>
-  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm2" draw:style-name="dp1" style:next-style-name="Standard"/>
-  <style:master-page style:name="Index" style:page-layout-name="pm3"/>
+  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm1" draw:style-name="dp1" style:next-style-name="Standard"/>
+  <style:master-page style:name="Index" style:page-layout-name="pm2" draw:style-name="dp1"/>
  </office:master-styles>
  <office:body>
   <office:text text:use-soft-page-breaks="true">
@@ -429,23 +513,23 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P16"/>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="Table_20_Contents"><draw:frame text:anchor-type="paragraph" draw:z-index="0" draw:name="Text Frame &apos;A. W. &amp; ...&apos; 1" draw:style-name="gr1" draw:text-style-name="P14" svg:width="7.5004in" svg:height="1.4331in" svg:x="0in" svg:y="0in">
+      <text:p text:style-name="Table_20_Contents"><draw:frame text:anchor-type="paragraph" draw:z-index="0" draw:name="Text Frame &apos;A. W. &amp; ...&apos; 1" draw:style-name="gr1" draw:text-style-name="P23" svg:width="7.5004in" svg:height="1.4331in" svg:x="0in" svg:y="0in">
         <draw:text-box>
-         <text:p text:style-name="P13"><text:span text:style-name="T5">A. W. &amp; Associates Moringa Distribution, Inc.</text:span></text:p>
+         <text:p text:style-name="P22"><text:span text:style-name="T8">A. W. &amp; Associates Moringa Distribution, Inc.</text:span></text:p>
         </draw:text-box>
        </draw:frame></text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.2">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P10"/>
-      <text:p text:style-name="P10"/>
-      <text:p text:style-name="P10">Moringa Overview</text:p>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12"/>
+      <text:p text:style-name="P12">Moringa Overview</text:p>
      </table:table-cell>
     </table:table-row>
     <table:table-row table:style-name="Table1.3">
@@ -455,26 +539,57 @@
       <text:p text:style-name="Table_20_Contents"/>
       <text:p text:style-name="Table_20_Contents"/>
       <text:p text:style-name="Table_20_Contents"/>
-      <text:p text:style-name="P7">By Tony Otto</text:p>
-      <text:p text:style-name="P7">Initial Draft in Progress: November 13, 2025</text:p>
+      <text:p text:style-name="P8">By Tony Otto</text:p>
+      <text:p text:style-name="P8">Initial Draft in Progress: November 13, 2025</text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
-   <text:p text:style-name="P5"/>
-   <text:p text:style-name="P11">Introduction</text:p>
-   <text:p text:style-name="P8">Utilization of natural products of plant origin having fewer side effects has gained popularity over the years. There is immense scope for natural products that can intimate health benefits beyond traditional nutrients. <text:span text:style-name="T3">Moringa oleifera</text:span> is one such tree having tremendous nutritional and medicinal benefits. It is rich in macro- and micro-nutrients and other bio-active compounds which are important for normal functioning of the body and prevention of certain diseases. Leaves, flowers, seeds, and almost all parts of this tree are edible and have immense therapeutic properties including anti-diabetic, anti-cancer, anti-ulcer, anti-microbial, and anti-oxidant. Most of the recent studies suggested that Moringa should be used as a functional ingredient in food.<text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
-      <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8373516/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T4">US Government National Institutes of Health, National Library of Medicine</text:span></text:a></text:p></text:note-body></text:note></text:p>
-   <text:p text:style-name="P8"/>
-   <text:p text:style-name="P12">Benefits</text:p>
-   <text:h text:style-name="P4" text:outline-level="1">Malnutrition of Children</text:h>
-   <text:p text:style-name="P9">In the context of global vision, one of the very first millennium development goals (steps to eradicate extreme hunger and poverty) is to “reduce by half the proportion of children that are malnourished (MDG).” Food deprivation is typically termed as hunger where malnutrition is something else. Malnutrition refers lack of quality food which is insufficient to support proper development and health. According to the report of the hunger project, in November 2017, 815 million people do not have food to sustain themselves out of 7.6 billion people of the world (Know Your World, The World Hunger Project). Moreover the exponential population growth threatens the margins of food security as time progresses. According to a report by the UN&apos;s Food and Agriculture Organization, earth is capable of ensuring the food security, where the agricultural sector needs a major transformation to reach its full potential [1]. Moringa oleifera, a native species of the Indian subcontinent, is a fast growing drought-resistant tree belonging to the family Moringaceae [2]. It is widely cultivated for the diversified use of its young seed pods and green leaves as vegetables and for medicine. It is considered as a very good supplement because of its high protein value. Without that, it is known as the miracle tree because of its diversified beneficial features, e.g., 10 times more vitamins than carrots, 7 times more vitamin C than oranges, 17 times more calcium than milk, and 15 times more potassium than bananas [3]. In addition, it helps to increase the blood antioxidant level [4] and reduce the blood sugar level [5] and sustained inflammation.<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
+   <text:p text:style-name="P6"/>
+   <text:p text:style-name="P10">Introduction</text:p>
+   <text:p text:style-name="P9">Utilization of natural products of plant origin having fewer side effects has gained popularity over the years. There is immense scope for natural products that can intimate health benefits beyond traditional nutrients. <text:span text:style-name="T3">Moringa oleifera</text:span> is one such tree having tremendous nutritional and medicinal benefits. It is rich in macro- and micro-nutrients and other bio-active compounds which are important for normal functioning of the body and prevention of certain diseases. Leaves, flowers, seeds, and almost all parts of this tree are edible and have immense therapeutic properties including anti-diabetic, anti-cancer, anti-ulcer, anti-microbial, and anti-oxidant. Most of the recent studies suggested that Moringa should be used as a functional ingredient in food.<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
+      <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8373516/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T5">US Government National Institutes of Health, National Library of Medicine</text:span></text:a></text:p></text:note-body></text:note></text:p>
+   <text:p text:style-name="P9"/>
+   <text:p text:style-name="P21">Formulations</text:p>
+   <text:p text:style-name="P19">Powder </text:p>
+   <text:p text:style-name="P19">Fine Powder</text:p>
+   <text:p text:style-name="P19">Raw Leaves</text:p>
+   <text:p text:style-name="P19">Dried Leaves</text:p>
+   <text:p text:style-name="P19">Course Shredded Dried Leaves</text:p>
+   <text:p text:style-name="P19">Oil</text:p>
+   <text:p text:style-name="P19">Seeds</text:p>
+   <text:p text:style-name="P19">Stems</text:p>
+   <text:p text:style-name="P19"/>
+   <text:p text:style-name="P21">Products</text:p>
+   <text:p text:style-name="P19">Capsules</text:p>
+   <text:p text:style-name="P19">Cigarettes</text:p>
+   <text:p text:style-name="P19">….</text:p>
+   <text:p text:style-name="P5">Benefits</text:p>
+   <text:h text:style-name="P13" text:outline-level="1"><text:span text:style-name="T5">Child</text:span><text:span text:style-name="T6">hood</text:span><text:span text:style-name="T5"> Malnutrition</text:span></text:h>
+   <text:p text:style-name="P17">Malnutrition refers lack of quality food which is insufficient to support proper development and health. According to the report of the hunger project, in November 2017, 815 million people do not have food to <text:soft-page-break/>sustain themselves out of 7.6 billion people of the world (Know Your World, The World Hunger Project). Moreover the exponential population growth threatens the margins of food security as time progresses. According to a report by the UN&apos;s Food and Agriculture Organization, earth is capable of ensuring the food security, where the agricultural sector needs a major transformation to reach its full potential. <text:span text:style-name="T3">Moringa oleifera</text:span>, a native species of the Indian subcontinent, is a fast growing drought-resistant tree belonging to the family <text:span text:style-name="T3">Moringaceae</text:span>. It is widely cultivated for the diversified use of its young seed pods and green leaves as vegetables and for medicine. It is considered as a very good supplement because of its high protein value. Without that, it is known as the miracle tree because of its diversified beneficial features, <text:span text:style-name="T6">such as </text:span>10 times more vitamins than carrots, 7 times more <text:span text:style-name="T6">V</text:span>itamin C than oranges, 17 times more <text:span text:style-name="T6">C</text:span>alcium than milk, and 15 times more <text:span text:style-name="T6">P</text:span>otassium than bananas In addition, it helps to increase the blood antioxidant level and reduce the blood sugar level and sustained inflammation.<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
       <text:p text:style-name="P3">Ibid</text:p></text:note-body></text:note> </text:p>
    <text:p text:style-name="Horizontal_20_Line"/>
-   <text:p text:style-name="P9">Mrs. Christine Kpatali, 22, is from Lèma village of Tré Epicenter. Mother of a baby boy, learned of the outstanding nutritional value of Moringa leaves through a THP-Benin Health &amp; Nutrition Program. After having used the leaves both for herself and the baby, she shares with us her experience with the Moringa leaves.</text:p>
-   <text:p text:style-name="P9"><text:soft-page-break/>“I have been using Moringa leaves for three month as vegetable supplement for myself and in the porridge I feed the baby. I can testify that diseases like diarrhea, vomiting and coughing, from which he repeatedly suffered before I started using the Moringa leaves, have since vanished.</text:p>
-   <text:p text:style-name="P9">I now believe what was said to us about the leaves during the awareness-raising session organized by The Hunger Project-Benin. I have been sharing my knowledge and experience with the other mothers in my village so that many of us could use Moringa leaves.</text:p>
-   <text:p text:style-name="P9">However, the tree is not as available as we would like. We very often come to fetch the leaves at the epicenter. To improve our access, we plan to plant Moringa tree close to our houses so that we could easily have access to the leaves.”<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
-      <text:p text:style-name="Footnote"/></text:note-body></text:note></text:p>
+   <text:p text:style-name="P17">Mrs. Christine Kpatali, 22, is from Lèma village of Tré Epicenter. Mother of a baby boy, learned of the outstanding nutritional value of <text:span text:style-name="T3">Moringa</text:span> leaves through a Benin <text:span text:style-name="T7">(West Africa) </text:span>Health &amp; Nutrition Program. After having used the leaves both for herself and the baby, she shares with us her experience with the <text:span text:style-name="T3">Moringa</text:span> leaves:<text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
+      <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://thp.org/stories/local-moringa-tree-improves-nutrition-of-mother-and-child/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T7">The Hunger Project: Local Moringa Tree Improves Nutrition of Mother and Child</text:span></text:a></text:p></text:note-body></text:note></text:p>
+   <text:p text:style-name="P18">“I have been using <text:span text:style-name="T3">Moringa</text:span> leaves for three month as vegetable supplement for myself and in the porridge I feed the baby. I can testify that diseases like diarrhea, vomiting and coughing, from which he repeatedly suffered before I started using the <text:span text:style-name="T3">Moringa</text:span> leaves, have since vanished.</text:p>
+   <text:p text:style-name="P18">I now believe what was said to us about the leaves during the awareness-raising session organized by The Hunger Project-Benin. I have been sharing my knowledge and experience with the other mothers in my village so that many of us could use <text:span text:style-name="T3">Moringa</text:span> leaves.</text:p>
+   <text:p text:style-name="P18">However, the tree is not as available as we would like. We very often come to fetch the leaves at the epicenter. To improve our access, we plan to plant <text:span text:style-name="T3">Moringa</text:span> tree close to our houses so that we could easily have access to the leaves.”</text:p>
+   <text:h text:style-name="P14" text:outline-level="1"><text:soft-page-break/>Blood Sugar (Diabetes)</text:h>
+   <text:h text:style-name="P14" text:outline-level="1">Inflammation</text:h>
+   <text:h text:style-name="P14" text:outline-level="1">Anti-Oxidant</text:h>
+   <text:h text:style-name="P14" text:outline-level="1">Anti-aging</text:h>
+   <text:h text:style-name="P14" text:outline-level="1">Anti-Cancer</text:h>
+   <text:h text:style-name="P15" text:outline-level="1">Anti-Ulcer</text:h>
+   <text:h text:style-name="P15" text:outline-level="1">Anti-Microbial</text:h>
+   <text:h text:style-name="P15" text:outline-level="1">Food Products</text:h>
+   <text:h text:style-name="P15" text:outline-level="1">Health &amp; Beauty Products</text:h>
+   <text:p text:style-name="P20"/>
+   <text:p text:style-name="P21">US Market Potential</text:p>
+   <text:p text:style-name="P19"/>
+   <text:p text:style-name="P19">Healthcare</text:p>
+   <text:p text:style-name="P20"><text:span text:style-name="T7">Food &amp; Beverage</text:span></text:p>
+   <text:p text:style-name="P19">Health &amp; Beauty</text:p>
+   <text:p text:style-name="P19">Recreational</text:p>
+   <text:p text:style-name="P19"/>
   </office:text>
  </office:body>
 </office:document>
