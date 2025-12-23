@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2025-12-14T22:49:56.871782830</meta:creation-date><dc:date>2025-12-23T15:21:54.549348147</dc:date><meta:editing-duration>PT1H46M57S</meta:editing-duration><meta:editing-cycles>7</meta:editing-cycles><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="7" meta:paragraph-count="193" meta:word-count="3227" meta:character-count="9835" meta:non-whitespace-character-count="8859"/></office:meta>
+ <office:meta><meta:creation-date>2025-12-14T22:49:56.871782830</meta:creation-date><dc:date>2025-12-23T15:56:11.230271791</dc:date><meta:editing-duration>PT1H55M34S</meta:editing-duration><meta:editing-cycles>9</meta:editing-cycles><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:document-statistic meta:table-count="0" meta:image-count="1" meta:object-count="0" meta:page-count="7" meta:paragraph-count="210" meta:word-count="3792" meta:character-count="10433" meta:non-whitespace-character-count="9419"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">162137</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">165312</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">28048</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">20666</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">50220</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">21407</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">5523</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">169790</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16609</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">183709</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">162137</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">28046</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">182801</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">165312</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">50218</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">186716</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
@@ -138,7 +138,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1345175</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1474035</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -346,38 +346,45 @@
   <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:paragraph-rsid="0014303c"/>
   </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" style:line-height-at-least="0.3335in" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:padding="0in" fo:border="none" style:writing-mode="lr-tb"/>
-   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f1f1f" loext:opacity="100%" fo:letter-spacing="normal" style:font-name-asian="inherit" style:font-size-asian="21pt" style:language-asian="ja" style:country-asian="JP" style:font-style-asian="normal" style:font-weight-asian="normal"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Preformatted_20_Text">
-   <style:paragraph-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false" style:line-height-at-least="0.3335in" fo:text-align="start" style:justify-single-word="false" fo:orphans="2" fo:widows="2" fo:text-indent="0in" style:auto-text-indent="false" fo:padding="0in" fo:border="none" style:writing-mode="lr-tb"/>
-  </style:style>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1"/>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2"/>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3"/>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4"/>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5"/>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6"/>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1"/>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2"/>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3"/>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4"/>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5"/>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6"/>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7"/>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L8"/>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L8">
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7"/>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L8"/>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L8">
    <style:text-properties officeooo:paragraph-rsid="000d7f02"/>
   </style:style>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="00131bad"/>
   </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="0014303c"/>
   </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="00143782"/>
   </style:style>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties officeooo:paragraph-rsid="00148697"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="00148697"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="000d7f02"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00167df3"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph">
+   <loext:graphic-properties draw:fill="solid" draw:fill-color="#ff0000"/>
+   <style:paragraph-properties fo:text-align="center"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties officeooo:rsid="0009a488"/>
@@ -441,6 +448,9 @@
   </style:style>
   <style:style style:name="T21" style:family="text">
    <style:text-properties officeooo:rsid="0014303c"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties officeooo:rsid="00167df3"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Graphics">
    <style:graphic-properties style:horizontal-pos="left" style:horizontal-rel="paragraph" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard"/>
@@ -861,6 +871,10 @@
     </style:list-level-properties>
    </text:list-level-style-number>
   </text:list-style>
+  <style:style style:name="gr1" style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#000000" draw:fill="solid" draw:fill-color="#ff0000" draw:textarea-horizontal-align="justify" draw:textarea-vertical-align="middle" draw:auto-grow-height="false" fo:min-height="0.1126in" fo:min-width="0.1055in" loext:decorative="false" style:run-through="foreground" style:wrap="right" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="true" style:wrap-contour-mode="full" style:vertical-pos="from-top" style:vertical-rel="paragraph" style:horizontal-pos="from-left" style:horizontal-rel="paragraph"/>
+   <style:paragraph-properties style:writing-mode="lr-tb"/>
+  </style:style>
   <style:page-layout style:name="pm1">
    <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="20" style:layout-grid-base-height="0.278in" style:layout-grid-ruby-height="0.139in" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="false" style:layout-grid-display="false" style:footnote-max-height="0in" loext:margin-gutter="0in">
     <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
@@ -888,158 +902,158 @@
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:span text:style-name="T5">Moringa</text:span> <text:span text:style-name="T7">and</text:span> <text:span text:style-name="T16">Cancer </text:span><text:bookmark text:name="tw-target-text Copy 2"/><text:span text:style-name="T20">モリンガとがん</text:span></text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Overview <text:bookmark text:name="tw-target-text Copy 1"/><text:span text:style-name="T20">概要</text:span></text:h>
    <text:p text:style-name="Standard">Moringa oleifera, commonly known as the drumstick tree or horseradish tree, has emerged as a promising natural source of anti-cancer compounds. This tropical plant, native to India and widely cultivated in Asia, Africa, and parts of America, contains a rich array of bioactive phytochemicals that demonstrate significant potential in cancer prevention and treatment.</text:p>
-   <text:p text:style-name="P13"><text:bookmark text:name="tw-target-text"/>モリンガ・オレイフェラ（一般的にドラムスティックツリーまたはホースラディッシュツリーとして知られる）は、抗がん作用を持つ化合物の有望な天然源として注目を集めている。インド原産で、アジア、アフリカ、アメリカの一部地域で広く栽培されているこの熱帯植物には、がんの予防と治療において大きな可能性を示す多様な生物活性を持つ植物化学物質が豊富に含まれている。</text:p>
+   <text:p text:style-name="Standard"><text:bookmark text:name="tw-target-text"/>モリンガ・オレイフェラ（一般的にドラムスティックツリーまたはホースラディッシュツリーとして知られる）は、抗がん作用を持つ化合物の有望な天然源として注目を集めている。インド原産で、アジア、アフリカ、アメリカの一部地域で広く栽培されているこの熱帯植物には、がんの予防と治療において大きな可能性を示す多様な生物活性を持つ植物化学物質が豊富に含まれている。</text:p>
    <text:p text:style-name="Standard"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Key Bioactive Compounds with Anti-Cancer Properties</text:h>
-   <text:p text:style-name="P14"><text:span text:style-name="T20">抗がん作用を持つ主要な生物活性化合物</text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">抗がん作用を持つ主要な生物活性化合物</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Isothiocyanates (ITCs) イソチオシアネート</text:h>
    <text:p text:style-name="Standard">The most studied anti-cancer compounds in <text:span text:style-name="T6">Moringa</text:span> are isothiocyanates, particularly:</text:p>
    <text:p text:style-name="Standard">モリンガに含まれる抗がん作用を持つ化合物の中で最も研究されているのはイソチオシアネート類であり、特に以下のものが挙げられます。</text:p>
    <text:list text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P15">4-(α-L-rhamnosyloxy ラムノシルオキシ)benzyl isothiocyanate ベンジルイソチオシアネート(MIC-1): The predominant phytochemical in moringa seeds モリンガの種子に最も多く含まれる植物化学物質</text:p>
+     <text:p text:style-name="P13">4-(α-L-rhamnosyloxy ラムノシルオキシ)benzyl isothiocyanate ベンジルイソチオシアネート(MIC-1): The predominant phytochemical in moringa seeds モリンガの種子に最も多く含まれる植物化学物質</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P15">Benzyl isothiocyanate (BITC) ベンジルイソチオシアネート</text:p>
+     <text:p text:style-name="P13">Benzyl isothiocyanate (BITC) ベンジルイソチオシアネート</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P15">Phenethyl isothiocyanate (PEITC) フェネチルイソチオシアネート</text:p>
+     <text:p text:style-name="P13">Phenethyl isothiocyanate (PEITC) フェネチルイソチオシアネート</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard">These compounds are formed from glucosinolate precursors through enzymatic hydrolysis and possess unique stability compared to isothiocyanates found in other plants.</text:p>
-   <text:p text:style-name="Standard"><text:soft-page-break/>これらの化合物は、グルコシノレート前駆体から酵素加水分解によって生成され、他の植物に見られるイソチオシアネートと比較して独特の安定性を持っている。</text:p>
+   <text:p text:style-name="Standard">これらの化合物は、グルコシノレート前駆体から酵素加水分解によって生成され、他の植物に見られるイソチオシアネートと比較して独特の安定性を持っている。</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Other Important Compounds その他の重要な化合物</text:h>
    <text:list text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P16">Flavonoids: Quercetin, kaempferol フラボノイド：ケルセチン、ケンフェロール</text:p>
+     <text:p text:style-name="P14">Flavonoids: Quercetin, kaempferol フラボノイド：ケルセチン、ケンフェロール</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16">Phenolic acids: Chlorogenic acid, gallic acid フェノール酸：クロロゲン酸、没食子酸</text:p>
+     <text:p text:style-name="P14">Phenolic acids: Chlorogenic acid, gallic acid フェノール酸：クロロゲン酸、没食子酸</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16">Alkaloids アルカロイド</text:p>
+     <text:p text:style-name="P14">Alkaloids アルカロイド</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16">Glucosinolates グルコシノレート</text:p>
+     <text:p text:style-name="P14">Glucosinolates グルコシノレート</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P16">Saponins サポニン</text:p>
+     <text:p text:style-name="P14">Saponins サポニン</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="Heading_20_2" text:outline-level="2">Mechanisms of Anti-Cancer Action 抗がん作用のメカニズム</text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Mechanisms of Anti-Cancer Action 抗がん作用のメカニズム</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">1. Apoptosis Induction アポトーシス誘導</text:h>
    <text:p text:style-name="Standard"><text:span text:style-name="T6">Moringa</text:span> compounds promote programmed cell death through multiple pathways:</text:p>
    <text:p text:style-name="Standard">モリンガに含まれる化合物は、複数の経路を介してプログラム細胞死を促進する:</text:p>
    <text:list text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P17"><text:span text:style-name="T2">Mitochondrial pathway ミトコンドリア経路</text:span>: Upregulation of pro-apoptotic Bax and downregulation of anti-apoptotic アポトーシス促進因子であるBaxの発現上昇と、アポトーシス抑制因子の発現低下 Bcl-2</text:p>
+     <text:p text:style-name="P15"><text:span text:style-name="T2">Mitochondrial pathway ミトコンドリア経路</text:span>: Upregulation of pro-apoptotic Bax and downregulation of anti-apoptotic アポトーシス促進因子であるBaxの発現上昇と、アポトーシス抑制因子の発現低下 Bcl-2</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:span text:style-name="T2">Caspase activation カスパーゼ活性化</text:span>: Activation of caspases カスパーゼの活性化 -3, -8, and -9</text:p>
+     <text:p text:style-name="P15"><text:span text:style-name="T2">Caspase activation カスパーゼ活性化</text:span>: Activation of caspases カスパーゼの活性化 -3, -8, and -9</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:span text:style-name="T2">ROS generation 活性酸素生成</text:span>: Production of reactive oxygen species that trigger apoptosis アポトーシスを引き起こす活性酸素種の産生</text:p>
+     <text:p text:style-name="P15"><text:span text:style-name="T2">ROS generation 活性酸素生成</text:span>: Production of reactive oxygen species that trigger apoptosis アポトーシスを引き起こす活性酸素種の産生</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P17"><text:span text:style-name="T2">p53 pathway 経路</text:span>: Upregulation of tumor suppressor p53 and p21 expression 腫瘍抑制遺伝子p53およびp21の発現の上方制御</text:p>
+     <text:p text:style-name="P15"><text:span text:style-name="T2">p53 pathway 経路</text:span>: Upregulation of tumor suppressor p53 and p21 expression 腫瘍抑制遺伝子p53およびp21の発現の上方制御</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">2. Cell Cycle Arrest 細胞周期停止</text:h>
    <text:list text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P18"><text:span text:style-name="T2">G0/G1 phase arrest 位相停止</text:span>: In prostate cancer cells via Hedgehog signaling pathway inhibition 前立腺がん細胞におけるヘッジホッグシグナル伝達経路の阻害を介して</text:p>
+     <text:p text:style-name="P16"><text:span text:style-name="T2">G0/G1 phase arrest 位相停止</text:span>: In prostate cancer cells via Hedgehog signaling pathway inhibition 前立腺がん細胞におけるヘッジホッグシグナル伝達経路の阻害を介して</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18"><text:span text:style-name="T2">G2/M phase arrest 位相停止</text:span>: In various cancer cell lines 様々な癌細胞株において</text:p>
+     <text:p text:style-name="P16"><text:span text:style-name="T2">G2/M phase arrest 位相停止</text:span>: In various cancer cell lines 様々な癌細胞株において</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P18"><text:span text:style-name="T2">Modulation of cyclins サイクリンの調節</text:span>: Interference with cell cycle regulatory proteins 細胞周期調節タンパク質への干渉</text:p>
+     <text:p text:style-name="P16"><text:span text:style-name="T2">Modulation of cyclins サイクリンの調節</text:span>: Interference with cell cycle regulatory proteins 細胞周期調節タンパク質への干渉</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">3. Anti-proliferative Effects 抗増殖効果</text:h>
    <text:list text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P19"><text:span text:style-name="T2">Inhibition of growth factor signaling 成長因子シグナル伝達の阻害</text:span>: Downregulation of GLI1 transcription factor and SMO protein GLI1転写因子およびSMOタンパク質のダウンレギュレーション</text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">Inhibition of growth factor signaling 成長因子シグナル伝達の阻害</text:span>: Downregulation of GLI1 transcription factor and SMO protein GLI1転写因子およびSMOタンパク質のダウンレギュレーション</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P19"><text:span text:style-name="T2">NF-κB inhibition 阻害</text:span>: Suppression of nuclear factor-kappa B, reducing inflammation-driven proliferation 核因子カッパBの抑制により、炎症によって引き起こされる細胞増殖を抑制する。</text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">NF-κB inhibition 阻害</text:span>: Suppression of nuclear factor-kappa B, reducing inflammation-driven proliferation 核因子カッパBの抑制により、炎症によって引き起こされる細胞増殖を抑制する。</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P19"><text:span text:style-name="T2">JAK2/STAT3 pathway inhibition 経路阻害</text:span>: Particularly effective in non-small cell lung cancer 特に非小細胞肺がんに対して効果的である</text:p>
+     <text:p text:style-name="P17"><text:span text:style-name="T2">JAK2/STAT3 pathway inhibition 経路阻害</text:span>: Particularly effective in non-small cell lung cancer 特に非小細胞肺がんに対して効果的である</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">4. Anti-metastatic Properties 抗転移特性</text:h>
    <text:list text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P21">Suppression of metastasis-related genes 転移関連遺伝子の抑制</text:p>
+     <text:p text:style-name="P19">Suppression of metastasis-related genes 転移関連遺伝子の抑制</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20"><text:span text:style-name="T2">Downregulation of key oncogenes 主要ながん遺伝子の発現抑制</text:span>: Including c-Myc and FSHR in ovarian cancer 卵巣がんにおけるc-MycおよびFSHRの発現を含む</text:p>
+     <text:p text:style-name="P18"><text:span text:style-name="T2">Downregulation of key oncogenes 主要ながん遺伝子の発現抑制</text:span>: Including c-Myc and FSHR in ovarian cancer 卵巣がんにおけるc-MycおよびFSHRの発現を含む</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20"><text:soft-page-break/><text:span text:style-name="T2">Anti-angiogenic effects 抗血管新生効果</text:span>: Inhibition of blood vessel formation supporting tumor growth 腫瘍の増殖を支える血管形成の阻害</text:p>
+     <text:p text:style-name="P18"><text:span text:style-name="T2">Anti-angiogenic effects 抗血管新生効果</text:span>: Inhibition of blood vessel formation supporting tumor growth 腫瘍の増殖を支える血管形成の阻害</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">5. Epigenetic Modulation エピジェネティック変調</text:h>
    <text:list text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P22"><text:span text:style-name="T2">DNA methylation changes DNAメチル化の変化</text:span>: Alteration of gene expression patterns 遺伝子発現パターンの変化</text:p>
+     <text:p text:style-name="P20"><text:span text:style-name="T2">DNA methylation changes DNAメチル化の変化</text:span>: Alteration of gene expression patterns 遺伝子発現パターンの変化</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P22"><text:span text:style-name="T2">MicroRNA regulation マイクロRNAによる調節</text:span>: Plant-derived miRNAs that differentiate between cancerous and healthy cells がん細胞と健康な細胞を区別する植物由来のマイクロRNA</text:p>
+     <text:p text:style-name="P20"><text:span text:style-name="T2">MicroRNA regulation マイクロRNAによる調節</text:span>: Plant-derived miRNAs that differentiate between cancerous and healthy cells がん細胞と健康な細胞を区別する植物由来のマイクロRNA</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P12" text:outline-level="2">Cancer Types Showing Positive Response </text:h>
+   <text:h text:style-name="P12" text:outline-level="2"><text:soft-page-break/>Cancer Types Showing Positive Response </text:h>
    <text:h text:style-name="P12" text:outline-level="2">良好な反応を示した癌の種類</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Breast Cancer 乳癌</text:h>
-   <text:p text:style-name="P25">Leaf extracts reduce tumor size and weight in animal models </text:p>
-   <text:p text:style-name="P25">葉の抽出物は、動物モデルにおいて腫瘍の大きさと重量を減少させる</text:p>
-   <text:p text:style-name="P25">Seed extracts show antiproliferative effects on MCF7 cells </text:p>
-   <text:p text:style-name="P25">種子抽出物はMCF7細胞に対して増殖抑制効果を示す</text:p>
-   <text:p text:style-name="P25">Mechanism involves apoptosis induction and cell cycle arrest </text:p>
-   <text:p text:style-name="P25">このメカニズムには、アポトーシスの誘導と細胞周期の停止が関与している</text:p>
+   <text:p text:style-name="P23">Leaf extracts reduce tumor size and weight in animal models </text:p>
+   <text:p text:style-name="P23">葉の抽出物は、動物モデルにおいて腫瘍の大きさと重量を減少させる</text:p>
+   <text:p text:style-name="P23">Seed extracts show antiproliferative effects on MCF7 cells </text:p>
+   <text:p text:style-name="P23">種子抽出物はMCF7細胞に対して増殖抑制効果を示す</text:p>
+   <text:p text:style-name="P23">Mechanism involves apoptosis induction and cell cycle arrest </text:p>
+   <text:p text:style-name="P23">このメカニズムには、アポトーシスの誘導と細胞周期の停止が関与している</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Lung Cancer 肺癌</text:h>
    <text:p text:style-name="Standard">Aqueous leaf extracts inhibit A549 cell proliferation</text:p>
    <text:p text:style-name="Standard">Alkaloid extracts suppress JAK2/STAT3 signaling pathway</text:p>
    <text:p text:style-name="Standard">Dose-dependent apoptosis induction observed</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Prostate Cancer 前立腺がん</text:h>
-   <text:p text:style-name="P25">Methanolic leaf extracts induce G0/G1 cell cycle arrest </text:p>
-   <text:p text:style-name="P25">水性葉抽出物はA549細胞の増殖を阻害する</text:p>
-   <text:p text:style-name="P25">Downregulation of Hedgehog signaling pathway </text:p>
-   <text:p text:style-name="P25">ヘッジホッグシグナル伝達経路のダウンレギュレーション</text:p>
+   <text:p text:style-name="P23">Methanolic leaf extracts induce G0/G1 cell cycle arrest </text:p>
+   <text:p text:style-name="P23">水性葉抽出物はA549細胞の増殖を阻害する</text:p>
+   <text:p text:style-name="P23">Downregulation of Hedgehog signaling pathway </text:p>
+   <text:p text:style-name="P23">ヘッジホッグシグナル伝達経路のダウンレギュレーション</text:p>
    <text:p text:style-name="Standard">Significant inhibition of PC-3 cell growth and migration </text:p>
    <text:p text:style-name="Standard">PC-3細胞の増殖と遊走が著しく阻害された</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Colorectal Cancer 結腸直腸がん</text:h>
-   <text:p text:style-name="P25">Quercetin and kaempferol regulate cell proliferation </text:p>
-   <text:p text:style-name="P25">ケルセチンとケンフェロールは細胞増殖を調節する</text:p>
-   <text:p text:style-name="P25">Caspase activation leads to apoptosis </text:p>
-   <text:p text:style-name="P25">カスパーゼの活性化はアポトーシスを引き起こす</text:p>
-   <text:p text:style-name="P25">Seed oil induces mitochondrial dysfunction in cancer cells </text:p>
-   <text:p text:style-name="P25">種子油はがん細胞のミトコンドリア機能障害を引き起こす</text:p>
+   <text:p text:style-name="P23">Quercetin and kaempferol regulate cell proliferation </text:p>
+   <text:p text:style-name="P23">ケルセチンとケンフェロールは細胞増殖を調節する</text:p>
+   <text:p text:style-name="P23">Caspase activation leads to apoptosis </text:p>
+   <text:p text:style-name="P23">カスパーゼの活性化はアポトーシスを引き起こす</text:p>
+   <text:p text:style-name="P23">Seed oil induces mitochondrial dysfunction in cancer cells </text:p>
+   <text:p text:style-name="P23">種子油はがん細胞のミトコンドリア機能障害を引き起こす</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Liver Cancer 肝臓がん</text:h>
-   <text:p text:style-name="P25">Multiple studies show cytotoxic effects on HepG2 cells 複数の研究により、HepG2</text:p>
-   <text:p text:style-name="P25">細胞に対する細胞毒性効果が示されている</text:p>
-   <text:p text:style-name="P25">Induction of apoptosis via caspase activation and ROS production </text:p>
-   <text:p text:style-name="P25"><text:soft-page-break/>カスパーゼ活性化およびROS産生を介したアポトーシスの誘導</text:p>
-   <text:p text:style-name="P25">G2/M cell cycle arrest demonstrated </text:p>
-   <text:p text:style-name="P25">G2/M期細胞周期停止が確認された</text:p>
+   <text:p text:style-name="P23">Multiple studies show cytotoxic effects on HepG2 cells 複数の研究により、HepG2</text:p>
+   <text:p text:style-name="P23">細胞に対する細胞毒性効果が示されている</text:p>
+   <text:p text:style-name="P23">Induction of apoptosis via caspase activation and ROS production </text:p>
+   <text:p text:style-name="P23">カスパーゼ活性化およびROS産生を介したアポトーシスの誘導</text:p>
+   <text:p text:style-name="P23">G2/M cell cycle arrest demonstrated </text:p>
+   <text:p text:style-name="P23">G2/M期細胞周期停止が確認された</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Other Cancers その他のがん</text:h>
-   <text:p text:style-name="P25"><text:span text:style-name="T2">Melanoma メラノーマ</text:span>: </text:p>
-   <text:p text:style-name="P25"><text:tab/>Caspase-dependent and independent apoptosis </text:p>
-   <text:p text:style-name="P25"><text:tab/>カスパーゼ依存性および非依存性アポトーシス</text:p>
-   <text:p text:style-name="P25"><text:span text:style-name="T2">Ovarian cancer 卵巣がん</text:span>: </text:p>
-   <text:p text:style-name="P25"><text:tab/>Suppression of FSHR and c-Myc oncogenes FSHR</text:p>
-   <text:p text:style-name="P25"><text:tab/>およびc-Mycがん遺伝子の発現抑制</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T2">Oral squamous cell carcinoma 口腔扁平上皮癌</text:span>: </text:p>
-   <text:p text:style-name="P26"><text:tab/>Nanoparticles reduce inflammatory markers </text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T2">Melanoma メラノーマ</text:span>: </text:p>
+   <text:p text:style-name="P23"><text:tab/>Caspase-dependent and independent apoptosis </text:p>
+   <text:p text:style-name="P23"><text:tab/>カスパーゼ依存性および非依存性アポトーシス</text:p>
+   <text:p text:style-name="P23"><text:span text:style-name="T2">Ovarian cancer 卵巣がん</text:span>: </text:p>
+   <text:p text:style-name="P23"><text:tab/>Suppression of FSHR and c-Myc oncogenes FSHR</text:p>
+   <text:p text:style-name="P23"><text:soft-page-break/><text:tab/>およびc-Mycがん遺伝子の発現抑制</text:p>
+   <text:p text:style-name="P24"><text:span text:style-name="T2">Oral squamous cell carcinoma 口腔扁平上皮癌</text:span>: </text:p>
+   <text:p text:style-name="P24"><text:tab/>Nanoparticles reduce inflammatory markers </text:p>
    <text:p text:style-name="Standard"><text:tab/>ナノ粒子は炎症マーカーを減少させる</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T2">Neuroblastoma 神経芽細胞腫</text:span>: </text:p>
-   <text:p text:style-name="P26"><text:tab/>Downregulation of PI3K/Akt/mTOR pathway PI3K/Akt/mTOR</text:p>
-   <text:p text:style-name="P26"><text:tab/>経路のダウンレギュレーション</text:p>
-   <text:p text:style-name="P26"><text:span text:style-name="T2">Astrocytomas 星状細胞腫</text:span>: </text:p>
-   <text:p text:style-name="P26"><text:tab/>p53 and Bax activation with Bcl-2 inhibition p53</text:p>
-   <text:p text:style-name="P26"><text:tab/>およびBaxの活性化とBcl-2の阻害</text:p>
+   <text:p text:style-name="P24"><text:span text:style-name="T2">Neuroblastoma 神経芽細胞腫</text:span>: </text:p>
+   <text:p text:style-name="P24"><text:tab/>Downregulation of PI3K/Akt/mTOR pathway PI3K/Akt/mTOR</text:p>
+   <text:p text:style-name="P24"><text:tab/>経路のダウンレギュレーション</text:p>
+   <text:p text:style-name="P24"><text:span text:style-name="T2">Astrocytomas 星状細胞腫</text:span>: </text:p>
+   <text:p text:style-name="P24"><text:tab/>p53 and Bax activation with Bcl-2 inhibition p53</text:p>
+   <text:p text:style-name="P24"><text:tab/>およびBaxの活性化とBcl-2の阻害</text:p>
    <text:h text:style-name="P12" text:outline-level="2">Safety Profile and Clinical Evidence </text:h>
    <text:h text:style-name="P12" text:outline-level="2">安全性プロファイルと臨床的証拠</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Preclinical Safety 前臨床安全性</text:h>
@@ -1048,17 +1062,17 @@
    <text:p text:style-name="Standard">Selective cytotoxicity: Cancer cells affected while normal cells spared</text:p>
    <text:p text:style-name="Standard">Low adverse effects: Mild, transient stomach discomfort at high doses</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Human Studies 人体研究</text:h>
-   <text:p text:style-name="P26">Limited but promising clinical data </text:p>
-   <text:p text:style-name="P26">動物実験において優れた安全性プロファイルが確認された</text:p>
-   <text:p text:style-name="P26">8 grams daily of powdered leaf showed no adverse effects in healthy individuals for 40 days </text:p>
-   <text:p text:style-name="P26">健康な被験者を対象に40日間、1日8グラムの葉の粉末を摂取させたところ、有害な副作用は認められなかった</text:p>
-   <text:p text:style-name="P26">7.2 grams/day for 7 days associated with only mild, transient discomfort</text:p>
-   <text:p text:style-name="P26">1日あたり7.2グラムを7日間摂取した場合、軽度で一時的な不快感のみが認められた</text:p>
-   <text:p text:style-name="P26">Improved lipid profiles in preliminary human studies </text:p>
-   <text:p text:style-name="P26">予備的なヒト臨床試験において、脂質プロファイルの改善が認められた</text:p>
-   <text:p text:style-name="P26">Enhanced insulin secretion observed in healthy subjects </text:p>
-   <text:p text:style-name="P26">健康な被験者においてインスリン分泌の増加が観察された</text:p>
-   <text:p text:style-name="P26"/>
+   <text:p text:style-name="P24">Limited but promising clinical data </text:p>
+   <text:p text:style-name="P24">動物実験において優れた安全性プロファイルが確認された</text:p>
+   <text:p text:style-name="P24">8 grams daily of powdered leaf showed no adverse effects in healthy individuals for 40 days </text:p>
+   <text:p text:style-name="P24">健康な被験者を対象に40日間、1日8グラムの葉の粉末を摂取させたところ、有害な副作用は認められなかった</text:p>
+   <text:p text:style-name="P24">7.2 grams/day for 7 days associated with only mild, transient discomfort</text:p>
+   <text:p text:style-name="P24">1日あたり7.2グラムを7日間摂取した場合、軽度で一時的な不快感のみが認められた</text:p>
+   <text:p text:style-name="P24">Improved lipid profiles in preliminary human studies </text:p>
+   <text:p text:style-name="P24">予備的なヒト臨床試験において、脂質プロファイルの改善が認められた</text:p>
+   <text:p text:style-name="P24">Enhanced insulin secretion observed in healthy subjects </text:p>
+   <text:p text:style-name="P24">健康な被験者においてインスリン分泌の増加が観察された</text:p>
+   <text:p text:style-name="P24"/>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><draw:frame draw:style-name="fr1" draw:name="Image1" text:anchor-type="char" svg:width="0.3874in" svg:height="0.3874in" draw:z-index="0"><draw:image draw:mime-type="image/png">
       <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAABHNCSVQICAgIfAhkiAAAAAlw
        SFlzAAAOxAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoA
@@ -1238,101 +1252,123 @@
        SZIkSZIkSZqm/w97aBbLxG1imQAAAABJRU5ErkJggg==
       </office:binary-data>
      </draw:image>
-    </draw:frame><text:soft-page-break/><text:s/>Contraindications and Cautions 禁忌事項および注意事項</text:h>
-   <text:p text:style-name="Standard">Pregnancy and breastfeeding 妊娠と授乳: <text:span text:style-name="T21">A</text:span>void use due to uterine stimulation and antifertility effects 子宮刺激作用および避妊効果があるため、使用は避けてください</text:p>
-   <text:p text:style-name="Standard">Drug interactions 薬物相互作用: May affect CYP3A4 metabolism and interact with diabetes medications CYP3A4代謝に影響を与える可能性があり、糖尿病治療薬と相互作用する可能性がある</text:p>
-   <text:p text:style-name="Standard">Rare allergic reactions まれなアレルギー反応: Stevens-Johnson syndrome, anaphylaxis, and cutaneous toxicity reported in isolated cases スティーブンス・ジョンソン症候群、アナフィラキシー、および皮膚毒性は、ごくまれに報告されている</text:p>
-   <text:h text:style-name="P12" text:outline-level="2">Current Limitations and Research Gaps </text:h>
+    </draw:frame><text:s/>Contraindications and Cautions 禁忌事項および注意事項</text:h>
+   <text:p text:style-name="P29">Pregnancy and breastfeeding 妊娠と授乳: </text:p>
+   <text:p text:style-name="P29"><text:span text:style-name="T21"><text:tab/>A</text:span>void use due to uterine stimulation and antifertility effects </text:p>
+   <text:p text:style-name="P29"><text:tab/>子宮刺激作用および避妊効果があるため、使用は避けてください</text:p>
+   <text:p text:style-name="P29">Drug interactions 薬物相互作用: </text:p>
+   <text:p text:style-name="P29"><text:tab/>May affect CYP3A4 metabolism and interact with diabetes medications </text:p>
+   <text:p text:style-name="P29"><text:tab/>CYP3A4代謝に影響を与える可能性があり、糖尿病治療薬と相互作用する可能性がある</text:p>
+   <text:p text:style-name="P29">Rare allergic reactions まれなアレルギー反応: </text:p>
+   <text:p text:style-name="P29"><text:tab/>Stevens-Johnson syndrome, anaphylaxis, and cutaneous toxicity reported in isolated cases </text:p>
+   <text:p text:style-name="P29"><text:tab/>スティーブンス・ジョンソン症候群、アナフィラキシー、および皮膚毒性は、ごくまれに報告されている</text:p>
+   <text:h text:style-name="P12" text:outline-level="2"><text:soft-page-break/>Current Limitations and Research Gaps </text:h>
    <text:h text:style-name="P12" text:outline-level="2">現在の限界と研究上の課題</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Evidence Quality 証拠の質</text:h>
-   <text:p text:style-name="P27">Primarily preclinical 主に前臨床段階: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Most evidence comes from in vitro and animal studies </text:p>
-   <text:p text:style-name="P27"><text:tab/>ほとんどの証拠は、体外実験や動物実験から得られたものである</text:p>
-   <text:p text:style-name="P27">Limited human trials 限定的な人体臨床試験: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Lack of large-scale randomized controlled trials </text:p>
-   <text:p text:style-name="P27"><text:tab/>大規模なランダム化比較試験の不足</text:p>
-   <text:p text:style-name="P27">Standardization issues 標準化に関する問題: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Variable extraction methods and compound concentrations </text:p>
-   <text:p text:style-name="P27"><text:tab/>様々な抽出方法と化合物の濃度</text:p>
-   <text:p text:style-name="P27">Dose optimization 投与量の最適化: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Therapeutic dosages not yet established </text:p>
-   <text:p text:style-name="P27"><text:tab/>治療用量はまだ確立されていません</text:p>
+   <text:p text:style-name="P25">Primarily preclinical 主に前臨床段階: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Most evidence comes from in vitro and animal studies </text:p>
+   <text:p text:style-name="P25"><text:tab/>ほとんどの証拠は、体外実験や動物実験から得られたものである</text:p>
+   <text:p text:style-name="P25">Limited human trials 限定的な人体臨床試験: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Lack of large-scale randomized controlled trials </text:p>
+   <text:p text:style-name="P25"><text:tab/>大規模なランダム化比較試験の不足</text:p>
+   <text:p text:style-name="P25">Standardization issues 標準化に関する問題: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Variable extraction methods and compound concentrations </text:p>
+   <text:p text:style-name="P25"><text:tab/>様々な抽出方法と化合物の濃度</text:p>
+   <text:p text:style-name="P25">Dose optimization 投与量の最適化: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Therapeutic dosages not yet established </text:p>
+   <text:p text:style-name="P25"><text:tab/>治療用量はまだ確立されていません</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Technical Challenges 技術的な課題</text:h>
-   <text:p text:style-name="P27">Bioavailability 生物学的利用能: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Absorption and metabolism of active compounds need better understanding </text:p>
-   <text:p text:style-name="P27"><text:tab/>有効成分の吸収と代謝については、より詳細な理解が必要である</text:p>
-   <text:p text:style-name="P27">Stability 安定性: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Some compounds degrade rapidly </text:p>
+   <text:p text:style-name="P25">Bioavailability 生物学的利用能: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Absorption and metabolism of active compounds need better understanding </text:p>
+   <text:p text:style-name="P25"><text:tab/>有効成分の吸収と代謝については、より詳細な理解が必要である</text:p>
+   <text:p text:style-name="P25">Stability 安定性: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Some compounds degrade rapidly </text:p>
    <text:p text:style-name="Standard"><text:tab/>一部の化合物は急速に分解する</text:p>
-   <text:p text:style-name="P27">Delivery systems 配送システム: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Optimal delivery methods for clinical use require development </text:p>
-   <text:p text:style-name="P27"><text:tab/>臨床使用に最適な投与方法の開発が必要である</text:p>
+   <text:p text:style-name="P25">Delivery systems 配送システム: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Optimal delivery methods for clinical use require development </text:p>
+   <text:p text:style-name="P25"><text:tab/>臨床使用に最適な投与方法の開発が必要である</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Future Research Directions 今後の研究方向</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Clinical Validation 臨床検証</text:h>
-   <text:p text:style-name="P27">Randomized controlled trials ランダム化比較試験: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Well-designed human studies are urgently needed </text:p>
-   <text:p text:style-name="P27"><text:tab/>適切に設計されたヒトを対象とした研究が喫緊に必要とされている</text:p>
-   <text:p text:style-name="P27">Cancer-specific studies がん特異的な研究: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Research focused on particular cancer types </text:p>
-   <text:p text:style-name="P27"><text:soft-page-break/><text:tab/>特定の癌の種類に焦点を当てた研究</text:p>
-   <text:p text:style-name="P27">Combination therapy 併用療法: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Studies integrating <text:span text:style-name="T6">Moringa</text:span> with conventional treatments </text:p>
-   <text:p text:style-name="P27"><text:span text:style-name="T6"><text:tab/>モリンガ</text:span>と従来の治療法を組み合わせた研究</text:p>
+   <text:p text:style-name="P25">Randomized controlled trials ランダム化比較試験: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Well-designed human studies are urgently needed </text:p>
+   <text:p text:style-name="P25"><text:tab/>適切に設計されたヒトを対象とした研究が喫緊に必要とされている</text:p>
+   <text:p text:style-name="P25">Cancer-specific studies がん特異的な研究: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Research focused on particular cancer types </text:p>
+   <text:p text:style-name="P25"><text:tab/>特定の癌の種類に焦点を当てた研究</text:p>
+   <text:p text:style-name="P25">Combination therapy 併用療法: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Studies integrating <text:span text:style-name="T6">Moringa</text:span> with conventional treatments </text:p>
+   <text:p text:style-name="P25"><text:span text:style-name="T6"><text:tab/>モリンガ</text:span>と従来の治療法を組み合わせた研究</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Standardization 標準化</text:h>
-   <text:p text:style-name="P27">Extract standardization 抽出物の標準化: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Development of standardized preparations with defined phytochemical profiles </text:p>
-   <text:p text:style-name="P27"><text:tab/>明確な植物化学成分プロファイルを持つ標準化製剤の開発</text:p>
-   <text:p text:style-name="P27">Quality control 品質管理: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Consistent manufacturing processes </text:p>
-   <text:p text:style-name="P27"><text:tab/>一貫性のある製造プロセス</text:p>
-   <text:p text:style-name="P27">Dosage optimization 投与量の最適化: </text:p>
-   <text:p text:style-name="P27"><text:tab/>Determination of therapeutic ranges </text:p>
-   <text:p text:style-name="P27"><text:tab/>治療範囲の決定</text:p>
+   <text:p text:style-name="P25">Extract standardization 抽出物の標準化: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Development of standardized preparations with defined phytochemical profiles </text:p>
+   <text:p text:style-name="P25"><text:tab/>明確な植物化学成分プロファイルを持つ標準化製剤の開発</text:p>
+   <text:p text:style-name="P25"><text:soft-page-break/>Quality control 品質管理: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Consistent manufacturing processes </text:p>
+   <text:p text:style-name="P25"><text:tab/>一貫性のある製造プロセス</text:p>
+   <text:p text:style-name="P25">Dosage optimization 投与量の最適化: </text:p>
+   <text:p text:style-name="P25"><text:tab/>Determination of therapeutic ranges </text:p>
+   <text:p text:style-name="P25"><text:tab/>治療範囲の決定</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Mechanistic Understanding 機構的理解</text:h>
-   <text:p text:style-name="P28">Omics technologies オミクス技術: </text:p>
-   <text:p text:style-name="P28"><text:tab/>Genomics, proteomics for deeper mechanism insights </text:p>
-   <text:p text:style-name="P28"><text:tab/>ゲノミクス、プロテオミクスによるメカニズムのより深い洞察</text:p>
-   <text:p text:style-name="P28">Synergistic effects 相乗効果: </text:p>
-   <text:p text:style-name="P28"><text:tab/>How multiple compounds work together</text:p>
-   <text:p text:style-name="P28"><text:tab/>複数の化合物がどのように連携して機能するか</text:p>
-   <text:p text:style-name="P28">Target identification ターゲット特定: </text:p>
-   <text:p text:style-name="P28"><text:tab/>Specific molecular targets for different cancer types</text:p>
-   <text:p text:style-name="P28"><text:tab/>様々な種類のがんに対する特異的な分子標的</text:p>
+   <text:p text:style-name="P26">Omics technologies オミクス技術: </text:p>
+   <text:p text:style-name="P26"><text:tab/>Genomics, proteomics for deeper mechanism insights </text:p>
+   <text:p text:style-name="P26"><text:tab/>ゲノミクス、プロテオミクスによるメカニズムのより深い洞察</text:p>
+   <text:p text:style-name="P26">Synergistic effects 相乗効果: </text:p>
+   <text:p text:style-name="P26"><text:tab/>How multiple compounds work together</text:p>
+   <text:p text:style-name="P26"><text:tab/>複数の化合物がどのように連携して機能するか</text:p>
+   <text:p text:style-name="P26">Target identification ターゲット特定: </text:p>
+   <text:p text:style-name="P26"><text:tab/>Specific molecular targets for different cancer types</text:p>
+   <text:p text:style-name="P26"><text:tab/>様々な種類のがんに対する特異的な分子標的</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Practical Considerations 実務上の考慮事項</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Forms of Consumption 消費形態</text:h>
-   <text:p text:style-name="Standard">Leaf powder: Most commonly available form</text:p>
-   <text:p text:style-name="Standard">Capsules and tablets: Standardized supplement forms</text:p>
-   <text:p text:style-name="Standard">Teas and infusions: Traditional preparation methods</text:p>
-   <text:p text:style-name="Standard">Extracts: Concentrated forms for therapeutic use</text:p>
+   <text:p text:style-name="Standard">Leaf powder 葉っぱの粉: Most commonly available form 最も一般的に入手可能な形態</text:p>
+   <text:p text:style-name="Standard">Capsules and tablets カプセル剤と錠剤: Standardized supplement forms カプセル剤と錠剤</text:p>
+   <text:p text:style-name="Standard">Teas and infusions お茶とハーブティー: Traditional preparation methods 伝統的な調理方法</text:p>
+   <text:p text:style-name="Standard">Extracts 抽出物: Concentrated forms for therapeutic use 治療用途のための濃縮製剤</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Integration with Cancer Care がん治療との統合</text:h>
-   <text:p text:style-name="Standard">Adjunct therapy: Potential role alongside conventional treatments</text:p>
-   <text:p text:style-name="Standard">Chemoprevention: Use in high-risk populations</text:p>
-   <text:p text:style-name="Standard">Supportive care: Nutritional support during cancer treatment</text:p>
-   <text:p text:style-name="Standard">Quality of life: May improve nutritional status in cancer patients</text:p>
-   <text:h text:style-name="P2" text:outline-level="2">Conclusion</text:h>
-   <text:p text:style-name="Standard">Moringa oleifera represents a promising natural source of anti-cancer compounds with multiple mechanisms of action, excellent safety profile, and broad-spectrum activity against various cancer types. The extensive preclinical evidence supports its potential role in cancer prevention and treatment.</text:p>
+   <text:p text:style-name="P26">Adjunct therapy 補助療法: </text:p>
+   <text:p text:style-name="P26"><text:tab/>Potential role alongside conventional treatments </text:p>
+   <text:p text:style-name="P26"><text:tab/>従来の治療法と並行して果たす可能性のある役割</text:p>
+   <text:p text:style-name="P26">Quality of life 生活の質: </text:p>
+   <text:p text:style-name="P26"><text:tab/>May improve nutritional status in cancer patients </text:p>
+   <text:p text:style-name="P26"><text:tab/>がん患者の栄養状態を改善する可能性がある</text:p>
+   <text:p text:style-name="P26">Chemoprevention 化学予防: Use in high-risk populations ハイリスク集団における使用</text:p>
+   <text:p text:style-name="P26">Supportive care 支持療法: Nutritional support during cancer treatment がん治療中の栄養サポート</text:p>
+   <text:p text:style-name="P26"/>
+   <text:p text:style-name="P27"/>
+   <text:h text:style-name="P2" text:outline-level="2">Conclusion 結論</text:h>
+   <text:p text:style-name="Standard"><text:span text:style-name="T6">Moringa oleifera</text:span> represents a promising natural source of anti-cancer compounds with multiple mechanisms of action, excellent safety profile, and broad-spectrum activity against various cancer types. The extensive preclinical evidence supports its potential role in cancer prevention and treatment.</text:p>
+   <text:p text:style-name="Standard">モリンガ・オレイフェラは、複数の作用機序、優れた安全性プロファイル、そして様々な種類のがんに対する幅広い活性を持つ、有望な天然由来の抗がん化合物源である。広範な前臨床試験の結果は、がんの予防と治療におけるその可能性を裏付けている。</text:p>
    <text:p text:style-name="Standard"/>
    <text:p text:style-name="Standard">However, the transition from preclinical promise to clinical application requires:</text:p>
    <text:list text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P23"><text:soft-page-break/>Rigorous human clinical trials</text:p>
+     <text:p text:style-name="P21">Rigorous human clinical trials</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P23">Standardized preparation methods</text:p>
+     <text:p text:style-name="P21">Standardized preparation methods</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P23">Optimal dosage determination</text:p>
+     <text:p text:style-name="P21">Optimal dosage determination</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Integration strategies with conventional cancer therapies</text:p>
+     <text:p text:style-name="P22">Integration strategies with conventional cancer therapies</text:p>
     </text:list-item>
    </text:list>
+   <text:p text:style-name="P9">しかし、前臨床段階での有望な結果を臨床応用につなげるには、以下の要素が必要となる。</text:p>
+   <text:p text:style-name="P9"><text:tab/>1. 厳密なヒト臨床試験</text:p>
+   <text:p text:style-name="P9"><text:tab/>2. 標準化された製剤方法</text:p>
+   <text:p text:style-name="P9"><text:tab/>3. 最適な投与量の決定</text:p>
+   <text:p text:style-name="P9"><text:tab/>4. 従来の癌治療法との併用戦略</text:p>
    <text:p text:style-name="P9"/>
-   <text:p text:style-name="P9"><text:span text:style-name="T16">T</text:span>he plant&apos;s multi-targeted approach, low toxicity, and nutritional benefits make it an attractive candidate for integrative oncology, but healthcare providers should await stronger clinical evidence before recommending it as a primary cancer treatment.</text:p>
+   <text:p text:style-name="P26"><text:span text:style-name="T16">T</text:span>he plant&apos;s multi-targeted approach, low toxicity, and nutritional benefits make it an attractive candidate for integrative oncology, but healthcare providers should await stronger clinical evidence before recommending it as a primary cancer treatment. </text:p>
+   <text:p text:style-name="P26">この植物の多標的アプローチ、低い毒性、そして栄養上の利点は、統合腫瘍学において魅力的な選択肢となる可能性を示していますが、医療従事者は主要ながん治療法として推奨する前に、より強力な臨床的証拠を待つべきです。</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="Standard"><text:span text:style-name="T19">Disclaimer</text:span>: This summary is based on current research and should not be considered medical advice. Patients should consult with their healthcare providers before using <text:span text:style-name="T6">Moringa</text:span> supplements, especially during cancer treatment.</text:p>
+   <text:p text:style-name="P29"><draw:custom-shape text:anchor-type="paragraph" draw:z-index="1" draw:name="Shape 2" draw:style-name="gr1" draw:text-style-name="P30" svg:width="0.1488in" svg:height="0.1587in" svg:x="0in" svg:y="0in">
+     <text:p/>
+     <draw:enhanced-geometry svg:viewBox="0 0 21600 21600" draw:glue-points="10800 0 3163 3163 0 10800 3163 18437 10800 21600 18437 18437 21600 10800 18437 3163" draw:text-areas="3163 3163 18437 18437" draw:type="ellipse" draw:enhanced-path="U 10800 10800 10800 10800 0 360 Z N"/>
+    </draw:custom-shape><text:span text:style-name="T19">Disclaimer 免責事項</text:span>: This summary is based on current research and should not be considered medical advice. Patients should consult with their healthcare providers before using <text:span text:style-name="T6">Moringa</text:span> supplements, especially during cancer treatment. この要約は最新の研究に基づいたものであり、医学的なアドバイスとして解釈されるべきではありません。特にがん治療を受けている患者は、モリンガサプリメントを使用する前に必ず医療専門家にご相談ください。</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P7">Revised December 1<text:span text:style-name="T16">7</text:span>, 2025</text:p>
+   <text:p text:style-name="P7">Revised December <text:span text:style-name="T22">23</text:span>, 2025</text:p>
   </office:text>
  </office:body>
 </office:document>
