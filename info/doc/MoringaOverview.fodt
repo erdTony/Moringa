@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
- <office:meta><meta:creation-date>2025-11-12T18:47:13.224636675</meta:creation-date><dc:date>2025-12-17T14:16:22.712141958</dc:date><meta:editing-duration>PT19H58M40S</meta:editing-duration><meta:editing-cycles>19</meta:editing-cycles><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:print-date>2025-12-09T21:33:25.901434946</meta:print-date><meta:printed-by>PDF files</meta:printed-by><meta:document-statistic meta:table-count="1" meta:image-count="7" meta:object-count="0" meta:page-count="13" meta:paragraph-count="197" meta:word-count="3253" meta:character-count="21462" meta:non-whitespace-character-count="18484"/></office:meta>
+ <office:meta><meta:creation-date>2025-11-12T18:47:13.224636675</meta:creation-date><dc:date>2026-01-18T00:35:26.426908187</dc:date><meta:editing-duration>P1DT7H33M1S</meta:editing-duration><meta:editing-cycles>20</meta:editing-cycles><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:print-date>2025-12-09T21:33:25.901434946</meta:print-date><meta:printed-by>PDF files</meta:printed-by><meta:document-statistic meta:table-count="1" meta:image-count="7" meta:object-count="0" meta:page-count="13" meta:paragraph-count="197" meta:word-count="3253" meta:character-count="21464" meta:non-whitespace-character-count="18486"/></office:meta>
  <office:settings>
   <config:config-item-set config:name="ooo:view-settings">
-   <config:config-item config:name="ViewAreaTop" config:type="long">93</config:config-item>
+   <config:config-item config:name="ViewAreaTop" config:type="long">86596</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">22610</config:config-item>
-   <config:config-item config:name="ViewAreaHeight" config:type="long">11448</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">22622</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">9643</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">4533</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">2258</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">1785</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">99418</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleTop" config:type="long">93</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">22608</config:config-item>
-     <config:config-item config:name="VisibleBottom" config:type="long">11539</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">86596</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">22620</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">96238</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
      <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
-     <config:config-item config:name="ZoomFactor" config:type="short">178</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">222</config:config-item>
      <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
      <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
      <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
@@ -123,7 +123,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ywH+/0czMDAwLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpHMzAwMC1zZXJpZXMAAAAAAAAAAAAAAAAAAAAWAAMArAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9RzMwMDAtc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6QTQASW5wdXRTbG90OlJlYXIAABIAQ09NUEFUX0RVUExFWF9NT0RFEwBEdXBsZXhNb2RlOjpVbmtub3duDABQUklOVEVSX05BTUUMAEczMDAwLXNlcmllcwsARFJJVkVSX05BTUURAENVUFM6RzMwMDAtc2VyaWVz</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ywH+/0czMDAwLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpHMzAwMC1zZXJpZXMAAAAAAAAAAAAAAAAAAAAWAAMArAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9RzMwMDAtc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKSW5wdXRTbG90OlJlYXIAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFEwBEdXBsZXhNb2RlOjpVbmtub3duDABQUklOVEVSX05BTUUMAEczMDAwLXNlcmllcwsARFJJVkVSX05BTUURAENVUFM6RzMwMDAtc2VyaWVz</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -147,7 +147,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">3595638</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">3663291</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -173,13 +173,12 @@
   <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
   <style:font-face style:name="Noto Serif Display" svg:font-family="&apos;Noto Serif Display&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
   <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
-  <style:font-face style:name="Roboto Flex" svg:font-family="&apos;Roboto Flex&apos;, sans-serif"/>
   <style:font-face style:name="URW Bookman" svg:font-family="&apos;URW Bookman&apos;" style:font-pitch="variable"/>
  </office:font-face-decls>
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif1" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -636,170 +635,176 @@
    <style:text-properties officeooo:rsid="00213627" officeooo:paragraph-rsid="00213627"/>
   </style:style>
   <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="002299a1" officeooo:paragraph-rsid="002299a1"/>
+   <style:text-properties officeooo:rsid="00213627" officeooo:paragraph-rsid="003322ef"/>
   </style:style>
   <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002299a1" officeooo:paragraph-rsid="002299a1"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="00245f38"/>
   </style:style>
-  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="00245f38"/>
-  </style:style>
-  <style:style style:name="P94" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00260a1a" officeooo:paragraph-rsid="00260a1a"/>
   </style:style>
   <style:style style:name="P95" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00260a1a" officeooo:paragraph-rsid="00283389"/>
+   <style:text-properties officeooo:rsid="00260a1a" officeooo:paragraph-rsid="00260a1a"/>
   </style:style>
   <style:style style:name="P96" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="00245f38" officeooo:paragraph-rsid="00245f38" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+   <style:text-properties officeooo:rsid="00260a1a" officeooo:paragraph-rsid="00283389"/>
   </style:style>
   <style:style style:name="P97" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00245f38" officeooo:paragraph-rsid="00245f38" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties fo:font-weight="bold" officeooo:rsid="002d13bf" officeooo:paragraph-rsid="002d13bf" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P98" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="00280c46" officeooo:paragraph-rsid="00280c46"/>
   </style:style>
-  <style:style style:name="P99" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="00280c46" officeooo:paragraph-rsid="00280c46"/>
   </style:style>
-  <style:style style:name="P100" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:paragraph-rsid="00280c46"/>
   </style:style>
-  <style:style style:name="P101" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="00297644" officeooo:paragraph-rsid="00297644"/>
   </style:style>
-  <style:style style:name="P102" style:family="paragraph" style:parent-style-name="Title">
+  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00297644" officeooo:paragraph-rsid="003322ef"/>
+  </style:style>
+  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Title">
    <style:text-properties fo:font-size="32pt" officeooo:paragraph-rsid="00213627" style:font-size-asian="32pt" style:font-size-complex="32pt"/>
   </style:style>
-  <style:style style:name="P103" style:family="paragraph" style:parent-style-name="Title">
+  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Title">
    <style:text-properties fo:font-size="32pt" fo:font-weight="normal" officeooo:paragraph-rsid="00213627" style:font-size-asian="32pt" style:font-weight-asian="normal" style:font-size-complex="32pt" style:font-weight-complex="normal"/>
   </style:style>
-  <style:style style:name="P104" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:paragraph-rsid="002b1dfe"/>
-  </style:style>
-  <style:style style:name="P105" style:family="paragraph" style:parent-style-name="Title">
-   <style:text-properties officeooo:paragraph-rsid="002b1dfe"/>
-  </style:style>
   <style:style style:name="P106" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="002b1dfe"/>
+  </style:style>
+  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties officeooo:paragraph-rsid="002b1dfe"/>
+  </style:style>
+  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="001fc252"/>
   </style:style>
-  <style:style style:name="P107" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="002b1dfe" officeooo:paragraph-rsid="002b1dfe"/>
-  </style:style>
-  <style:style style:name="P108" style:family="paragraph" style:parent-style-name="Title">
-   <style:text-properties officeooo:rsid="002b1dfe" officeooo:paragraph-rsid="002b1dfe"/>
-  </style:style>
   <style:style style:name="P109" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002b1dfe" officeooo:paragraph-rsid="002b1dfe"/>
+  </style:style>
+  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties officeooo:rsid="002b1dfe" officeooo:paragraph-rsid="002b1dfe"/>
+  </style:style>
+  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:rsid="002b1dfe" officeooo:paragraph-rsid="002b3c5f"/>
   </style:style>
-  <style:style style:name="P110" style:family="paragraph" style:parent-style-name="Heading_20_1">
+  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Heading_20_1">
    <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
   </style:style>
-  <style:style style:name="P111" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
-  </style:style>
-  <style:style style:name="P112" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
-  </style:style>
-  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Title">
+  <style:style style:name="P113" style:family="paragraph" style:parent-style-name="Heading_20_2">
    <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
   </style:style>
   <style:style style:name="P114" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
+  </style:style>
+  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Title">
+   <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
+  </style:style>
+  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="002d13bf"/>
   </style:style>
-  <style:style style:name="P115" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="002cea64"/>
   </style:style>
-  <style:style style:name="P116" style:family="paragraph" style:parent-style-name="Footnote">
+  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Footnote">
    <style:text-properties officeooo:paragraph-rsid="0033a73b"/>
   </style:style>
-  <style:style style:name="P117" style:family="paragraph" style:parent-style-name="Heading_20_1">
-   <style:text-properties officeooo:rsid="00128650" officeooo:paragraph-rsid="001fc252"/>
+  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0033a73b" officeooo:paragraph-rsid="0033a73b"/>
   </style:style>
-  <style:style style:name="P118" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="First_20_Page">
+  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0033f0d2" officeooo:paragraph-rsid="0033f0d2"/>
+  </style:style>
+  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0035432b" officeooo:paragraph-rsid="0035432b"/>
+  </style:style>
+  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="First_20_Page">
    <style:paragraph-properties style:page-number="1"/>
    <style:text-properties officeooo:rsid="000deac5" officeooo:paragraph-rsid="000deac5"/>
   </style:style>
-  <style:style style:name="P119" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="002b1dfe" officeooo:paragraph-rsid="002b3c5f"/>
+  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties officeooo:rsid="00128650" officeooo:paragraph-rsid="001fc252"/>
   </style:style>
-  <style:style style:name="P120" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
-   <style:text-properties officeooo:rsid="002b1dfe" officeooo:paragraph-rsid="002b1dfe"/>
-  </style:style>
-  <style:style style:name="P121" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:paragraph-rsid="002cea64"/>
-  </style:style>
-  <style:style style:name="P122" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
-   <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
-  </style:style>
-  <style:style style:name="P123" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
-   <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
-  </style:style>
-  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-   <style:text-properties officeooo:paragraph-rsid="00213627"/>
-  </style:style>
-  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
-   <style:text-properties officeooo:rsid="001a3941" officeooo:paragraph-rsid="00213627"/>
-  </style:style>
-  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties officeooo:paragraph-rsid="00245f38"/>
-  </style:style>
-  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties officeooo:paragraph-rsid="002d13bf"/>
-  </style:style>
-  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="00245f38" officeooo:paragraph-rsid="00245f38" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties fo:font-weight="bold" officeooo:rsid="002d13bf" officeooo:paragraph-rsid="002d13bf" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
-  </style:style>
-  <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties officeooo:rsid="00245f38" officeooo:paragraph-rsid="00245f38"/>
-  </style:style>
-  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties officeooo:rsid="00260a1a" officeooo:paragraph-rsid="00260a1a"/>
-  </style:style>
-  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
-   <style:text-properties officeooo:rsid="00260a1a" officeooo:paragraph-rsid="00283389"/>
-  </style:style>
-  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
-   <style:text-properties officeooo:paragraph-rsid="002cea64"/>
-  </style:style>
-  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
-   <style:text-properties officeooo:rsid="00128650" officeooo:paragraph-rsid="001760de"/>
-  </style:style>
-  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
-   <style:text-properties officeooo:rsid="00280c46" officeooo:paragraph-rsid="00280c46"/>
-  </style:style>
-  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
-   <style:text-properties officeooo:rsid="00297644" officeooo:paragraph-rsid="00297644"/>
-  </style:style>
-  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
-   <style:text-properties officeooo:rsid="00297644" officeooo:paragraph-rsid="003322ef"/>
-  </style:style>
-  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
-   <style:text-properties officeooo:paragraph-rsid="001bbb8e"/>
-  </style:style>
-  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
-   <style:text-properties officeooo:paragraph-rsid="00213627"/>
-  </style:style>
-  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
-   <style:text-properties officeooo:rsid="00213627" officeooo:paragraph-rsid="003322ef"/>
-  </style:style>
-  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="00131735" officeooo:paragraph-rsid="00128650"/>
-  </style:style>
-  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Text_20_body">
-   <style:text-properties officeooo:rsid="0033a73b" officeooo:paragraph-rsid="0033a73b"/>
-  </style:style>
-  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10">
-   <style:text-properties officeooo:rsid="0033a73b" officeooo:paragraph-rsid="0033a73b"/>
-  </style:style>
-  <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10">
+  <style:style style:name="P124" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="0033f0d2" officeooo:paragraph-rsid="0033f0d2"/>
   </style:style>
-  <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L10">
+  <style:style style:name="P125" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="0033a73b" officeooo:paragraph-rsid="0033a73b"/>
+  </style:style>
+  <style:style style:name="P126" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
    <style:text-properties officeooo:rsid="0035432b" officeooo:paragraph-rsid="0035432b"/>
+  </style:style>
+  <style:style style:name="P127" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="002b1dfe" officeooo:paragraph-rsid="002b3c5f"/>
+  </style:style>
+  <style:style style:name="P128" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties officeooo:rsid="002b1dfe" officeooo:paragraph-rsid="002b1dfe"/>
+  </style:style>
+  <style:style style:name="P129" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
+  </style:style>
+  <style:style style:name="P130" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+   <style:text-properties officeooo:rsid="002cea64" officeooo:paragraph-rsid="002cea64"/>
+  </style:style>
+  <style:style style:name="P131" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties officeooo:paragraph-rsid="00213627"/>
+  </style:style>
+  <style:style style:name="P132" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties officeooo:rsid="001a3941" officeooo:paragraph-rsid="00213627"/>
+  </style:style>
+  <style:style style:name="P133" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties officeooo:paragraph-rsid="00245f38"/>
+  </style:style>
+  <style:style style:name="P134" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties officeooo:paragraph-rsid="002d13bf"/>
+  </style:style>
+  <style:style style:name="P135" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="00245f38" officeooo:paragraph-rsid="00245f38" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P136" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties fo:font-weight="bold" officeooo:rsid="002d13bf" officeooo:paragraph-rsid="002d13bf" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P137" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties officeooo:rsid="00245f38" officeooo:paragraph-rsid="00245f38"/>
+  </style:style>
+  <style:style style:name="P138" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties officeooo:rsid="00260a1a" officeooo:paragraph-rsid="00260a1a"/>
+  </style:style>
+  <style:style style:name="P139" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L5">
+   <style:text-properties officeooo:rsid="00260a1a" officeooo:paragraph-rsid="00283389"/>
+  </style:style>
+  <style:style style:name="P140" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L6">
+   <style:text-properties officeooo:paragraph-rsid="002cea64"/>
+  </style:style>
+  <style:style style:name="P141" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="00128650" officeooo:paragraph-rsid="001760de"/>
+  </style:style>
+  <style:style style:name="P142" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="00280c46" officeooo:paragraph-rsid="00280c46"/>
+  </style:style>
+  <style:style style:name="P143" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L7">
+   <style:text-properties officeooo:rsid="00297644" officeooo:paragraph-rsid="00297644"/>
+  </style:style>
+  <style:style style:name="P144" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+   <style:text-properties officeooo:rsid="00297644" officeooo:paragraph-rsid="003322ef"/>
+  </style:style>
+  <style:style style:name="P145" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+   <style:text-properties officeooo:paragraph-rsid="001bbb8e"/>
+  </style:style>
+  <style:style style:name="P146" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+   <style:text-properties officeooo:paragraph-rsid="00213627"/>
+  </style:style>
+  <style:style style:name="P147" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L8">
+   <style:text-properties officeooo:rsid="00213627" officeooo:paragraph-rsid="003322ef"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
@@ -989,6 +994,9 @@
   </style:style>
   <style:style style:name="T63" style:family="text">
    <style:text-properties officeooo:rsid="0035432b"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
+   <style:text-properties officeooo:rsid="0037c5b4"/>
   </style:style>
   <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
    <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0in" fo:border="none"/>
@@ -1373,70 +1381,6 @@
    </text:list-level-style-bullet>
   </text:list-style>
   <text:list-style style:name="L8">
-   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-number>
-   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." style:num-format="1">
-    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-number>
-  </text:list-style>
-  <text:list-style style:name="L9">
-   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%." style:num-suffix="." text:bullet-char="">
-    <style:list-level-properties/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%." style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="0.7882in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%." style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="1.2807in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%." style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="1.7728in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%." style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="2.2654in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%." style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="2.7579in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%." style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="3.25in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%." style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="3.7425in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%." style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="4.2346in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%." style:num-suffix="." text:bullet-char="•">
-    <style:list-level-properties text:space-before="4.7272in" text:min-label-width="0.1965in"/>
-   </text:list-level-style-bullet>
-  </text:list-style>
-  <text:list-style style:name="L10">
    <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
     <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
      <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
@@ -1520,7 +1464,7 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P118"/>
+   <text:p text:style-name="P122"/>
    <table:table table:name="Table1" table:style-name="Table1">
     <table:table-column table:style-name="Table1.A"/>
     <table:table-row>
@@ -1530,7 +1474,7 @@
     </table:table-row>
     <table:table-row table:style-name="Table1.2">
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P102"><draw:frame draw:style-name="fr6" draw:name="Image7" text:anchor-type="char" svg:width="3.7008in" svg:height="3.6252in" draw:z-index="6"><draw:image draw:mime-type="image/jpeg">
+      <text:p text:style-name="P104"><draw:frame draw:style-name="fr6" draw:name="Image7" text:anchor-type="char" svg:width="3.7008in" svg:height="3.6252in" draw:z-index="6"><draw:image draw:mime-type="image/jpeg">
          <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA8KCw0LCQ8NDA0REA8RFiUYFhQUFi0gIhslNS84
           NzQvNDM7QlVIOz9QPzM0SmRLUFdaX2BfOUdob2dcblVdX1v/2wBDARARERYTFisYGCtbPTQ9
           W1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1tbW1v/wgAR
@@ -2950,7 +2894,7 @@
          </office:binary-data>
         </draw:image>
        </draw:frame><text:span text:style-name="T11">Moringa</text:span> </text:p>
-      <text:p text:style-name="P103">Overview <text:span text:style-name="T45">&amp; Market Analysis</text:span></text:p>
+      <text:p text:style-name="P105">Overview <text:span text:style-name="T45">&amp; Market Analysis</text:span></text:p>
       <text:p text:style-name="P10"/>
      </table:table-cell>
     </table:table-row>
@@ -2962,26 +2906,26 @@
       <text:p text:style-name="Table_20_Contents"/>
       <text:p text:style-name="Table_20_Contents"/>
       <text:p text:style-name="P4"><text:span text:style-name="T45">Author:</text:span> Tony Otto</text:p>
-      <text:p text:style-name="P4"><text:span text:style-name="T53">Sixth</text:span> Draft in Progress: <text:span text:style-name="T46">December</text:span> <text:span text:style-name="T52">1</text:span><text:span text:style-name="T53">5</text:span>, 2025</text:p>
+      <text:p text:style-name="P4"><text:span text:style-name="T64">Seventh</text:span> Draft in Progress: <text:span text:style-name="T64">January 17, 2026</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
    <text:p text:style-name="P3"/>
    <text:p text:style-name="P6">Introduction</text:p>
-   <text:p text:style-name="P142">According to Dr. Bill Messer<text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
-      <text:p text:style-name="P116"><text:span text:style-name="T61">See YouTube and TikTok: #HealthBossTV with 5</text:span><text:span text:style-name="T62">½</text:span><text:span text:style-name="T19">K subscribers</text:span><text:span text:style-name="T61"> &amp; #HealingArtsApothicary; </text:span><text:a xlink:type="simple" xlink:href="https://healingarts.me/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T61">Healing Arts</text:span></text:a>; <text:a xlink:type="simple" xlink:href="https://linkpop.com/healingarts-me/index.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T61">Links</text:span></text:a></text:p></text:note-body></text:note>, <text:span text:style-name="T6">Moringa </text:span>is the most <text:span text:style-name="T63">vitamin</text:span> <text:span text:style-name="T63">dense</text:span> <text:span text:style-name="T63">plamt</text:span> on Earth. Among its benefits:</text:p>
-   <text:list text:style-name="L10">
+   <text:p text:style-name="P119">According to Dr. Bill Messer<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
+      <text:p text:style-name="P118"><text:span text:style-name="T61">See YouTube and TikTok: #HealthBossTV with 5</text:span><text:span text:style-name="T62">½</text:span><text:span text:style-name="T19">K subscribers</text:span><text:span text:style-name="T61"> &amp; #HealingArtsApothicary; </text:span><text:a xlink:type="simple" xlink:href="https://healingarts.me/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T61">Healing Arts</text:span></text:a>; <text:a xlink:type="simple" xlink:href="https://linkpop.com/healingarts-me/index.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T61">Links</text:span></text:a></text:p></text:note-body></text:note>, <text:span text:style-name="T6">Moringa </text:span>is the most <text:span text:style-name="T63">vitamin</text:span> <text:span text:style-name="T63">dense</text:span> <text:span text:style-name="T63">plamt</text:span> on Earth. Among its benefits:</text:p>
+   <text:list text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P144">Used to feed starving children in Africa, see below.</text:p>
+     <text:p text:style-name="P124">Used to feed starving children in Africa, see below.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P143">Protects and nourishes skin and hair.</text:p>
+     <text:p text:style-name="P125">Protects and nourishes skin and hair.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P143">Treats Edema (swelling caused by excess fluid trapped in the body&apos;s tissues, commonly in the legs, feet, <text:span text:style-name="T63">a</text:span>nkles, or hands).</text:p>
+     <text:p text:style-name="P125">Treats Edema (swelling caused by excess fluid trapped in the body&apos;s tissues, commonly in the legs, feet, <text:span text:style-name="T63">a</text:span>nkles, or hands).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Protects the Liver.<draw:frame draw:style-name="fr5" draw:name="Image3" text:anchor-type="char" svg:x="5.2965in" svg:y="-0.0035in" svg:width="2.0866in" svg:height="2.7819in" draw:z-index="4"><draw:image draw:mime-type="image/jpeg">
+     <text:p text:style-name="P126">Protects the Liver.<draw:frame draw:style-name="fr5" draw:name="Image3" text:anchor-type="char" svg:x="5.2965in" svg:y="-0.0035in" svg:width="2.0866in" svg:height="2.7819in" draw:z-index="4"><draw:image draw:mime-type="image/jpeg">
         <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/4gxYSUNDX1BST0ZJTEUAAQEAAAxITGlubwIQAABtbnRy
          UkdCIFhZWiAHzgACAAkABgAxAABhY3NwTVNGVAAAAABJRUMgc1JHQgAAAAAAAAAAAAAAAAAA
          9tYAAQAAAADTLUhQICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -5048,42 +4992,42 @@
       </draw:frame></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Prevents and Treats Cancer.</text:p>
+     <text:p text:style-name="P126">Prevents and Treats Cancer.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Treats Intestinal Discomfort.</text:p>
+     <text:p text:style-name="P126">Treats Intestinal Discomfort.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Fights Bacterial Diseases.</text:p>
+     <text:p text:style-name="P126">Fights Bacterial Diseases.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Improves Bone Health.</text:p>
+     <text:p text:style-name="P126">Improves Bone Health.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Treats Mood Disoders.</text:p>
+     <text:p text:style-name="P126">Treats Mood Disoders.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Protects the Cardiovascular System.</text:p>
+     <text:p text:style-name="P126">Protects the Cardiovascular System.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Treats Diabetes by Lowering Blood Sugar Levels.</text:p>
+     <text:p text:style-name="P126">Treats Diabetes by Lowering Blood Sugar Levels.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Improves Asthma Symptoms.</text:p>
+     <text:p text:style-name="P126">Improves Asthma Symptoms.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P145">Gives Energy—don’t take at night.</text:p>
+     <text:p text:style-name="P126">Gives Energy—don’t take at night.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P7">Utilization of natural products of plant origin having fewer side effects has gained popularity over the years. There is immense scope for natural products that can intimate health benefits beyond traditional nutrients. <text:span text:style-name="T5">Moringa oleifera</text:span> is one such tree having tremendous nutritional and medicinal benefits. It is rich in macro- and micro-nutrients and other bio-active compounds which are important for normal functioning of the body and prevention of certain diseases. Leaves, flowers, seeds, and almost all parts of this tree are edible and have immense therapeutic properties including anti-diabetic, anti-cancer, anti-ulcer, anti-microbial, and anti-oxidant. Most of the recent studies suggested that Moringa should be used as a functional ingredient in food.</text:p>
-   <text:p text:style-name="P7"><text:span text:style-name="T5">Moringa</text:span> <text:span text:style-name="T5">oleifera</text:span> is a prominent source of nutrients and antioxidants. Like other vegetables such as spinach and fenugreek, <text:span text:style-name="T5">Moringa</text:span> leaves are not as popular all over the world, but currently, it is used as substitutes in soups, lentils, and other preparations in Southeast Asia. Still there is a knowledge gap in potential uses of <text:span text:style-name="T5">Moringa</text:span> as a food supplement and food fortification. <text:span text:style-name="T5">Moringa</text:span> has enormous potential uses but is very less explored. It can be utilized to make foods that could be a step towards curbing malnutrition. The published literature gives the total scenario of the chemical constituents, nutritional content, potential uses, and pharmacological activities of the plant. The identification, isolation, and standardization of plant extracts may be considered for detailed studies which can be useful for the further development of the promising food products with health benefits and nutrients to cure different life style-related diseases as well as malnutrition.<text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
+   <text:p text:style-name="P7"><text:span text:style-name="T5">Moringa</text:span> <text:span text:style-name="T5">oleifera</text:span> is a prominent source of nutrients and antioxidants. Like other vegetables such as spinach and fenugreek, <text:span text:style-name="T5">Moringa</text:span> leaves are not as popular all over the world, but currently, it is used as substitutes in soups, lentils, and other preparations in Southeast Asia. Still there is a knowledge gap in potential uses of <text:span text:style-name="T5">Moringa</text:span> as a food supplement and food fortification. <text:span text:style-name="T5">Moringa</text:span> has enormous potential uses but is very less explored. It can be utilized to make foods that could be a step towards curbing malnutrition. The published literature gives the total scenario of the chemical constituents, nutritional content, potential uses, and pharmacological activities of the plant. The identification, isolation, and standardization of plant extracts may be considered for detailed studies which can be useful for the further development of the promising food products with health benefits and nutrients to cure different life style-related diseases as well as malnutrition.<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
       <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8373516/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T14">US Government National Institutes of Health, National Library of Medicine</text:span></text:a></text:p></text:note-body></text:note></text:p>
-   <text:p text:style-name="P7"><text:soft-page-break/>Moringa oleifera (MO) has started to focus the attention of many researchers, especially in the last decade, due to its rich nutrient content and bioactive compounds that have numerous pharmaceutical potentials.<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
+   <text:p text:style-name="P7"><text:soft-page-break/>Moringa oleifera (MO) has started to focus the attention of many researchers, especially in the last decade, due to its rich nutrient content and bioactive compounds that have numerous pharmaceutical potentials.<text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
       <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://www.sciencedirect.com/science/article/pii/S1756464621002498" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T42">Science Direct, v84, 09/2021</text:span></text:a></text:p></text:note-body></text:note></text:p>
    <text:p text:style-name="P7"/>
    <text:p text:style-name="P8"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">US Market</text:h>
-   <text:p text:style-name="P66">US National Institutes of Health estimates <text:span text:style-name="T35">world</text:span> market for <text:span text:style-name="T5">Moringa</text:span> powder to be $10<text:span text:style-name="T32"> </text:span>Billion in 2025 with a growth rate of nearly 10% per year. Plus dietary supplements (food) at $4<text:span text:style-name="T32"> </text:span>Billion and 8%, oil and seed at $8<text:span text:style-name="T32"> </text:span>Billion and 8%, and tea at $9<text:span text:style-name="T32"> </text:span>Billion at 7<text:span text:style-name="T31">½%. </text:span><text:span text:style-name="T33">Approximately half of the world total to North America, primarily US with 30% to </text:span><text:span text:style-name="T34">Europe and 20% to Asia</text:span><text:span text:style-name="T33">.</text:span><text:span text:style-name="T31"><text:note text:id="ftn3" text:note-class="footnote"><text:note-citation>4</text:note-citation><text:note-body>
+   <text:p text:style-name="P66">US National Institutes of Health estimates <text:span text:style-name="T35">world</text:span> market for <text:span text:style-name="T5">Moringa</text:span> powder to be $10<text:span text:style-name="T32"> </text:span>Billion in 2025 with a growth rate of nearly 10% per year. Plus dietary supplements (food) at $4<text:span text:style-name="T32"> </text:span>Billion and 8%, oil and seed at $8<text:span text:style-name="T32"> </text:span>Billion and 8%, and tea at $9<text:span text:style-name="T32"> </text:span>Billion at 7<text:span text:style-name="T31">½%. </text:span><text:span text:style-name="T33">Approximately half of the world total to North America, primarily US with 30% to </text:span><text:span text:style-name="T34">Europe and 20% to Asia</text:span><text:span text:style-name="T33">.</text:span><text:span text:style-name="T31"><text:note text:id="ftn4" text:note-class="footnote"><text:note-citation>4</text:note-citation><text:note-body>
        <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8373516/figure/fig1/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T35">NIH - Market Chart</text:span></text:a></text:p></text:note-body></text:note></text:span></text:p>
    <text:p text:style-name="P66"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="char" svg:width="7.5in" draw:z-index="0">
      <draw:text-box fo:min-height="2.7445in">
@@ -5473,12 +5417,12 @@
      </draw:text-box>
     </draw:frame><text:span text:style-name="T31"/></text:p>
    <text:p text:style-name="P66"><text:span text:style-name="T31"/></text:p>
-   <text:p text:style-name="P52"><text:span text:style-name="T22">Moringa has enormous potential uses but is very less explored.</text:span><text:note text:id="ftn4" text:note-class="footnote"><text:note-citation>5</text:note-citation><text:note-body>
+   <text:p text:style-name="P52"><text:span text:style-name="T22">Moringa has enormous potential uses but is very less explored.</text:span><text:note text:id="ftn5" text:note-class="footnote"><text:note-citation>5</text:note-citation><text:note-body>
       <text:p text:style-name="P13"><text:a xlink:type="simple" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8373516/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T21">US Government National Institutes of Health: Moringa - Market Trends</text:span></text:a></text:p></text:note-body></text:note></text:p>
    <text:h text:style-name="P40" text:outline-level="1">Trends</text:h>
-   <text:p text:style-name="P47">In recent times, people are aware about health-related issues, and they are very much interested in taking healthy and nutritious food. For instance, food which has a wide range of health benefits may prevent or cure various chronic diseases. This kind of extraordinary food is also termed as super food. It is a new field of research to identify such sources of healthy and nutritious foods. The global Moringa markets are expected to increase significantly within the near future. According to MRFR analysis report, the global Moringa product field is expected to reach 9.3% which is USD 7902.9 million by 2025. Moringa products such as oils, capsules, leaf powder, and soaps are extracted from different parts of the tree. In contrast to the global contribution, the Asia Pacific contributed the largest share of 35.30% of the Moringa product market in 2018. Australia, China, India, and New Zealand are key countries which are contributing in the growth. Asia Pacific is the largest producer of Moringa. The production in the region is mostly consumed locally due to the traditional use of Moringa in wellness, skincare, and hair care. The market in North America is expected to register a CAGR of 10.0% by 2025.<text:note text:id="ftn5" text:note-class="footnote"><text:note-citation>6</text:note-citation><text:note-body>
+   <text:p text:style-name="P47">In recent times, people are aware about health-related issues, and they are very much interested in taking healthy and nutritious food. For instance, food which has a wide range of health benefits may prevent or cure various chronic diseases. This kind of extraordinary food is also termed as super food. It is a new field of research to identify such sources of healthy and nutritious foods. The global Moringa markets are expected to increase significantly within the near future. According to MRFR analysis report, the global Moringa product field is expected to reach 9.3% which is USD 7902.9 million by 2025. Moringa products such as oils, capsules, leaf powder, and soaps are extracted from different parts of the tree. In contrast to the global contribution, the Asia Pacific contributed the largest share of 35.30% of the Moringa product market in 2018. Australia, China, India, and New Zealand are key countries which are contributing in the growth. Asia Pacific is the largest producer of Moringa. The production in the region is mostly consumed locally due to the traditional use of Moringa in wellness, skincare, and hair care. The market in North America is expected to register a CAGR of 10.0% by 2025.<text:note text:id="ftn6" text:note-class="footnote"><text:note-citation>6</text:note-citation><text:note-body>
       <text:p text:style-name="P14">Ibid.</text:p></text:note-body></text:note></text:p>
-   <text:p text:style-name="P106"/>
+   <text:p text:style-name="P108"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:soft-page-break/><text:span text:style-name="T50">F</text:span>ormulations</text:h>
    <text:p text:style-name="P26">Powder </text:p>
    <text:p text:style-name="P26">Fine Powder</text:p>
@@ -9350,67 +9294,67 @@
    <text:p text:style-name="P26">Stems</text:p>
    <text:p text:style-name="P26"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Logistics</text:h>
-   <text:list text:style-name="L1">
+   <text:list text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P119">?? hectare (?? acre) farm in Indonesia.<text:tab/></text:p>
+     <text:p text:style-name="P127">?? hectare (?? acre) farm in Indonesia.<text:tab/></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P119">(snap shots from video)</text:p>
+       <text:p text:style-name="P127">(snap shots from video)</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">Washing by Ozone Water before drying</text:p>
+     <text:p text:style-name="P128">Washing by Ozone Water before drying</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">Certification by USDA</text:p>
+     <text:p text:style-name="P128">Certification by USDA</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">Organic Certification (certificate photo)</text:p>
+     <text:p text:style-name="P128">Organic Certification (certificate photo)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">Export Specification (snap from PDF)</text:p>
+     <text:p text:style-name="P128">Export Specification (snap from PDF)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">Dealer sales units<text:tab/>Box Size, Weight</text:p>
+     <text:p text:style-name="P128">Dealer sales units<text:tab/>Box Size, Weight</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">Wholesaler shipping container <text:tab/></text:p>
+     <text:p text:style-name="P128">Wholesaler shipping container <text:tab/></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">Boxes per 40’ standard shipping container</text:p>
+     <text:p text:style-name="P128">Boxes per 40’ standard shipping container</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P120">No tariff on import to USA from Indonesia.1</text:p>
+     <text:p text:style-name="P128">No tariff on import to USA from Indonesia.1</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Nutrition</text:h>
-   <text:p text:style-name="P112"><text:span text:style-name="T5">Moringa</text:span> is exceptionally nutritious:</text:p>
-   <text:list text:style-name="L2">
+   <text:p text:style-name="P114"><text:span text:style-name="T5">Moringa</text:span> is exceptionally nutritious:</text:p>
+   <text:list text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P122">92 nutrients including vitamins, minerals, and amino acids</text:p>
+     <text:p text:style-name="P129">92 nutrients including vitamins, minerals, and amino acids</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P122">46 antioxidants</text:p>
+     <text:p text:style-name="P129">46 antioxidants</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P122">High protein content with all essential amino acids</text:p>
+     <text:p text:style-name="P129">High protein content with all essential amino acids</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P122">Rich in vitamins: A, C, E, and B-complex vitamins</text:p>
+     <text:p text:style-name="P129">Rich in vitamins: A, C, E, and B-complex vitamins</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P121"><text:span text:style-name="T53">Mineral-rich: Calcium, iron, magnesium, zinc, and potassium</text:span></text:p>
+     <text:p text:style-name="P129">Mineral-rich: Calcium, iron, magnesium, zinc, and potassium</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P122">Anti-inflammatory compounds: Isothiocyanates and flavonoids</text:p>
+     <text:p text:style-name="P129">Anti-inflammatory compounds: Isothiocyanates and flavonoids</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_1" text:outline-level="1"><text:soft-page-break/>Products</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="T45">Food </text:span>Recipes</text:h>
-   <text:list text:style-name="L3">
+   <text:list text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P124"><text:span text:style-name="T5">Moringa</text:span> Smoothie: banana or mango, <text:span text:style-name="T38">M</text:span><text:span text:style-name="T37">oringa</text:span> powder, <text:span text:style-name="T36">milk, h</text:span>oney<draw:frame draw:style-name="fr4" draw:name="Image8" text:anchor-type="char" svg:width="2.7154in" svg:height="2.7154in" draw:z-index="7"><draw:image draw:mime-type="image/jpeg">
+     <text:p text:style-name="P131"><text:span text:style-name="T5">Moringa</text:span> Smoothie: banana or mango, <text:span text:style-name="T38">M</text:span><text:span text:style-name="T37">oringa</text:span> powder, <text:span text:style-name="T36">milk, h</text:span>oney<draw:frame draw:style-name="fr4" draw:name="Image8" text:anchor-type="char" svg:width="2.7154in" svg:height="2.7154in" draw:z-index="7"><draw:image draw:mime-type="image/jpeg">
         <office:binary-data>/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAA4KCw0LCQ4NDA0QDw4RFiQXFhQUFiwgIRokNC43
          NjMuMjI6QVNGOj1OPjIySGJJTlZYXV5dOEVmbWVabFNbXVn/2wBDAQ8QEBYTFioXFypZOzI7
          WVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVlZWVn/wgAR
@@ -10978,64 +10922,64 @@
       </draw:frame></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P124"><text:span text:style-name="T5">Moringa</text:span> Tea: <text:span text:style-name="T36">M</text:span>oringa powder, <text:span text:style-name="T36">hot water, lemon or honey</text:span></text:p>
+     <text:p text:style-name="P131"><text:span text:style-name="T5">Moringa</text:span> Tea: <text:span text:style-name="T36">M</text:span>oringa powder, <text:span text:style-name="T36">hot water, lemon or honey</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P124"><text:span text:style-name="T5">Moringa</text:span> Leaf Soup: fresh <text:span text:style-name="T36">Moringa</text:span> leaves, <text:span text:style-name="T36">chopped onion, garlic, tomato, broth, spices</text:span></text:p>
+     <text:p text:style-name="P131"><text:span text:style-name="T5">Moringa</text:span> Leaf Soup: fresh <text:span text:style-name="T36">Moringa</text:span> leaves, <text:span text:style-name="T36">chopped onion, garlic, tomato, broth, spices</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P124"><text:span text:style-name="T5">Moringa</text:span> Curry: <text:s/>fresh <text:span text:style-name="T36">Moringa</text:span> leaves, <text:span text:style-name="T36">onion, tomato, curry, coconut milk, vegetables, chicken, rice</text:span></text:p>
+     <text:p text:style-name="P131"><text:span text:style-name="T5">Moringa</text:span> Curry: <text:s/>fresh <text:span text:style-name="T36">Moringa</text:span> leaves, <text:span text:style-name="T36">onion, tomato, curry, coconut milk, vegetables, chicken, rice</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P124"><text:span text:style-name="T5">Moringa</text:span> Egg Scramble: <text:span text:style-name="T36">eggs, Moringa powder, butter, salt</text:span></text:p>
+     <text:p text:style-name="P131"><text:span text:style-name="T5">Moringa</text:span> Egg Scramble: <text:span text:style-name="T36">eggs, Moringa powder, butter, salt</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P125"><text:span text:style-name="T5">Moringa</text:span> Stew: Moringa pod pieces, onion, garlic, tomato, spices (such as tumeric)</text:p>
+     <text:p text:style-name="P132"><text:span text:style-name="T5">Moringa</text:span> Stew: Moringa pod pieces, onion, garlic, tomato, spices (such as tumeric)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P125"><text:span text:style-name="T5">Moringa</text:span> Energy Balls: oats, peanut butter, honey, Moringa powder, nuts, raisins </text:p>
+     <text:p text:style-name="P132"><text:span text:style-name="T5">Moringa</text:span> Energy Balls: oats, peanut butter, honey, Moringa powder, nuts, raisins </text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P125"><text:span text:style-name="T5">Moringa</text:span> Bread or Pancakes: mix Moringa powder into batter</text:p>
+     <text:p text:style-name="P132"><text:span text:style-name="T5">Moringa</text:span> Bread or Pancakes: mix Moringa powder into batter</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Health &amp; Beauty </text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Recreational</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Healthcare</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Water Treatment</text:h>
-   <text:p text:style-name="P99"/>
+   <text:p text:style-name="P100"/>
    <text:p text:style-name="P34"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Potential US Partners</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Food Producers</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Pasta</text:h>
-   <text:list text:style-name="L4">
+   <text:list text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P128">USA</text:p>
+     <text:p text:style-name="P135">USA</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P126"><text:span text:style-name="T1">RP&apos;s Pasta Co</text:span>: <text:span text:style-name="T55">E</text:span>mphasizes using high-quality ingredients and traditional methods to create artisan pasta. Known for making fresh, artisan pasta with unique flavors and high-quality ingredients. <text:a xlink:type="simple" xlink:href="https://www.rpspasta.com/about-us/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T47">Abou</text:span><text:span text:style-name="T55">t RP</text:span></text:a><text:span text:style-name="T47"> </text:span><text:a xlink:type="simple" xlink:href="https://www.google.com/maps/place/RP&apos;s+Pasta+Co/@43.056303,-89.303182,13z/data=!4m6!3m5!1s0x88065370d53f8d7d:0x44fdbd260aa8a5ed!8m2!3d43.056303!4d-89.303182!16s%2Fg%2F1tdfcp8q?hl=en-US&amp;entry=ttu&amp;g_ep=EgoyMDI1MTEzMC4wIKXMDSoASAFQAw%3D%3D" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T47">Madison, Wisconsin</text:span></text:a><text:span text:style-name="T47"> Products include spinach fettuccine and linguini.</text:span></text:p>
+       <text:p text:style-name="P133"><text:span text:style-name="T1">RP&apos;s Pasta Co</text:span>: <text:span text:style-name="T55">E</text:span>mphasizes using high-quality ingredients and traditional methods to create artisan pasta. Known for making fresh, artisan pasta with unique flavors and high-quality ingredients. <text:a xlink:type="simple" xlink:href="https://www.rpspasta.com/about-us/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T47">Abou</text:span><text:span text:style-name="T55">t RP</text:span></text:a><text:span text:style-name="T47"> </text:span><text:a xlink:type="simple" xlink:href="https://www.google.com/maps/place/RP&apos;s+Pasta+Co/@43.056303,-89.303182,13z/data=!4m6!3m5!1s0x88065370d53f8d7d:0x44fdbd260aa8a5ed!8m2!3d43.056303!4d-89.303182!16s%2Fg%2F1tdfcp8q?hl=en-US&amp;entry=ttu&amp;g_ep=EgoyMDI1MTEzMC4wIKXMDSoASAFQAw%3D%3D" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T47">Madison, Wisconsin</text:span></text:a><text:span text:style-name="T47"> Products include spinach fettuccine and linguini.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P126"><text:span text:style-name="T1">Flour Pasta Company</text:span>: A<text:span text:style-name="T55">n artisan pasta</text:span> producer that focuses on creating high-quality pasta from various flours. <text:span text:style-name="T55">Located in Moreland Hills, Ohio. </text:span><text:a xlink:type="simple" xlink:href="https://flourpastaco.com/pages/about-us" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T55">About FPC</text:span></text:a><text:span text:style-name="T55">.</text:span></text:p>
+       <text:p text:style-name="P133"><text:span text:style-name="T1">Flour Pasta Company</text:span>: A<text:span text:style-name="T55">n artisan pasta</text:span> producer that focuses on creating high-quality pasta from various flours. <text:span text:style-name="T55">Located in Moreland Hills, Ohio. </text:span><text:a xlink:type="simple" xlink:href="https://flourpastaco.com/pages/about-us" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T55">About FPC</text:span></text:a><text:span text:style-name="T55">.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P126"><text:soft-page-break/><text:span text:style-name="T1">Ronzoni</text:span>: A company with a long history in the US <text:span text:style-name="T56">(it is a division of Post, the largest cereal manufacturer); it </text:span>has a wide range of pasta product<text:span text:style-name="T56">s.</text:span> <text:span text:style-name="T56">S</text:span>ome that may be considered boutique-style. <text:a xlink:type="simple" xlink:href="https://ronzoni.com/our-story" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T56">About Ronzoni</text:span></text:a>.</text:p>
+       <text:p text:style-name="P133"><text:soft-page-break/><text:span text:style-name="T1">Ronzoni</text:span>: A company with a long history in the US <text:span text:style-name="T56">(it is a division of Post, the largest cereal manufacturer); it </text:span>has a wide range of pasta product<text:span text:style-name="T56">s.</text:span> <text:span text:style-name="T56">S</text:span>ome that may be considered boutique-style. <text:a xlink:type="simple" xlink:href="https://ronzoni.com/our-story" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T56">About Ronzoni</text:span></text:a>.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P126"><text:span text:style-name="T1">Medallion Foods</text:span>, <text:span text:style-name="T56">a division of Nisshin Seifun Welna Inc,</text:span> <text:span text:style-name="T56">manufacturers pasta and tempura mix in </text:span>Tacoma <text:span text:style-name="T56">(Frederickson)</text:span> Washington.</text:p>
+       <text:p text:style-name="P133"><text:span text:style-name="T1">Medallion Foods</text:span>, <text:span text:style-name="T56">a division of Nisshin Seifun Welna Inc,</text:span> <text:span text:style-name="T56">manufacturers pasta and tempura mix in </text:span>Tacoma <text:span text:style-name="T56">(Frederickson)</text:span> Washington.</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P129">Canada</text:p>
+     <text:p text:style-name="P136">Canada</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P127"><text:span text:style-name="T1">Italpasta</text:span>: Offers custom private label solutions and a range of pasta shapes, catering to both large and small-scale needs. <text:span text:style-name="T55">Facilities located in </text:span><text:span text:style-name="T13">Brampton, Ontario, </text:span><text:span text:style-name="T55">are </text:span>certified SQF Food Safety Code: Food Manufacturing Edition 9 and Storage and Distribution Edition 9. <text:a xlink:type="simple" xlink:href="https://www.italpasta.com/our-brand-story/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T55">About Italpasta</text:span></text:a>.</text:p>
+       <text:p text:style-name="P134"><text:span text:style-name="T1">Italpasta</text:span>: Offers custom private label solutions and a range of pasta shapes, catering to both large and small-scale needs. <text:span text:style-name="T55">Facilities located in </text:span><text:span text:style-name="T13">Brampton, Ontario, </text:span><text:span text:style-name="T55">are </text:span>certified SQF Food Safety Code: Food Manufacturing Edition 9 and Storage and Distribution Edition 9. <text:a xlink:type="simple" xlink:href="https://www.italpasta.com/our-brand-story/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T55">About Italpasta</text:span></text:a>.</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P128">Northern California<draw:frame draw:style-name="fr3" draw:name="Image4" text:anchor-type="char" svg:width="2.9854in" svg:height="2.9228in" draw:z-index="8"><draw:image draw:mime-type="image/png">
+     <text:p text:style-name="P135">Northern California<draw:frame draw:style-name="fr3" draw:name="Image4" text:anchor-type="char" svg:width="2.9854in" svg:height="2.9228in" draw:z-index="8"><draw:image draw:mime-type="image/png">
         <office:binary-data>iVBORw0KGgoAAAANSUhEUgAAAmwAAAJfCAYAAADCe4omAAAACXBIWXMAAA7EAAAOxAGVKw4b
          AAAgAElEQVR4nOS9d3wc1b3+/54zM9u1Wq26bMuy3GQbjDGEjgHTISGAU+4NCSEhuQk3N8k3
          vd2EhISEm8JNAjekl5sAobcECMUEUigGY2yMe5NlyyorrbR9Z+bM74/VrrZLsmUD9/e8XvuS
@@ -16953,66 +16897,66 @@
       </draw:frame></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P126"><text:span text:style-name="T4">P</text:span><text:span text:style-name="T3">a</text:span><text:span text:style-name="T4">sta Sonoma</text:span><text:span text:style-name="T59">, Rohnert Park:</text:span><text:span text:style-name="T47"> Since 1987, Pasta Sonoma now crafts high-quality pasta for leading retailers, small specialty stores, gift baskets and private label customers. </text:span><text:span text:style-name="T57">C</text:span><text:span text:style-name="T47">onsistently us</text:span><text:span text:style-name="T57">ing</text:span><text:span text:style-name="T47"> only the freshest American-grown wheat, highest grade premium flour, and time-honored Italian production and drying methods. </text:span><text:a xlink:type="simple" xlink:href="https://pastasonoma.com/pages/about-us" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T57">About Pasta Sonoma</text:span></text:a>.</text:p>
+       <text:p text:style-name="P133"><text:span text:style-name="T4">P</text:span><text:span text:style-name="T3">a</text:span><text:span text:style-name="T4">sta Sonoma</text:span><text:span text:style-name="T59">, Rohnert Park:</text:span><text:span text:style-name="T47"> Since 1987, Pasta Sonoma now crafts high-quality pasta for leading retailers, small specialty stores, gift baskets and private label customers. </text:span><text:span text:style-name="T57">C</text:span><text:span text:style-name="T47">onsistently us</text:span><text:span text:style-name="T57">ing</text:span><text:span text:style-name="T47"> only the freshest American-grown wheat, highest grade premium flour, and time-honored Italian production and drying methods. </text:span><text:a xlink:type="simple" xlink:href="https://pastasonoma.com/pages/about-us" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T57">About Pasta Sonoma</text:span></text:a>.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Eduardo’s Pasta Company, San Francisco</text:p>
+       <text:p text:style-name="P137">Eduardo’s Pasta Company, San Francisco</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Fiore Di Pasta, Fresno</text:p>
+       <text:p text:style-name="P137">Fiore Di Pasta, Fresno</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Mill Valley Pasta Company, San Rafael</text:p>
+       <text:p text:style-name="P137">Mill Valley Pasta Company, San Rafael</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Bigoli Fresh Pasta, Sand City</text:p>
+       <text:p text:style-name="P137">Bigoli Fresh Pasta, Sand City</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Pasta Shop, Oakland</text:p>
+       <text:p text:style-name="P137">Pasta Shop, Oakland</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Pasta Supply Co, San Francisco</text:p>
+       <text:p text:style-name="P137">Pasta Supply Co, San Francisco</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Home Maid Ravioli, SSF</text:p>
+       <text:p text:style-name="P137">Home Maid Ravioli, SSF</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P131"><text:span text:style-name="T1">Saporito Pasta</text:span>, <text:span text:style-name="T56">Redwood City: Dating back to 1900 in Lucca, Italy, operations moved to the San Jose area in 1938. </text:span><text:span text:style-name="T57">They offer nineteen pasta shapes in four formulations, including Whole Wheat Fettuccine to the pro-sumer market.</text:span></text:p>
+       <text:p text:style-name="P138"><text:span text:style-name="T1">Saporito Pasta</text:span>, <text:span text:style-name="T56">Redwood City: Dating back to 1900 in Lucca, Italy, operations moved to the San Jose area in 1938. </text:span><text:span text:style-name="T57">They offer nineteen pasta shapes in four formulations, including Whole Wheat Fettuccine to the pro-sumer market.</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P131">Il Pastaio Foods, San Jose</text:p>
+       <text:p text:style-name="P138">Il Pastaio Foods, San Jose</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P131">Nate’s Fine Foods, Roseville</text:p>
+       <text:p text:style-name="P138">Nate’s Fine Foods, Roseville</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P131">Monterey Gourmet Foods, Gilroy</text:p>
+       <text:p text:style-name="P138">Monterey Gourmet Foods, Gilroy</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P131">Pastabiz, San Francisco <text:s/></text:p>
+       <text:p text:style-name="P138">Pastabiz, San Francisco <text:s/></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P128">Southern California</text:p>
+     <text:p text:style-name="P135">Southern California</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P132">Pasta Piccinini, <text:span text:style-name="T49">Pasadena</text:span></text:p>
+       <text:p text:style-name="P139">Pasta Piccinini, <text:span text:style-name="T49">Pasadena</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Florentyna’s Fresh Pasta Factory, Inglewood</text:p>
+       <text:p text:style-name="P137">Florentyna’s Fresh Pasta Factory, Inglewood</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Virginia Park Foods, Riverside</text:p>
+       <text:p text:style-name="P137">Virginia Park Foods, Riverside</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130"><text:soft-page-break/>Pasta Mia, Fullerton</text:p>
+       <text:p text:style-name="P137"><text:soft-page-break/>Pasta Mia, Fullerton</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Pasta Straw, Gardena</text:p>
+       <text:p text:style-name="P137">Pasta Straw, Gardena</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P130">Cucina Della Cucina, San Fernando</text:p>
+       <text:p text:style-name="P137">Cucina Della Cucina, San Fernando</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -17020,16 +16964,16 @@
    <text:p text:style-name="P86"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Benefits</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="T14">Child</text:span><text:span text:style-name="T15">hood</text:span><text:span text:style-name="T14"> Malnutrition</text:span></text:h>
-   <text:p text:style-name="P42">Malnutrition refers lack of quality food which is insufficient to support proper development and health. According to the report of the hunger project, in November 2017, 815 million people do not have food to sustain themselves out of 7.6 billion people of the world (Know Your World, The World Hunger Project). Moreover the exponential population growth threatens the margins of food security as time progresses. According to a report by the UN&apos;s Food and Agriculture Organization, earth is capable of ensuring the food security, where the agricultural sector needs a major transformation to reach its full potential. <text:span text:style-name="T5">Moringa oleifera</text:span>, a native species of the Indian subcontinent, is a fast growing drought-resistant tree belonging to the family <text:span text:style-name="T5">Moringaceae</text:span>. It is widely cultivated for the diversified use of its young seed pods and green leaves as vegetables and for medicine. It is considered as a very good supplement because of its high protein value. Without that, it is known as the miracle tree because of its diversified beneficial features, <text:span text:style-name="T15">such as </text:span>10 times more vitamins than carrots, 7 times more <text:span text:style-name="T15">V</text:span>itamin C than oranges, 17 times more <text:span text:style-name="T15">C</text:span>alcium than milk, and 15 times more <text:span text:style-name="T15">P</text:span>otassium than bananas In addition, it helps to increase the blood antioxidant level and reduce the blood sugar level and sustained inflammation.<text:note text:id="ftn6" text:note-class="footnote"><text:note-citation>7</text:note-citation><text:note-body>
+   <text:p text:style-name="P42">Malnutrition refers lack of quality food which is insufficient to support proper development and health. According to the report of the hunger project, in November 2017, 815 million people do not have food to sustain themselves out of 7.6 billion people of the world (Know Your World, The World Hunger Project). Moreover the exponential population growth threatens the margins of food security as time progresses. According to a report by the UN&apos;s Food and Agriculture Organization, earth is capable of ensuring the food security, where the agricultural sector needs a major transformation to reach its full potential. <text:span text:style-name="T5">Moringa oleifera</text:span>, a native species of the Indian subcontinent, is a fast growing drought-resistant tree belonging to the family <text:span text:style-name="T5">Moringaceae</text:span>. It is widely cultivated for the diversified use of its young seed pods and green leaves as vegetables and for medicine. It is considered as a very good supplement because of its high protein value. Without that, it is known as the miracle tree because of its diversified beneficial features, <text:span text:style-name="T15">such as </text:span>10 times more vitamins than carrots, 7 times more <text:span text:style-name="T15">V</text:span>itamin C than oranges, 17 times more <text:span text:style-name="T15">C</text:span>alcium than milk, and 15 times more <text:span text:style-name="T15">P</text:span>otassium than bananas In addition, it helps to increase the blood antioxidant level and reduce the blood sugar level and sustained inflammation.<text:note text:id="ftn7" text:note-class="footnote"><text:note-citation>7</text:note-citation><text:note-body>
       <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8373516/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T29">NI</text:span><text:span text:style-name="T41">H</text:span><text:span text:style-name="T29">: Food Deprivation</text:span></text:a></text:p></text:note-body></text:note></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Inflammation</text:h>
    <text:p text:style-name="P64"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Cholesterol Management</text:h>
-   <text:p text:style-name="P74"><text:span text:style-name="T41">L</text:span>eaf extract of <text:span text:style-name="T5">Moringa oleifera</text:span> decreased the high-fat diet-induced increases in serum, liver, and kidney cholesterol levels.<text:note text:id="ftn7" text:note-class="footnote"><text:note-citation>8</text:note-citation><text:note-body>
+   <text:p text:style-name="P74"><text:span text:style-name="T41">L</text:span>eaf extract of <text:span text:style-name="T5">Moringa oleifera</text:span> decreased the high-fat diet-induced increases in serum, liver, and kidney cholesterol levels.<text:note text:id="ftn8" text:note-class="footnote"><text:note-citation>8</text:note-citation><text:note-body>
       <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://pubmed.ncbi.nlm.nih.gov/10661880/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T42">NIH PubMed: Hypocholesterolemic Effects of Leaf of Moringa - Journal of Ethnopharmacology</text:span></text:a></text:p></text:note-body></text:note></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Obesity</text:h>
    <text:p text:style-name="P82">The prevalence of obesity is increasing worldwide, and has already reached alarming levels particularly in the Middle East and North Africa region. Obesity constitutes a grave health problem and rises the hazard of chronic diseases such as diabetes mellitus and cardiovascular disease. Obesity is defined as abnormal excessive fat buildup that is accompanied by disproportion in energy intake and expenditure. In addition, world Health organization defined obesity and overweight as abnormal or excessive fat accumulation that presents a risk to health. </text:p>
-   <text:p text:style-name="P82"><text:span text:style-name="T5">Moringa olifera</text:span> holds saponins, tannins, flavonoids, glycosides and terpenoids, all of which possess medicinal belongings. The later compounds display effective anti-oxidants, anti-carcinogenic and anti-microbial potential and they can also boost the immune system. These effects are mediated via quenching singlet or triplet oxygens, <text:soft-page-break/>neutralizing free radicals or decomposing peroxides. Moreover, Saponins and tannins also have been associated with a reduced energy requirement for protein and lipid biosynthesis, leading to lower body lipid, nutrient utilization, energy retention and growth performance. Therefore, such compounds have been demonstrated to have an efficient anti-obesity potential.<text:note text:id="ftn8" text:note-class="footnote"><text:note-citation>9</text:note-citation><text:note-body>
+   <text:p text:style-name="P82"><text:span text:style-name="T5">Moringa olifera</text:span> holds saponins, tannins, flavonoids, glycosides and terpenoids, all of which possess medicinal belongings. The later compounds display effective anti-oxidants, anti-carcinogenic and anti-microbial potential and they can also boost the immune system. These effects are mediated via quenching singlet or triplet oxygens, <text:soft-page-break/>neutralizing free radicals or decomposing peroxides. Moreover, Saponins and tannins also have been associated with a reduced energy requirement for protein and lipid biosynthesis, leading to lower body lipid, nutrient utilization, energy retention and growth performance. Therefore, such compounds have been demonstrated to have an efficient anti-obesity potential.<text:note text:id="ftn9" text:note-class="footnote"><text:note-citation>9</text:note-citation><text:note-body>
       <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7499387/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T42">NIH PubMed Central: Anti-obesity potential of Moringa olifera seed</text:span></text:a></text:p></text:note-body></text:note></text:p>
    <text:p text:style-name="P83"><text:span text:style-name="T5">Moringa oleifera</text:span> is a common highly nutritious herb that has been widely used in folk medicine, due to its numerous pharmacological potentials, it is known as “the miracle tree”. <text:span text:style-name="T43">It contains high amounts of proteins, carbohydrates, oils, vitamins, minerals (such as potassium and calcium), amino acids, and phenolic compounds. An important pharmacological activity of </text:span><text:span text:style-name="T10">Moringa oleifera</text:span><text:span text:style-name="T43"> is its anti-obesity potential.</text:span></text:p>
    <text:p text:style-name="P83"><draw:frame draw:style-name="fr1" draw:name="Frame2" text:anchor-type="char" svg:width="6.898in" draw:z-index="2">
@@ -26013,59 +25957,59 @@
        </draw:frame>Figure <text:sequence text:ref-name="refFigure1" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">2</text:sequence>: Source: Science Direct</text:p>
      </draw:text-box>
     </draw:frame></text:p>
-   <text:p text:style-name="P83">Supplementation of <text:span text:style-name="T10">Moringa oleifera</text:span> could have caused an inhibition in the pancreatic lipase decreasing the breakdown of triglycerides into fatty acids. Strong evidence has been reported regarding the potential of <text:span text:style-name="T10">Moringa oleifera</text:span> in improving the lipid profile (decreasing total cholesterol, triglycerides, low-density lipoprotein, very low-density lipoprotein, and enhancing high-density lipoprotein levels). <text:span text:style-name="T10">Moringa oleifera</text:span> extracts have regulated fat storage by downregulating the expression of adipogenesis-associated proteins and upregulation of expression of lipolysis-associated protein. <text:span text:style-name="T10">Moringa oleifera</text:span> was also effective in improving the levels of antioxidant enzymes and thus decreasing oxidative stress, lipid peroxidation, protein oxidation, and inflammation. In addition, <text:span text:style-name="T10">Moringa oleifera</text:span> was effective in decreasing glucose uptake, gluconeogenesis, and glucose tolerance, while improving insulin signaling and resistance. Besides, <text:span text:style-name="T10">Moringa oleifera</text:span> also influenced satiety hormones in which it decreased levels of leptin, while increasing the levels of ghrelin.<text:note text:id="ftn9" text:note-class="footnote"><text:note-citation>10</text:note-citation><text:note-body>
+   <text:p text:style-name="P83">Supplementation of <text:span text:style-name="T10">Moringa oleifera</text:span> could have caused an inhibition in the pancreatic lipase decreasing the breakdown of triglycerides into fatty acids. Strong evidence has been reported regarding the potential of <text:span text:style-name="T10">Moringa oleifera</text:span> in improving the lipid profile (decreasing total cholesterol, triglycerides, low-density lipoprotein, very low-density lipoprotein, and enhancing high-density lipoprotein levels). <text:span text:style-name="T10">Moringa oleifera</text:span> extracts have regulated fat storage by downregulating the expression of adipogenesis-associated proteins and upregulation of expression of lipolysis-associated protein. <text:span text:style-name="T10">Moringa oleifera</text:span> was also effective in improving the levels of antioxidant enzymes and thus decreasing oxidative stress, lipid peroxidation, protein oxidation, and inflammation. In addition, <text:span text:style-name="T10">Moringa oleifera</text:span> was effective in decreasing glucose uptake, gluconeogenesis, and glucose tolerance, while improving insulin signaling and resistance. Besides, <text:span text:style-name="T10">Moringa oleifera</text:span> also influenced satiety hormones in which it decreased levels of leptin, while increasing the levels of ghrelin.<text:note text:id="ftn10" text:note-class="footnote"><text:note-citation>10</text:note-citation><text:note-body>
       <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://www.sciencedirect.com/science/article/pii/S1756464621002498" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T44">Science Direct: Novel insights on anti-obesity potential of the miracle tree</text:span></text:a></text:p></text:note-body></text:note></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Sexual Health</text:h>
-   <text:p text:style-name="P115">Scientific Evidence for Sexual Health Benefits</text:p>
-   <text:p text:style-name="P115">Sexual Behavior and Reproductive Function</text:p>
+   <text:p text:style-name="P117">Scientific Evidence for Sexual Health Benefits</text:p>
+   <text:p text:style-name="P117">Sexual Behavior and Reproductive Function</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Male Subjects</text:h>
-   <text:p text:style-name="P115"/>
-   <text:p text:style-name="P115"><text:span text:style-name="T53">T</text:span>he journal <text:span text:style-name="T54">Plants</text:span> found that <text:span text:style-name="T5">Moringa</text:span> leaf tea significantly enhanced sexual behavior in male <text:span text:style-name="T53">subjects</text:span>:</text:p>
-   <text:p text:style-name="P115"/>
-   <text:list text:style-name="L5">
+   <text:p text:style-name="P117"/>
+   <text:p text:style-name="P117"><text:span text:style-name="T53">T</text:span>he journal <text:span text:style-name="T54">Plants</text:span> found that <text:span text:style-name="T5">Moringa</text:span> leaf tea significantly enhanced sexual behavior in male <text:span text:style-name="T53">subjects</text:span>:</text:p>
+   <text:p text:style-name="P117"/>
+   <text:list text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P133">Courtship behavior increased significantly at all tested doses (0.55, 1.10, and 2.20 mg/kg).</text:p>
+     <text:p text:style-name="P140">Courtship behavior increased significantly at all tested doses (0.55, 1.10, and 2.20 mg/kg).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P133">Reproductive improvements included increased seminiferous tubule diameter, epithelium height, and type A spermatogonia.</text:p>
+     <text:p text:style-name="P140">Reproductive improvements included increased seminiferous tubule diameter, epithelium height, and type A spermatogonia.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P133">Sertoli cells increased at higher doses (1.10 and 2.20 mg/kg).</text:p>
+     <text:p text:style-name="P140">Sertoli cells increased at higher doses (1.10 and 2.20 mg/kg).</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P133">Total spermatogenic cells increased at the lowest dose (0.55 mg/kg)</text:p>
+     <text:p text:style-name="P140">Total spermatogenic cells increased at the lowest dose (0.55 mg/kg)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P133">Mechanisms of Action - The researchers attributed these benefits to:</text:p>
+     <text:p text:style-name="P140">Mechanisms of Action - The researchers attributed these benefits to:</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P133">Rich antioxidant content: High levels of total phenols (34.44 µg/mg) and flavonoids (13.45 µg/mg).</text:p>
+       <text:p text:style-name="P140">Rich antioxidant content: High levels of total phenols (34.44 µg/mg) and flavonoids (13.45 µg/mg).</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P133">Specific compounds identified: Gallic acid, chlorogenic acid, caffeic acid, ferulic acid, quercetin, and kaempferol.</text:p>
+       <text:p text:style-name="P140">Specific compounds identified: Gallic acid, chlorogenic acid, caffeic acid, ferulic acid, quercetin, and kaempferol.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P133">Oxidative stress reduction: The plant scavenged DPPH radicals, ABTS radicals, and hydrogen peroxide.</text:p>
+       <text:p text:style-name="P140">Oxidative stress reduction: The plant scavenged DPPH radicals, ABTS radicals, and hydrogen peroxide.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P133">Anti-inflammatory effects: Inhibited lipid peroxidation and advanced glycation end products (AGEs)</text:p>
+       <text:p text:style-name="P140">Anti-inflammatory effects: Inhibited lipid peroxidation and advanced glycation end products (AGEs)</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P123">General Male Health Benefits - Research suggests <text:span text:style-name="T5">Moringa</text:span> may also:</text:p>
+     <text:p text:style-name="P130">General Male Health Benefits - Research suggests <text:span text:style-name="T5">Moringa</text:span> may also:</text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P123">Support prostate health: Glucosinolates in seeds may have anticancer properties.</text:p>
+       <text:p text:style-name="P130">Support prostate health: Glucosinolates in seeds may have anticancer properties.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P123">Improve erectile function: Polyphenols may enhance blood flow by increasing nitric oxide production.</text:p>
+       <text:p text:style-name="P130">Improve erectile function: Polyphenols may enhance blood flow by increasing nitric oxide production.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P123">Enhance fertility: Antioxidants protect against sperm damage and improve sperm count and motility.</text:p>
+       <text:p text:style-name="P130">Enhance fertility: Antioxidants protect against sperm damage and improve sperm count and motility.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P123">Help blood sugar control: Particularly important for men with diabetes</text:p>
+       <text:p text:style-name="P130">Help blood sugar control: Particularly important for men with diabetes</text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -26073,33 +26017,33 @@
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Anti-Oxidant</text:h>
    <text:p text:style-name="P64"/>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Anti-aging</text:h>
-   <text:p text:style-name="P64">Wrinkles are one of the characteristics of aging, and the degradation of elastin and collagen is the main cause of wrinkles. Moreover, elastase and collagenase play a pivotal role in the degradation of elastin and collagen, respectively. Therefore, exploring natural elastase and collagenase inhibitors has become one of the effective ways to delay aging. <text:span text:style-name="T40">T</text:span>he anti-aging activities of <text:span text:style-name="T5">M</text:span><text:span text:style-name="T8">orinaga</text:span><text:span text:style-name="T5"> oleifera</text:span> leaf extracts were evaluated by determining <text:soft-page-break/>the inhibitory activities against collagenase and elastase in vitro. On the one hand, this study reveals that leaf extracts exhibited a promising anti-collagenase effect. <text:span text:style-name="T40">However</text:span> it is clear that leaf extracts showed considerable elastase inhibitory activity.<text:note text:id="ftn10" text:note-class="footnote"><text:note-citation>11</text:note-citation><text:note-body>
+   <text:p text:style-name="P64">Wrinkles are one of the characteristics of aging, and the degradation of elastin and collagen is the main cause of wrinkles. Moreover, elastase and collagenase play a pivotal role in the degradation of elastin and collagen, respectively. Therefore, exploring natural elastase and collagenase inhibitors has become one of the effective ways to delay aging. <text:span text:style-name="T40">T</text:span>he anti-aging activities of <text:span text:style-name="T5">M</text:span><text:span text:style-name="T8">orinaga</text:span><text:span text:style-name="T5"> oleifera</text:span> leaf extracts were evaluated by determining <text:soft-page-break/>the inhibitory activities against collagenase and elastase in vitro. On the one hand, this study reveals that leaf extracts exhibited a promising anti-collagenase effect. <text:span text:style-name="T40">However</text:span> it is clear that leaf extracts showed considerable elastase inhibitory activity.<text:note text:id="ftn11" text:note-class="footnote"><text:note-citation>11</text:note-citation><text:note-body>
       <text:p text:style-name="P71"><text:span text:style-name="T39">Excerpts from </text:span><text:a xlink:type="simple" xlink:href="https://www.frontiersin.org/journals/nutrition/articles/10.3389/fnut.2022.854882/full" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T39">FrontiersIn.org Nutrition Journal</text:span></text:a></text:p></text:note-body></text:note></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Hypertension</text:h>
    <text:p text:style-name="P81">Nearly half of all US adults have hypertension <text:span text:style-name="T41">(high blood pressure)</text:span>, which is a major risk factor for heart disease and stroke. Prevalence increases significantly with age, and though awareness and treatment rates have remained stable, only about one-fifth of affected adults have their blood pressure controlled. Black adults have the highest rates of hypertension compared to other racial and ethnic groups. </text:p>
-   <text:p text:style-name="P81"><text:span text:style-name="T40">The Journal of the American College of Nutrition conducted a study </text:span><text:span text:style-name="T41">which found </text:span><text:span text:style-name="T40">in human subjects indicated the lowering effect of </text:span><text:span text:style-name="T9">Moringa</text:span><text:span text:style-name="T40"> leaves consumption on the 2 hours postprandial </text:span><text:span text:style-name="T41">blood pressure</text:span><text:span text:style-name="T40"> and showed a potential lowering effect despite prior high consumption of salt (7 g/d).</text:span><text:span text:style-name="T40"><text:note text:id="ftn11" text:note-class="footnote"><text:note-citation>12</text:note-citation><text:note-body>
+   <text:p text:style-name="P81"><text:span text:style-name="T40">The Journal of the American College of Nutrition conducted a study </text:span><text:span text:style-name="T41">which found </text:span><text:span text:style-name="T40">in human subjects indicated the lowering effect of </text:span><text:span text:style-name="T9">Moringa</text:span><text:span text:style-name="T40"> leaves consumption on the 2 hours postprandial </text:span><text:span text:style-name="T41">blood pressure</text:span><text:span text:style-name="T40"> and showed a potential lowering effect despite prior high consumption of salt (7 g/d).</text:span><text:span text:style-name="T40"><text:note text:id="ftn12" text:note-class="footnote"><text:note-citation>12</text:note-citation><text:note-body>
        <text:p text:style-name="P73"><text:span text:style-name="T39">Excerpts from</text:span><text:span text:style-name="T41"> </text:span><text:a xlink:type="simple" xlink:href="https://pubmed.ncbi.nlm.nih.gov/31063434/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T41">NIH PubMed: Moringa Leaves Lowers Blood Pressure</text:span></text:a></text:p></text:note-body></text:note></text:span></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Anti-Cancer</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Anti-Ulcer</text:h>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Lower GI Distress</text:h>
-   <text:p text:style-name="P74"><text:span text:style-name="T5">Moringa</text:span> leaves can adjust the stool number, wet fecal weight and fecal water content to varying degrees to achieve laxative effects, and recover colon muscle thickness and mucus.<text:note text:id="ftn12" text:note-class="footnote"><text:note-citation>13</text:note-citation><text:note-body>
+   <text:p text:style-name="P74"><text:span text:style-name="T5">Moringa</text:span> leaves can adjust the stool number, wet fecal weight and fecal water content to varying degrees to achieve laxative effects, and recover colon muscle thickness and mucus.<text:note text:id="ftn13" text:note-class="footnote"><text:note-citation>13</text:note-citation><text:note-body>
       <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://pubmed.ncbi.nlm.nih.gov/34534599/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T41">NIH PubMed: <text:s/>Journal of Ethnopharmacology - Effect of Moringa on Constipation</text:span></text:a></text:p></text:note-body></text:note></text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Anti-Microbial</text:h>
    <text:p text:style-name="P74"/>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Cautions</text:h>
-   <text:list text:style-name="L6">
+   <text:list text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P134"><text:span text:style-name="T5">Moringa</text:span> might lower blood sugar levels. Taking <text:span text:style-name="T5">Moringa</text:span> along with diabetes medications might cause blood sugar to drop too low. <text:span text:style-name="T29">D</text:span>iabetes<text:span text:style-name="T29"> patients should monitor</text:span> blood sugar closely.</text:p>
+     <text:p text:style-name="P141"><text:span text:style-name="T5">Moringa</text:span> might lower blood sugar levels. Taking <text:span text:style-name="T5">Moringa</text:span> along with diabetes medications might cause blood sugar to drop too low. <text:span text:style-name="T29">D</text:span>iabetes<text:span text:style-name="T29"> patients should monitor</text:span> blood sugar closely.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P135"><text:span text:style-name="T5">Moringa</text:span> is used to lower blood pressure. Hypertension patients should be sure that Moringa dosage in combination with prescription medication does not lower blood pressure excessively.</text:p>
+     <text:p text:style-name="P142"><text:span text:style-name="T5">Moringa</text:span> is used to lower blood pressure. Hypertension patients should be sure that Moringa dosage in combination with prescription medication does not lower blood pressure excessively.</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P135">Avoid <text:span text:style-name="T5">Moringa</text:span> from India which is grown with GMO (genetically modified organism) plants. GMOs are banned or restricted in over 60 countries.<text:note text:id="ftn13" text:note-class="footnote"><text:note-citation>14</text:note-citation><text:note-body>
+     <text:p text:style-name="P142">Avoid <text:span text:style-name="T5">Moringa</text:span> from India which is grown with GMO (genetically modified organism) plants. GMOs are banned or restricted in over 60 countries.<text:note text:id="ftn14" text:note-class="footnote"><text:note-citation>14</text:note-citation><text:note-body>
         <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://www.gmo-free-regions.org/countries/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T48">GMO Free Countries</text:span></text:a></text:p></text:note-body></text:note></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P136">Beware of non-organic and products with additives. All Green Power Moringa is certified 100% pure and organic.</text:p>
+     <text:p text:style-name="P143">Beware of non-organic and products with additives. All Green Power Moringa is certified 100% pure and organic.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P18">Safety Profile</text:p>
@@ -26126,28 +26070,28 @@
    <text:p text:style-name="P18">Be patient, as natural remedies may take time to show effects</text:p>
    <text:p text:style-name="P18">Use as part of a comprehensive approach to sexual wellness</text:p>
    <text:h text:style-name="Heading_20_1" text:outline-level="1">Endorsements</text:h>
-   <text:list text:style-name="L7">
+   <text:list text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P138"><text:span text:style-name="T2">Moringa oleifera: A review on nutritive importance and its medicinal application: </text:span><text:span text:style-name="T6">Moringa oleifera</text:span><text:span text:style-name="T23">, native to India, grows in the tropical and subtropical regions of the world. It is commonly known as ‘drumstick tree’ or ‘horseradish tree’. </text:span><text:span text:style-name="T6">Moringa</text:span><text:span text:style-name="T23"> can withstand both severe drought and mild frost conditions and hence widely cultivated across the world. With its high nutritive values, every part of the tree is suitable for either nutritional or commercial purposes. The leaves are rich in minerals, vitamins and other essential phytochemicals. Extracts from the leaves are used to treat malnutrition, augment breast milk in lactating mothers. It is used as potential anti-oxidant, anti-cancer, anti-inflammatory, anti-diabetic and antimicrobial agent. </text:span><text:span text:style-name="T6">M. oleifera seed</text:span><text:span text:style-name="T23">, a natural coagulant is extensively used in water treatment. The scientific effort of this research provides insights on the use of </text:span><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span><text:span text:style-name="T23"> as a cure for diabetes and cancer and fortification of </text:span><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span><text:span text:style-name="T23"> in commercial products. This review </text:span><text:soft-page-break/><text:span text:style-name="T23">explores the use of </text:span><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span><text:span text:style-name="T23"> across disciplines for its medicinal value and deals with cultivation, nutrition, commercial and prominent pharmacological properties of this “</text:span><text:span text:style-name="T2">Miracle Tree</text:span><text:span text:style-name="T23">”.</text:span><text:span text:style-name="T23"><text:note text:id="ftn14" text:note-class="footnote"><text:note-citation>15</text:note-citation><text:note-body>
+     <text:p text:style-name="P145"><text:span text:style-name="T2">Moringa oleifera: A review on nutritive importance and its medicinal application: </text:span><text:span text:style-name="T6">Moringa oleifera</text:span><text:span text:style-name="T23">, native to India, grows in the tropical and subtropical regions of the world. It is commonly known as ‘drumstick tree’ or ‘horseradish tree’. </text:span><text:span text:style-name="T6">Moringa</text:span><text:span text:style-name="T23"> can withstand both severe drought and mild frost conditions and hence widely cultivated across the world. With its high nutritive values, every part of the tree is suitable for either nutritional or commercial purposes. The leaves are rich in minerals, vitamins and other essential phytochemicals. Extracts from the leaves are used to treat malnutrition, augment breast milk in lactating mothers. It is used as potential anti-oxidant, anti-cancer, anti-inflammatory, anti-diabetic and antimicrobial agent. </text:span><text:span text:style-name="T6">M. oleifera seed</text:span><text:span text:style-name="T23">, a natural coagulant is extensively used in water treatment. The scientific effort of this research provides insights on the use of </text:span><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span><text:span text:style-name="T23"> as a cure for diabetes and cancer and fortification of </text:span><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span><text:span text:style-name="T23"> in commercial products. This review </text:span><text:soft-page-break/><text:span text:style-name="T23">explores the use of </text:span><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span><text:span text:style-name="T23"> across disciplines for its medicinal value and deals with cultivation, nutrition, commercial and prominent pharmacological properties of this “</text:span><text:span text:style-name="T2">Miracle Tree</text:span><text:span text:style-name="T23">”.</text:span><text:span text:style-name="T23"><text:note text:id="ftn15" text:note-class="footnote"><text:note-citation>15</text:note-citation><text:note-body>
          <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://scholar.google.com/scholar_lookup?journal=Food%20Science%20and%20Human%20Wellness&amp;title=Moringa%20oleifera:%20A%20review%20on%20nutritive%20importance%20and%20its%20medicinal%20application&amp;author=L.%20Gopalakrishnan&amp;author=K.%20Doriya&amp;author=D.%20S.%20Kumar&amp;volume=5&amp;issue=2&amp;publication_year=2016&amp;pages=49-56&amp;doi=10.1016/j.fshw.2016.04.001&amp;" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T24">Google Scholar: Food science and human wellness, 2016, Gopalakrishnan, et. al.</text:span></text:a></text:p></text:note-body></text:note></text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P139"><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span> is a plant native to India and other countries. It contains proteins, vitamins, and minerals, making it useful to fight malnutrition. <text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span> is an important food source in some parts of the world. It can be grown cheaply and easily, and retains much of its nutritional value when dried. As an antioxidant, it seems to help protect cells from damage. <text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span> might also help decrease inflammation and reduce pain.<text:note text:id="ftn15" text:note-class="footnote"><text:note-citation>16</text:note-citation><text:note-body>
+     <text:p text:style-name="P146"><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span> is a plant native to India and other countries. It contains proteins, vitamins, and minerals, making it useful to fight malnutrition. <text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span> is an important food source in some parts of the world. It can be grown cheaply and easily, and retains much of its nutritional value when dried. As an antioxidant, it seems to help protect cells from damage. <text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa</text:span> might also help decrease inflammation and reduce pain.<text:note text:id="ftn16" text:note-class="footnote"><text:note-citation>16</text:note-citation><text:note-body>
         <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://www.webmd.com/vitamins/ai/ingredientmono-1242/moringa" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T27">WebMD Moringa Uses</text:span></text:a></text:p></text:note-body></text:note></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P140">Dr. Marlene <text:span text:style-name="T50">B</text:span>, Pharmacist, from <text:span text:style-name="T60">Central Valley </text:span>California, </text:p>
+     <text:p text:style-name="P147">Dr. Marlene <text:span text:style-name="T50">B</text:span>, Pharmacist, from <text:span text:style-name="T60">Central Valley </text:span>California, </text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P140"><text:span text:style-name="T50">Moringa solves many health problems and has no side effects.</text:span></text:p>
+       <text:p text:style-name="P144">Moringa solves many health problems and has no side effects.</text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P137">Beware of non-organic and products with additives. <text:span text:style-name="T60">Some green powders have very little or no actual <text:s/></text:span><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa.</text:span></text:p>
+       <text:p text:style-name="P144">Beware of non-organic and products with additives. <text:span text:style-name="T60">Some green powders have very little or no actual <text:s/></text:span><text:span text:style-name="T7">M</text:span><text:span text:style-name="T6">oringa.</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P139"><text:span text:style-name="T16">Mrs. Christine Kpatali, 22, is from Lèma village of Tré Epicenter. Mother of a baby boy, learned of the outstanding nutritional value of </text:span><text:span text:style-name="T17">Moringa</text:span><text:span text:style-name="T16"> leaves through a Benin </text:span><text:span text:style-name="T18">(West Africa) </text:span><text:span text:style-name="T16">Health &amp; Nutrition Program. After having used the leaves both for herself and the baby, she shares with us her experience with the </text:span><text:span text:style-name="T17">Moringa</text:span><text:span text:style-name="T16"> leaves:</text:span><text:span text:style-name="T16"><text:note text:id="ftn16" text:note-class="footnote"><text:note-citation>17</text:note-citation><text:note-body>
+     <text:p text:style-name="P146"><text:span text:style-name="T16">Mrs. Christine Kpatali, 22, is from Lèma village of Tré Epicenter. Mother of a baby boy, learned of the outstanding nutritional value of </text:span><text:span text:style-name="T17">Moringa</text:span><text:span text:style-name="T16"> leaves through a Benin </text:span><text:span text:style-name="T18">(West Africa) </text:span><text:span text:style-name="T16">Health &amp; Nutrition Program. After having used the leaves both for herself and the baby, she shares with us her experience with the </text:span><text:span text:style-name="T17">Moringa</text:span><text:span text:style-name="T16"> leaves:</text:span><text:span text:style-name="T16"><text:note text:id="ftn17" text:note-class="footnote"><text:note-citation>17</text:note-citation><text:note-body>
          <text:p text:style-name="Footnote"><text:a xlink:type="simple" xlink:href="https://thp.org/stories/local-moringa-tree-improves-nutrition-of-mother-and-child/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T20">The Hunger Project: Local Moringa Tree Improves Nutrition of Mother and Child</text:span></text:a></text:p></text:note-body></text:note></text:span></text:p>
     </text:list-item>
    </text:list>

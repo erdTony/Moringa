@@ -1,0 +1,1082 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:css3t="http://www.w3.org/TR/css3-text/" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:rpt="http://openoffice.org/2005/report" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" office:version="1.3" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:creation-date>2026-01-17T14:07:58.329713506</meta:creation-date><dc:date>2026-01-18T00:35:19.222371389</dc:date><meta:editing-duration>PT8M50S</meta:editing-duration><meta:editing-cycles>2</meta:editing-cycles><meta:generator>LibreOffice/24.2.7.2$Linux_X86_64 LibreOffice_project/420$Build-2</meta:generator><meta:print-date>2026-01-18T00:35:01.469680537</meta:print-date><meta:printed-by>PDF files</meta:printed-by><meta:document-statistic meta:table-count="1" meta:image-count="1" meta:object-count="0" meta:page-count="5" meta:paragraph-count="126" meta:word-count="1423" meta:character-count="9581" meta:non-whitespace-character-count="8070"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">29171</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">21992</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">10830</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">6652</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">40270</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">29171</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">21990</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">40000</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">3</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">183</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="KeepRatio" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="AnchoredTextOverflowLegacy" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="LegacySingleLineFontwork" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ConnectorUseSnapRect" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="IgnoreBreakAfterMultilineField" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="NoNumberingShowFollowBy" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HyphenateURLs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ImagePreferredDPI" config:type="int">0</config:config-item>
+   <config:config-item config:name="FootnoteInColumnToPageEnd" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="GutterAtTop" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ContinuousEndnotes" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FrameAutowidthWithMorePara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TreatSingleColumnBreakAsPageBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AutoFirstLineIndentDisregardLineSpace" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedComplexScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedAsianScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyTextAttrToEmptyLineAtEndOfParagraph" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DisableOffPagePositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectBookmarks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="JustifyLinesWithShrinking" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">1896579</config:config-item>
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="SaveThumbnail" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompTrailingBlanks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="HeaderSpacingBelowLastPara" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="AddParaLineSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ProtectFields" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="NoGapAfterNoteNumber" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmptyDbFieldHidesPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DropCapPunctuation" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">2064980</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman"/>
+  <style:font-face style:name="Liberation Serif1" svg:font-family="&apos;Liberation Serif&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif2" svg:font-family="&apos;Liberation Serif&apos;" style:font-adornments="Regular" style:font-family-generic="roman"/>
+  <style:font-face style:name="Noto Sans" svg:font-family="&apos;Noto Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans CJK SC" svg:font-family="&apos;Noto Sans CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Sans Devanagari" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="swiss"/>
+  <style:font-face style:name="Noto Sans Devanagari1" svg:font-family="&apos;Noto Sans Devanagari&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Serif CJK SC" svg:font-family="&apos;Noto Serif CJK SC&apos;" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Noto Serif Display" svg:font-family="&apos;Noto Serif Display&apos;" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+  <style:font-face style:name="Roboto Flex" svg:font-family="&apos;Roboto Flex&apos;, sans-serif"/>
+  <style:font-face style:name="inherit" svg:font-family="inherit"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif1" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif1" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text"/>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.1665in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" fo:keep-with-next="always"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-family-generic="swiss" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Noto Sans CJK SC" style:font-family-asian="&apos;Noto Sans CJK SC&apos;" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="Noto Sans Devanagari1" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.0972in" style:contextual-spacing="false" fo:line-height="115%"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.0835in" fo:margin-bottom="0.0835in" style:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+   <style:text-properties style:font-size-asian="12pt" style:font-name-complex="Noto Sans Devanagari" style:font-family-complex="&apos;Noto Sans Devanagari&apos;" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.2362in" fo:text-indent="-0.2362in" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Figure" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.0972in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="14pt" fo:font-weight="bold" style:font-size-asian="14pt" style:font-weight-asian="bold" style:font-size-complex="14pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Horizontal_20_Line" style:display-name="Horizontal Line" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="html">
+   <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0.1965in" style:contextual-spacing="false" style:border-line-width-bottom="0.0008in 0.0016in 0.0008in" fo:padding="0in" fo:border-left="none" fo:border-right="none" fo:border-top="none" fo:border-bottom="0.14pt double #808080" text:number-lines="false" text:line-number="0" style:join-border="false"/>
+   <style:text-properties fo:font-size="6pt" style:font-size-asian="6pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" loext:opacity="100%" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Frame" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" fo:margin-left="0.0791in" fo:margin-right="0.0791in" fo:margin-top="0.0791in" fo:margin-bottom="0.0791in" style:wrap="parallel" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf" fo:padding="0.0591in" fo:border="0.06pt solid #000000"/>
+  </style:style>
+  <style:style style:name="Graphics" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0in" svg:y="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:background-color="transparent" draw:fill="none" draw:fill-color="#729fcf"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-format="">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.1965in" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <loext:theme loext:name="Office">
+   <loext:theme-colors loext:name="LibreOffice">
+    <loext:color loext:name="dark1" loext:color="#000000"/>
+    <loext:color loext:name="light1" loext:color="#ffffff"/>
+    <loext:color loext:name="dark2" loext:color="#000000"/>
+    <loext:color loext:name="light2" loext:color="#ffffff"/>
+    <loext:color loext:name="accent1" loext:color="#18a303"/>
+    <loext:color loext:name="accent2" loext:color="#0369a3"/>
+    <loext:color loext:name="accent3" loext:color="#a33e03"/>
+    <loext:color loext:name="accent4" loext:color="#8e03a3"/>
+    <loext:color loext:name="accent5" loext:color="#c99c00"/>
+    <loext:color loext:name="accent6" loext:color="#c9211e"/>
+    <loext:color loext:name="hyperlink" loext:color="#0000ee"/>
+    <loext:color loext:name="followed-hyperlink" loext:color="#551a8b"/>
+   </loext:theme-colors>
+  </loext:theme>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="Table1" style:family="table">
+   <style:table-properties style:width="6.6931in" table:align="margins"/>
+  </style:style>
+  <style:style style:name="Table1.A" style:family="table-column">
+   <style:table-column-properties style:column-width="3.3465in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table1.A1" style:family="table-cell">
+   <style:table-cell-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Footnote">
+   <style:text-properties officeooo:paragraph-rsid="001cf083"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="001cf083"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001d728a" officeooo:paragraph-rsid="001f2ad4"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:rsid="001f2ad4" officeooo:paragraph-rsid="001d728a"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="16pt" officeooo:paragraph-rsid="001cf083" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="16pt" officeooo:rsid="001cf083" officeooo:paragraph-rsid="001cf083" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#00a933" loext:opacity="100%" style:font-name="Noto Serif Display" fo:font-size="16pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="002299a1" officeooo:paragraph-rsid="001cf083" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="001cf083"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:paragraph-rsid="001cf083"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties officeooo:rsid="0019474e" officeooo:paragraph-rsid="001cf083"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="6pt" style:text-underline-style="none" officeooo:rsid="001f2ad4" officeooo:paragraph-rsid="001f2ad4" style:font-size-asian="5.25pt" style:font-size-complex="6pt"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="001cf083"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="0019474e" officeooo:paragraph-rsid="001cf083"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="001d728a" officeooo:paragraph-rsid="001f2ad4"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="001f2ad4" officeooo:paragraph-rsid="001f2ad4"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+   <style:text-properties fo:font-style="italic" fo:font-weight="bold" officeooo:rsid="001f2ad4" officeooo:paragraph-rsid="001f2ad4" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties officeooo:rsid="001f8254" officeooo:paragraph-rsid="001f8254"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="000d7f02"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Sans" fo:font-weight="normal" officeooo:rsid="0013279a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Sans" fo:letter-spacing="-0.0016in" fo:font-weight="normal" officeooo:rsid="0013279a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:color="#81d41a" loext:opacity="100%" style:font-name="Noto Sans" fo:font-weight="normal" officeooo:rsid="0013279a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:font-variant="normal" fo:text-transform="none" fo:color="#1f1f1f" loext:opacity="100%" fo:letter-spacing="normal" style:font-name-asian="inherit" style:font-size-asian="21pt" style:language-asian="ja" style:country-asian="JP" style:font-style-asian="normal" style:font-weight-asian="normal"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties officeooo:rsid="001cf083"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:font-style="italic" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties fo:font-style="italic" style:text-underline-style="none" fo:font-weight="bold" style:font-style-asian="italic" style:font-weight-asian="bold" style:font-style-complex="italic" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties officeooo:rsid="0033a73b"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif" officeooo:rsid="0033a73b"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif1" officeooo:rsid="0033a73b"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties officeooo:rsid="000f25bc"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="001e9f05"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties style:font-name="Liberation Serif2" officeooo:rsid="0019d4c7"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="001d36a8"/>
+  </style:style>
+  <style:style style:name="fr1" style:family="graphic" style:parent-style-name="Frame">
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph" fo:padding="0in" fo:border="none"/>
+  </style:style>
+  <style:style style:name="fr2" style:family="graphic" style:parent-style-name="Graphics">
+   <style:graphic-properties fo:margin-left="0in" fo:margin-right="0in" fo:margin-top="0in" fo:margin-bottom="0in" style:run-through="foreground" style:wrap="none" style:vertical-pos="top" style:vertical-rel="paragraph-content" style:horizontal-pos="center" style:horizontal-rel="paragraph-content" fo:padding="0in" fo:border="none" style:shadow="none" draw:shadow-opacity="100%" style:mirror="none" fo:clip="rect(0in, 0in, 0in, 0in)" draw:luminance="0%" draw:contrast="0%" draw:red="0%" draw:green="0%" draw:blue="0%" draw:gamma="100%" draw:color-inversion="false" draw:image-opacity="100%" draw:color-mode="standard" loext:rel-width-rel="paragraph"/>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" loext:num-list-format="%1%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.5in" fo:text-indent="-0.25in" fo:margin-left="0.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" loext:num-list-format="%2%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.75in" fo:text-indent="-0.25in" fo:margin-left="0.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" loext:num-list-format="%3%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1in" fo:text-indent="-0.25in" fo:margin-left="1in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" loext:num-list-format="%4%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.25in" fo:text-indent="-0.25in" fo:margin-left="1.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" loext:num-list-format="%5%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.5in" fo:text-indent="-0.25in" fo:margin-left="1.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" loext:num-list-format="%6%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.75in" fo:text-indent="-0.25in" fo:margin-left="1.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" loext:num-list-format="%7%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2in" fo:text-indent="-0.25in" fo:margin-left="2in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" loext:num-list-format="%8%" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.25in" fo:text-indent="-0.25in" fo:margin-left="2.25in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" loext:num-list-format="%9%" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.5in" fo:text-indent="-0.25in" fo:margin-left="2.5in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" loext:num-list-format="%10%" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.75in" fo:text-indent="-0.25in" fo:margin-left="2.75in"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="8.2681in" fo:page-height="11.6929in" style:num-format="1" style:print-orientation="portrait" fo:margin-top="0.7874in" fo:margin-bottom="0.7874in" fo:margin-left="0.7874in" fo:margin-right="0.7874in" style:writing-mode="lr-tb" style:footnote-max-height="0in" loext:margin-gutter="0in">
+    <style:footnote-sep style:width="0.0071in" style:distance-before-sep="0.0398in" style:distance-after-sep="0.0398in" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P12"/>
+   <table:table table:name="Table1" table:style-name="Table1">
+    <table:table-column table:style-name="Table1.A" table:number-columns-repeated="2"/>
+    <table:table-row>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P6"><text:span text:style-name="T2">U</text:span><text:span text:style-name="T1">S Moringa Market 2026</text:span></text:p>
+      <text:p text:style-name="P5"><text:span text:style-name="T1">米国モリンガ市場 2026年</text:span></text:p>
+      <text:p text:style-name="P11">Revised January 18, 2026 aho</text:p>
+     </table:table-cell>
+     <table:table-cell table:style-name="Table1.A1" office:value-type="string">
+      <text:p text:style-name="P7">Green Power <text:span text:style-name="T3">White Paper</text:span></text:p>
+      <text:p text:style-name="P7"><text:span text:style-name="T5">グリーンパワー</text:span><text:span text:style-name="T3"> </text:span><text:span text:style-name="T4">ホワイトペーパー</text:span></text:p>
+     </table:table-cell>
+    </table:table-row>
+   </table:table>
+   <text:h text:style-name="P2" text:outline-level="2" text:is-list-header="true">Overview <text:bookmark text:name="tw-target-text Copy 1"/><text:span text:style-name="T6">概要</text:span></text:h>
+   <text:p text:style-name="P8">The US Moringa market is experiencing robust growth, driven by increasing consumer awareness of health benefits, the rising popularity of plant-based nutrition, and growing demand for natural superfoods. The United States represents the largest national market for Moringa products globally, with strong consumer preference for health-oriented options driving expansion across multiple product categories.</text:p>
+   <text:p text:style-name="P8"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:span text:style-name="T7">World &amp; </text:span>US Market</text:h>
+   <text:p text:style-name="P8">US National Institutes of Health estimates world market for Moringa powder to be $10 Billion in 2025 with a growth rate of nearly 10% per year. Plus dietary supplements (food) at $4 Billion and 8%, oil and seed at $8 Billion and 8%, and tea at $9 Billion at 7½%. Approximately half of the world total to North America, primarily US, with 30% to Europe and 20% to Asia.<text:note text:id="ftn0" text:note-class="footnote"><text:note-citation>1</text:note-citation><text:note-body>
+      <text:p text:style-name="P1"><text:span text:style-name="T11">See YouTube and TikTok: #HealthBossTV with 5</text:span><text:span text:style-name="T12">½</text:span><text:span text:style-name="T13">K subscribers</text:span><text:span text:style-name="T11"> &amp; #HealingArtsApothicary; </text:span><text:a xlink:type="simple" xlink:href="https://healingarts.me/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T11">Healing Arts</text:span></text:a>; <text:a xlink:type="simple" xlink:href="https://linkpop.com/healingarts-me/index.html" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T11">Links</text:span></text:a></text:p></text:note-body></text:note></text:p>
+   <text:p text:style-name="P8"/>
+   <text:p text:style-name="P9"><text:span text:style-name="T9">Moringa has enormous potential uses but is very less explored.</text:span><text:span text:style-name="T9"><text:note text:id="ftn1" text:note-class="footnote"><text:note-citation>2</text:note-citation><text:note-body>
+       <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8373516/" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T14">US Government National Institutes of Health, National Library of Medicine</text:span></text:a></text:p></text:note-body></text:note></text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T16"/></text:p>
+   <text:p text:style-name="P13"><draw:frame draw:style-name="fr1" draw:name="Frame1" text:anchor-type="char" svg:width="7.5in" draw:z-index="0">
+     <draw:text-box fo:min-height="2.7445in">
+      <text:p text:style-name="Figure"><draw:frame draw:style-name="fr2" draw:name="Image1" text:anchor-type="paragraph" svg:width="6.6929in" style:rel-width="100%" svg:height="2.4484in" style:rel-height="scale" draw:z-index="1"><draw:image draw:mime-type="image/png">
+         <office:binary-data>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
+          n1munff2UseHVum7I3cp6dsv9dtFozV674tataFcVzVera/29dRfL/ZXxfZVStvZWUP+L+bo
+          9Z/RN2twr/u1UpLz96Va+FOi7nr/MjWySgpsr7vu7KKnX1+i7eOSZJFLnW4erHaBFlNfE4kS
+          CtR7lzaNUmu/rmbHcBMVEWV2BACon77cKn2z0uwU7vpGSz3NDgHUFxXaMj1Jkf86dsGlLVgt
+          Lxmk1z96TBfmP6lDilBkxH9PRg2IiJA9/6AKGt+uK1vM0FfpRQpf+YPiLn9el21/RWO+2qn8
+          c9K0uev16hkoufIOKl+hCg87XiStCm8YKsshyZl7QAdL1umJHudp2vEFyo/IN7KDDjglWQIU
+          EREo8ysoJRSo9zoG7VPHsvVmx3AXSAkFAAB/Rja1vi/1xI2JTubMbqQIfaMDuU4p8GgRPZKb
+          oyPhHRThG6MrL7fp/lWfK+jbRup5b4Rat7hY+19aqdTG36v91dMVZpGcIaFq4MrXoXyXZLdI
+          KteBfQfl9JOskU0UGdBT49ct0V2NKlXN8p+02JDn/8dwTSgAAAAAnGHWFr11bft0vTvnJxVK
+          UnGm5r79jVr07asEHx8lXtVTez9+QUtLu6lnM6t8z++pxPRZevnrKF11ZVNZJNnO7a5uTb/X
+          gvlbVCKp+Ne5mrOi8Oj+m/fR9ef/oNkz1ynfJakiV18/N1TD52xWuXlPu1ocCQUAAACASrrE
+          R6mwuKzG8Zio8P9th7Z4jXv7X9p9z2B1bF0mq8umZldP1ft/63L0+s4uV+nizNe0csBjSvCR
+          FNRVPaLX66/7H9Q/zj127NCvuyb+6x4lj+qh6BfC1bzDzRp8U7y+KayQbG009u3XtG/0MHVq
+          VSiXUwq7YLD+/kqsfPRLXV+GM4ISCgAAAACVDO3dUUN7/y83CgvWoIWFGlTLDP/YAXrp8wF6
+          qdqH36h3ck86ZmmJ0qgVxRrlNsmixr2e1vItT5+07WmNO/6f596gqYtv0NQqOz9fT6Yf+GNP
+          wwCcjgsAAAAAMAwlFAAAAABgGEooAAAAAMAwlFAAAAAAgGG4MRG8UuMAX90Zf4nZMarwt3rD
+          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
+          AAAAAGAYD5VQpwr27FVxswTFhR3dpSWgtQbPTNWSx3soUD5qNXSeVs0dqU6h7kuWfP2BPvG/
+          VROSY2WXRSGdx2pcr+2av2CjKlfE2uY66jhGDQUAAAAA43iohFp1Tp9b1G39RF1/zwyt2lOs
+          klKnrI1i1SE6RDZLsOIuiFNwlcvpnNqfmaWCmHjFnjhAGqDY+ObK3pilsj88N1O76zRWeQ0A
+          AAAAwJnksWtCbTEjtHBtrP796puatS1NcxNa6J3rRumJqQ/pmpZ+NTzKJYejSBZ7oOwntlkU
+          GGhXRVGRSqSTttc216G8Oo1VXkNKTU1VUVFRtWlTUlL+l5ekWq/oRuWHFZ/2fjzpskw/dffA
+          c/OkTXscZkeo1rJlyxTkbzM7hptdu3aZHaGKXbt2eeTnxZMcJRVmR6jWd999p5LdG8yO4Wbj
+          xhyzI1ThcDi87ntKkoqLvev9XJLS09OV4txpdgw3P+4oNDtCtRYvXiyb1btuOLdv3z6zI1Sx
+          Y8cOr/v5yyn0zsMIq1at0u8bA8yO4SYzc7/ZEarIz8/3uu8pGMujd8cNaJmkkVMS5bfpkPIe
+          naSwmXdr0EB/fbv6QcVX+3u7RUHBQXIVFemIdOwmQS45CotkCw6udNOg2uY2UFidxiqvISUl
+          JVX73FJSUtSvX786vS4nu/+jXco6fPC09+NJN8edr379LjY7hpuIjTul+VvNjlFF7969FRbs
+          Xf9zeT/jUykzz+wYbpo1a+aRnxdPyissll7baHaMKrp06aJenVuZHcPNr6VrpVV7zI7hJigo
+          yOu+pyQp4N1tksO7ClZiYqL6XXO+2THc+H2/Tfp4m9kxqujbt698bN71aXVvrPuPtLXA7Bhu
+          oqOj1a/fX8yO4WZnzmFp9mazY1Rx6aWXquN5jc2O4ebH/K+lNd71x43Q0FCPvadTZusnz7zz
+          ugr0y0evalHm8SssrQpsdomGPDZMHTZ9r401/rHKqibxcQr7NUObT8xxaPOG3xXTPk5+f3hu
+          vJrXaazyGgAAAACAM8kzJdTio5yV0zRi/Ez9nO88us1VoIyPP9OW2ETF+db8UL9ug3Sz3tfU
+          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
+          QmCC
+         </office:binary-data>
+        </draw:image>
+       </draw:frame>Figure <text:sequence text:ref-name="refFigure0" text:name="Figure" text:formula="ooow:Figure+1" style:num-format="1">1</text:sequence>: World Wide Market 2025-34 (In Millions USD)</text:p>
+     </draw:text-box>
+    </draw:frame></text:p>
+   <text:p text:style-name="Text_20_body">North America dominates the global Moringa market, with the United States serving as the primary growth engine. The region&apos;s mature health and wellness sector, combined with strong consumer purchasing power and sophisticated distribution networks, creates ideal conditions for <text:span text:style-name="T17">US </text:span>market expansion.</text:p>
+   <text:h text:style-name="P3" text:outline-level="2">Analysis</text:h>
+   <text:list text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P14">The capsule market in the US is flooded with several suppliers of varying quality. </text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P14"><text:soft-page-break/>Rosabella appears to the US market leader, but was excluded from a recent study due to inconsistent appearance and potency of capsules.</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P14">Even the manufacturers with a US presence are based in India or Africa.</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P14">The exception seems to be Pure Vida powder with a high quality reputation and corresponding pricing.</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P14">Indonesian Moringa is not well represented in the US market.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P15">Hawaii seems to have a small farming base, but is not marketed to the mainland.</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P15">Hawaii is also a attractive way to address the Japanese Market</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P15">Food product supplements are not promoted in the US market.</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P15">Power Green bread and pasta seem to be good for initial products.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P17">“Boutique” pasta manufacturers have been identified in California and the upper US Midwest</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P17">Oil is under-served in the US market in both food supplement and health &amp; beauty markets</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P17">It supports a high consumer price point</text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P15">We have identified a San Francisco area manufacturer representative organization that could take wholesale and/or dealer level sales to food manufacturers in Northern California and Nevada.</text:p>
+     <text:list>
+      <text:list-item>
+       <text:p text:style-name="P15">They also have brother outlets in the rest of the US mainland.</text:p>
+      </text:list-item>
+      <text:list-item>
+       <text:p text:style-name="P15">Green Power could work directly in the Hawaiian and therefore Japanese market </text:p>
+      </text:list-item>
+     </text:list>
+    </text:list-item>
+   </text:list>
+   <text:p text:style-name="Horizontal_20_Line"/>
+   <text:p text:style-name="P16">Backup detailed information follows:</text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Trends</text:h>
+   <text:p text:style-name="P8">In recent times, people are aware about health-related issues, and they are very much interested in taking healthy and nutritious food. For instance, food which has a wide range of health benefits may prevent or cure various chronic diseases. This kind of extraordinary food is also termed as super food. It is a new field of research to identify such sources of healthy and nutritious foods. The global Moringa markets are expected to increase significantly within the near future. According to MRFR analysis report, the global Moringa product field is expected to reach 9.3% which is USD 7902.9 million by 2025. Moringa products such as oils, capsules, leaf powder, and soaps are extracted from different parts of the tree. In contrast to the global contribution, the Asia Pacific contributed the largest share of 35.30% of the Moringa product market in 2018. Australia, China, India, and New Zealand are key countries which are contributing in the growth. Asia Pacific is the largest producer of Moringa. The production in the region is mostly consumed locally due to the traditional use of Moringa in wellness, skincare, and hair care. The market in North America is expected to register a CAGR of 10.0% by 2025.<text:note text:id="ftn2" text:note-class="footnote"><text:note-citation>3</text:note-citation><text:note-body>
+      <text:p text:style-name="P1"><text:a xlink:type="simple" xlink:href="https://www.sciencedirect.com/science/article/pii/S1756464621002498" text:style-name="Internet_20_link" text:visited-style-name="Visited_20_Internet_20_Link"><text:span text:style-name="T15">Science Direct, v84, 09/2021</text:span></text:a></text:p></text:note-body></text:note></text:p>
+   <text:p text:style-name="P8"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Driving the US Market</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">1. Rising Health Consciousness</text:h>
+   <text:p text:style-name="P8">Increasing consumer focus on wellness is driving growth across all Moringa product categories. The trend toward preventive healthcare has consumers actively seeking natural solutions to enhance their well-being. Moringa&apos;s recognition as a &quot;superfood&quot; with exceptional nutritional properties positions it perfectly for this market.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">2. Plant-Based Nutrition Boom</text:h>
+   <text:p text:style-name="P8">The growing adoption of plant-based diets has created significant opportunities for moringa products. As consumers reduce or eliminate animal products, they seek nutrient-dense plant alternatives, and Moringa provides comprehensive nutritional benefits including:</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• High protein content</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Complete amino acid profile</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Rich in vitamins (A, C, E)</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Abundant minerals (calcium, iron, potassium)</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Powerful antioxidants</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">3. Nutraceuticals Demand Surge</text:h>
+   <text:p text:style-name="P8">The broader nutraceuticals market, projected to reach $500 billion by 2025, provides substantial tailwinds for moringa products. Consumers increasingly view supplements as essential components of their health regimens, favoring natural, plant-based ingredients over synthetic alternatives.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">4. E-commerce Expansion</text:h>
+   <text:p text:style-name="P8">Digital transformation has dramatically improved market access for moringa products. E-commerce sales in the health and wellness sector are growing at 20% annually, with online platforms providing:</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Wider product selection</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Convenience for busy consumers</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Access to specialty brands</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Educational content and reviews</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Subscription models for recurring purchases</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">5. Organic Products Preference</text:h>
+   <text:p text:style-name="P8">The organic food market&apos;s 10% annual growth reflects consumer willingness to pay premium prices for products free from synthetic pesticides and fertilizers. Moringa, often cultivated using organic practices, aligns perfectly with this trend and commands premium pricing in organic-certified form.</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">6. Sustainability and Ethical Sourcing</text:h>
+   <text:p text:style-name="P8">Growing environmental consciousness favors Moringa due to:</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Drought-resistant properties</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Minimal water requirements</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Soil improvement capabilities</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Carbon sequestration potential</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Support for smallholder farmers in developing regions</text:p>
+   <text:p text:style-name="P8"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:soft-page-break/>Market Segmentation</text:h>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">1. Moringa Leaf Powder </text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Market Share: 45.2% of total sales (2022)</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Applications: Smoothies, teas, baked goods, supplements</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Key Benefits: Versatility, nutrient density, ease of use</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Price Range: $15-40 per pound (retail)</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Leading Brands: Organic India, Kuli Kuli, Pura Vida</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">2. Moringa Capsules &amp; Tablets</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Growth Rate: Highest growth segment</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Target Audience: Busy professionals, convenience seekers</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Advantages: Precise dosing, portability, no taste issues</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Price Range: $20-50 for 60-120 capsules</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Leading Brands: Organic India, MOGO</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">3. Moringa Tea</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• US Market Size: $350 million (projected 2025)</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Consumer Appeal: Caffeine-free alternative, traditional consumption</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Growth Driver: Rising demand for functional beverages</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Price Range: $5-20 for 20-30 tea bags</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Leading Brands: Organic India, Kuli Kuli, Traditional Medicinals</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">4. Moringa Oil</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Primary Applications: Skincare, hair care, cosmetics</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Growth Rate: 8% CAGR in cosmetics sector</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Premium Pricing: $30-100+ per ounce (cosmetic grade)</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Key Properties: Moisturizing, anti-aging, stable shelf life</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">5. Moringa Energy Bars &amp; Snacks</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Growth Driver: Convenience and functional food trend</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Target Market: Fitness enthusiasts, health-conscious snacking</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Leading Brands: Kuli Kuli, various organic snack companies</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Price Range: $2-4 per bar</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">6. Moringa Protein Powder</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Growth Driver: Plant-based protein market expansion</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Target Audience: Vegetarians, vegans, athletes</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Competitive Position: Alternative to pea, rice, hemp proteins</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Price Range: $25-60 per pound</text:p>
+   <text:p text:style-name="P8"/>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2">Market Structure</text:h>
+   <text:p text:style-name="P8">The US Moringa market is characterized as moderately fragmented, with a mix of established brands and emerging players competing through product differentiation, quality, and sustainability initiatives.</text:p>
+   <text:p text:style-name="P8">Key Players</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">1. Kuli Kuli (US)</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Position: Market leader in product innovation</text:p>
+   <text:p text:style-name="P8"><text:soft-page-break/><text:s text:c="4"/>• Product Portfolio: Powders, energy bars, teas, oil, protein powder, snacks, skincare</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Differentiation: Fair trade sourcing, West <text:span text:style-name="T9">African</text:span> partnerships, diverse product line</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Recent Developments: Organic Moringa protein bar launch, health food retailer partnerships</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">2. Organic India (US/<text:span text:style-name="T8">India</text:span>)</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Position: Established wellness brand</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Product Portfolio: Teas, capsules, powders</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Differentiation: Traditional Ayurvedic approach, organic certification, global presence</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Recent Developments: New moringa tea and capsule lines for energy and immune health</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">3. Pura Vida (US)</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Position: Premium single-source supplier</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Product Portfolio: <text:span text:style-name="T9">Capsules</text:span>, powders</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Differentiation: USDA organic certification, single-origin sourcing</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Target Market: Premium-conscious consumers</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">4. MOGO (US)</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Position: Specialty supplement brand</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Product Portfolio: High-quality <text:span text:style-name="T9">capsules</text:span></text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Differentiation: Focus on energy and immunity support</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">5. True Moringa (<text:span text:style-name="T8">Ghana</text:span>-based, US market)</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Position: Social enterprise brand</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Recent Funding: $3 million raised for Moringa <text:span text:style-name="T10">oil</text:span> production expansion</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Differentiation: Fair wage practices, sustainable production, community empowerment</text:p>
+   <text:h text:style-name="Heading_20_3" text:outline-level="3">6. Grenera Nutrients (<text:span text:style-name="T8">India</text:span>/US)</text:h>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Position: Ingredient supplier and brand owner</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Product Portfolio: Full range of Moringa products</text:p>
+   <text:p text:style-name="P8"><text:s text:c="4"/>• Differentiation: Vertical integration, B2B and B2C presence</text:p>
+   <text:h text:style-name="P4" text:outline-level="2"/>
+  </office:text>
+ </office:body>
+</office:document>
