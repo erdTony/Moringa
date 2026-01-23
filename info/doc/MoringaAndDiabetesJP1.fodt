@@ -6,18 +6,18 @@
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">128058</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">50220</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">50008</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">21407</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16609</config:config-item>
-     <config:config-item config:name="ViewTop" config:type="long">164678</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16503</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">2501</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">128058</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">50218</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">50006</config:config-item>
      <config:config-item config:name="VisibleBottom" config:type="long">149463</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
@@ -138,7 +138,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">485653</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">609322</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -170,7 +170,7 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="Noto Serif CJK SC" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari1" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
@@ -223,6 +223,9 @@
   <style:style style:name="Preformatted_20_Text" style:display-name="Preformatted Text" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
    <style:paragraph-properties fo:margin-top="0in" fo:margin-bottom="0in" style:contextual-spacing="false"/>
    <style:text-properties style:font-name="Liberation Mono" fo:font-family="&apos;Liberation Mono&apos;" style:font-family-generic="modern" style:font-pitch="fixed" fo:font-size="10pt" style:font-name-asian="Noto Sans Mono CJK SC" style:font-family-asian="&apos;Noto Sans Mono CJK SC&apos;" style:font-family-generic-asian="modern" style:font-pitch-asian="fixed" style:font-size-asian="10pt" style:font-name-complex="Liberation Mono" style:font-family-complex="&apos;Liberation Mono&apos;" style:font-family-generic-complex="modern" style:font-pitch-complex="fixed" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:orphans="0" fo:widows="0" text:number-lines="false" text:line-number="0"/>
   </style:style>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
    <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
@@ -309,6 +312,9 @@
   <style:style style:name="Table1.A" style:family="table-column">
    <style:table-column-properties style:column-width="3.3465in" style:rel-column-width="32767*"/>
   </style:style>
+  <style:style style:name="Table1.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.3465in" style:rel-column-width="32768*"/>
+  </style:style>
   <style:style style:name="Table1.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
   </style:style>
@@ -332,81 +338,87 @@
    <style:paragraph-properties fo:text-align="center" style:justify-single-word="false"/>
    <style:text-properties fo:color="#00a933" loext:opacity="100%" style:font-name="Noto Serif Display" fo:font-size="28pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="002299a1" officeooo:paragraph-rsid="0004bfa2" style:font-size-asian="28pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
-  </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties officeooo:paragraph-rsid="00066b6e"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
-  </style:style>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name=""/>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:paragraph-properties fo:break-before="page"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Heading_20_2">
-   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
-  </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="">
-   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
-  </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_3">
-   <style:paragraph-properties fo:break-before="page"/>
-   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
-  </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_4">
-   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
-  </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1"/>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2"/>
-  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
-   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
-  </style:style>
-  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4"/>
-  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
-   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
-  </style:style>
-  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
-   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
-  </style:style>
-  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6"/>
-  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L8"/>
-  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L9"/>
-  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L10"/>
-  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L11"/>
-  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L12"/>
-  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L13"/>
-  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L14"/>
-  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L15"/>
-  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
    <style:text-properties fo:color="#00a933" loext:opacity="100%" style:font-name="Noto Serif Display" fo:font-size="16pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="002299a1" officeooo:paragraph-rsid="00076915" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties officeooo:paragraph-rsid="00066b6e"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-size="16pt" officeooo:paragraph-rsid="00076915" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-size="8pt" officeooo:rsid="000a9e07" officeooo:paragraph-rsid="00076915" style:font-size-asian="7pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
    <style:text-properties officeooo:paragraph-rsid="00076915"/>
   </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name=""/>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:paragraph-properties fo:break-before="page"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Heading_20_3" style:list-style-name="">
+   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:paragraph-properties fo:break-before="page"/>
+   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties officeooo:paragraph-rsid="0005f834"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="16pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="000d7f02" officeooo:paragraph-rsid="00076915" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties fo:font-size="16pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:paragraph-rsid="00076915" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L1"/>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L2"/>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L3">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L7">
+   <style:paragraph-properties fo:text-align="start" style:justify-single-word="false"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4"/>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L4">
+   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L5">
+   <style:text-properties officeooo:paragraph-rsid="0004bfa2"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L6"/>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L8"/>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L9"/>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L10"/>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L11"/>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L12"/>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L13"/>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L14"/>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="L15"/>
   <style:style style:name="T1" style:family="text">
    <style:text-properties fo:font-style="italic" style:font-style-asian="italic" style:font-style-complex="italic"/>
   </style:style>
@@ -1255,17 +1267,18 @@
     <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
     <text:sequence-decl text:display-outline-level="0" text:name="Figure"/>
    </text:sequence-decls>
-   <text:p text:style-name="P39"/>
+   <text:p text:style-name="P16"/>
    <table:table table:name="Table1" table:style-name="Table1">
-    <table:table-column table:style-name="Table1.A" table:number-columns-repeated="2"/>
+    <table:table-column table:style-name="Table1.A"/>
+    <table:table-column table:style-name="Table1.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P37"><text:span text:style-name="T10">Moringa and Diabetes</text:span></text:p>
-      <text:p text:style-name="P37"><text:span text:style-name="T9">モリンガと糖尿病</text:span></text:p>
+      <text:p text:style-name="P24">Moringa and Diabetes</text:p>
+      <text:p text:style-name="P25">モリンガと糖尿病</text:p>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:p text:style-name="P36">Green Power <text:span text:style-name="T11">White Paper</text:span></text:p>
-      <text:p text:style-name="P36"><text:span text:style-name="T13">グリーンパワー</text:span><text:span text:style-name="T11"> </text:span><text:span text:style-name="T12">ホワイトペーパー</text:span></text:p>
+      <text:p text:style-name="P7">Green Power <text:span text:style-name="T11">White Paper</text:span></text:p>
+      <text:p text:style-name="P7"><text:span text:style-name="T13">グリーンパワー</text:span><text:span text:style-name="T11"> </text:span><text:span text:style-name="T12">ホワイトペーパー</text:span></text:p>
      </table:table-cell>
     </table:table-row>
    </table:table>
@@ -1274,9 +1287,9 @@
    <text:p text:style-name="Standard">「奇跡の木」とも呼ばれるモリンガ・オレイフェラは、糖尿病管理における潜在的な役割が注目され、科学界から大きな関心を集めている。この植物には、フラボノイド、ポリフェノール、イソチオシアネート、グルコシノレートなどの生物活性化合物が豊富に含まれており、これらの成分がその治療効果に貢献している。</text:p>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Key Clinical Evidence 主要な臨床的証拠</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Human Studies 人体研究</text:h>
-   <text:h text:style-name="P8" text:outline-level="4">2025 Randomized Controlled Trial (Journal of Ethnopharmacology) 年 無作為化比較試験（民族薬理学ジャーナル）：</text:h>
+   <text:h text:style-name="P9" text:outline-level="4">2025 Randomized Controlled Trial (Journal of Ethnopharmacology) 年 無作為化比較試験（民族薬理学ジャーナル）：</text:h>
    <text:p text:style-name="Standard">8 g/day <text:span text:style-name="T2">Moringa</text:span> leaf powder for 12 weeks in adults with type 2 diabetes</text:p>
-   <text:p text:style-name="P9">2型糖尿病成人患者を対象に、モリンガ葉粉末を1日8g、12週間投与した。</text:p>
+   <text:p text:style-name="P10">2型糖尿病成人患者を対象に、モリンガ葉粉末を1日8g、12週間投与した。</text:p>
    <text:p text:style-name="Standard">Results: Significant reduction in fasting blood glucose (-14.6 mg/dL) and improved lipid profiles</text:p>
    <text:p text:style-name="Standard">結果：空腹時血糖値の有意な低下（-14.6 mg/dL）および脂質プロファイルの改善が認められた。</text:p>
    <text:h text:style-name="Heading_20_4" text:outline-level="4">2024 European Congress of Endocrinology Study:</text:h>
@@ -1286,8 +1299,8 @@
    <text:p text:style-name="Standard">2型糖尿病患者10名に、モリンガ粉末を15日間は1日5g、その後15日間は1日8g投与した。</text:p>
    <text:p text:style-name="Standard">結果：30日後、空腹時血糖値が18.73%低下した。</text:p>
    <text:p text:style-name="Standard">その他の効果：総コレステロール値が13.05%、トリグリセリド値が19.62%減少した。</text:p>
-   <text:h text:style-name="P14" text:outline-level="2"/>
-   <text:h text:style-name="P10" text:outline-level="2">Mechanisms of Action 作用機序</text:h>
+   <text:h text:style-name="P18" text:outline-level="2"/>
+   <text:h text:style-name="P11" text:outline-level="2">Mechanisms of Action 作用機序</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">1. Blood Sugar Regulation</text:h>
    <text:p text:style-name="Standard"><text:span text:style-name="T4">Enzyme Inhibition</text:span>: Chlorogenic acid and quercetin inhibit α-glucosidase and α-amylase, reducing glucose absorption</text:p>
    <text:p text:style-name="Standard"><text:span text:style-name="T4">Insulin Sensitivity</text:span>: Bioactive compounds enhance insulin receptor expression and improve insulin signaling</text:p>
@@ -1300,40 +1313,40 @@
    <text:p text:style-name="Standard"><text:span text:style-name="T2">Moringa</text:span> contains potent antioxidants including:</text:p>
    <text:list text:style-name="L1">
     <text:list-item>
-     <text:p text:style-name="P20">Quercetin (20-30 mg/100g)</text:p>
+     <text:p text:style-name="P26">Quercetin (20-30 mg/100g)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20">Kaempferol (10-15 mg/100g)</text:p>
+     <text:p text:style-name="P26">Kaempferol (10-15 mg/100g)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20">Vitamin C (120-150 mg/100g fresh leaves)</text:p>
+     <text:p text:style-name="P26">Vitamin C (120-150 mg/100g fresh leaves)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20">Chlorogenic acid (50-100 mg/100g)</text:p>
+     <text:p text:style-name="P26">Chlorogenic acid (50-100 mg/100g)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P20">These compounds neutralize free radicals and reduce oxidative stress, which is a major contributor to diabetes complications.</text:p>
+     <text:p text:style-name="P26">These compounds neutralize free radicals and reduce oxidative stress, which is a major contributor to diabetes complications.</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">2. 抗酸化作用</text:h>
    <text:p text:style-name="Standard">モリンガには、以下のような強力な抗酸化物質が含まれています。</text:p>
    <text:list text:style-name="L2">
     <text:list-item>
-     <text:p text:style-name="P21">ケルセチン（20～30mg/100g）</text:p>
+     <text:p text:style-name="P27">ケルセチン（20～30mg/100g）</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P21">カンフェロール（10～15mg/100g）</text:p>
+     <text:p text:style-name="P27">カンフェロール（10～15mg/100g）</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P21">ビタミンC（生葉100gあたり120～150mg）</text:p>
+     <text:p text:style-name="P27">ビタミンC（生葉100gあたり120～150mg）</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P21">クロロゲン酸（50～100mg/100g）</text:p>
+     <text:p text:style-name="P27">クロロゲン酸（50～100mg/100g）</text:p>
     </text:list-item>
    </text:list>
    <text:list text:style-name="L3">
     <text:list-item>
-     <text:p text:style-name="P22">これらの化合物はフリーラジカルを中和し、糖尿病合併症の主な原因となる酸化ストレスを軽減します。</text:p>
+     <text:p text:style-name="P28">これらの化合物はフリーラジカルを中和し、糖尿病合併症の主な原因となる酸化ストレスを軽減します。</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">3. Anti-inflammatory Properties</text:h>
@@ -1344,108 +1357,108 @@
    <text:p text:style-name="Standard">炎症性サイトカイン（TNF-α、IL-6、IL-1β）を減少させる</text:p>
    <text:p text:style-name="Standard">NF-κB経路の活性化を阻害する</text:p>
    <text:p text:style-name="Standard">インスリン抵抗性に関連する全身性炎症を軽減する</text:p>
-   <text:h text:style-name="P14" text:outline-level="2"/>
-   <text:h text:style-name="P10" text:outline-level="2">Preclinical Evidence 前臨床証拠</text:h>
+   <text:h text:style-name="P18" text:outline-level="2"/>
+   <text:h text:style-name="P11" text:outline-level="2">Preclinical Evidence 前臨床証拠</text:h>
    <text:p text:style-name="Standard">Extensive animal studies have demonstrated:</text:p>
    <text:list text:style-name="L4">
     <text:list-item>
-     <text:p text:style-name="P24">Reduced fasting glucose levels by 20-40% in diabetic models</text:p>
+     <text:p text:style-name="P30">Reduced fasting glucose levels by 20-40% in diabetic models</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Improved insulin sensitivity through enhanced glucose uptake</text:p>
+     <text:p text:style-name="P30">Improved insulin sensitivity through enhanced glucose uptake</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Protection against diabetic complications including nephropathy and neuropathy</text:p>
+     <text:p text:style-name="P30">Protection against diabetic complications including nephropathy and neuropathy</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P24">Wound healing enhancement in diabetic subjects</text:p>
+     <text:p text:style-name="P30">Wound healing enhancement in diabetic subjects</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P25">Weight management effects in obese diabetic models</text:p>
+     <text:p text:style-name="P31">Weight management effects in obese diabetic models</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P4">広範な動物実験により、以下のことが実証されています。</text:p>
    <text:list text:style-name="L5">
     <text:list-item>
-     <text:p text:style-name="P26">糖尿病モデルにおいて、空腹時血糖値が20～40%低下した。</text:p>
+     <text:p text:style-name="P32">糖尿病モデルにおいて、空腹時血糖値が20～40%低下した。</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">グルコース取り込みの促進により、インスリン感受性が改善された。</text:p>
+     <text:p text:style-name="P32">グルコース取り込みの促進により、インスリン感受性が改善された。</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">腎症や神経障害などの糖尿病合併症に対する予防効果が認められた。</text:p>
+     <text:p text:style-name="P32">腎症や神経障害などの糖尿病合併症に対する予防効果が認められた。</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">糖尿病被験者における創傷治癒が促進された。</text:p>
+     <text:p text:style-name="P32">糖尿病被験者における創傷治癒が促進された。</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P26">肥満糖尿病モデルにおいて、体重管理効果が認められた。</text:p>
+     <text:p text:style-name="P32">肥満糖尿病モデルにおいて、体重管理効果が認められた。</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P7" text:outline-level="2">Nutritional Benefits for Diabetics </text:h>
-   <text:h text:style-name="P7" text:outline-level="2">糖尿病患者にとっての栄養上の利点</text:h>
+   <text:h text:style-name="P8" text:outline-level="2">Nutritional Benefits for Diabetics </text:h>
+   <text:h text:style-name="P8" text:outline-level="2">糖尿病患者にとっての栄養上の利点</text:h>
    <text:p text:style-name="Standard"><text:span text:style-name="T2">Moringa</text:span> leaves are exceptionally nutrient-dense:</text:p>
    <text:list text:style-name="L6">
     <text:list-item>
-     <text:p text:style-name="P27">Protein: 25-30% (contains all essential amino acids)</text:p>
+     <text:p text:style-name="P33">Protein: 25-30% (contains all essential amino acids)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Fiber: 10-12% (helps regulate glucose absorption)</text:p>
+     <text:p text:style-name="P33">Fiber: 10-12% (helps regulate glucose absorption)</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Vitamins: High in A, C, and E</text:p>
+     <text:p text:style-name="P33">Vitamins: High in A, C, and E</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Minerals: Rich in calcium, potassium, iron, and magnesium</text:p>
+     <text:p text:style-name="P33">Minerals: Rich in calcium, potassium, iron, and magnesium</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P27">Low glycemic index: Suitable for blood sugar management</text:p>
+     <text:p text:style-name="P33">Low glycemic index: Suitable for blood sugar management</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard">モリンガの葉は非常に栄養価が高いです。</text:p>
    <text:list text:style-name="L7">
     <text:list-item>
-     <text:p text:style-name="P23">タンパク質：25～30%（必須アミノ酸をすべて含んでいます）</text:p>
+     <text:p text:style-name="P29">タンパク質：25～30%（必須アミノ酸をすべて含んでいます）</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P23">食物繊維：10～12%（糖質の吸収を調整するのに役立ちます）</text:p>
+     <text:p text:style-name="P29">食物繊維：10～12%（糖質の吸収を調整するのに役立ちます）</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P23">ビタミン：ビタミンA、C、Eが豊富</text:p>
+     <text:p text:style-name="P29">ビタミン：ビタミンA、C、Eが豊富</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P23">ミネラル：カルシウム、カリウム、鉄、マグネシウムが豊富</text:p>
+     <text:p text:style-name="P29">ミネラル：カルシウム、カリウム、鉄、マグネシウムが豊富</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P23">低GI値：血糖値の管理に適しています</text:p>
+     <text:p text:style-name="P29">低GI値：血糖値の管理に適しています</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Dosage and Forms 投与量と剤形</text:h>
    <text:p text:style-name="Standard">Effective Dosages from Studies:</text:p>
    <text:list text:style-name="L8">
     <text:list-item>
-     <text:p text:style-name="P28">Powder form: 5-8 grams per day</text:p>
+     <text:p text:style-name="P34">Powder form: 5-8 grams per day</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Extract form: 200-500 mg/kg in animal studies</text:p>
+     <text:p text:style-name="P34">Extract form: 200-500 mg/kg in animal studies</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P28">Treatment duration: 8-12 weeks for significant effects</text:p>
+     <text:p text:style-name="P34">Treatment duration: 8-12 weeks for significant effects</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard">研究に基づく有効投与量：</text:p>
    <text:list text:style-name="L9">
     <text:list-item>
-     <text:p text:style-name="P29">粉末状：1日あたり5～8グラム</text:p>
+     <text:p text:style-name="P35">粉末状：1日あたり5～8グラム</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">抽出物：動物実験では体重1kgあたり200～500mg</text:p>
+     <text:p text:style-name="P35">抽出物：動物実験では体重1kgあたり200～500mg</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P29">治療期間：顕著な効果を得るには8～12週間</text:p>
+     <text:p text:style-name="P35">治療期間：顕著な効果を得るには8～12週間</text:p>
     </text:list-item>
    </text:list>
-   <text:h text:style-name="P17" text:outline-level="3"/>
+   <text:h text:style-name="P21" text:outline-level="3"/>
    <text:h text:style-name="P5" text:outline-level="3">Forms of Consumption 消費形態</text:h>
    <text:p text:style-name="P4"><text:span text:style-name="T4"><text:tab/>Leaf powder</text:span>: Most commonly available form</text:p>
    <text:p text:style-name="P4"><text:span text:style-name="T4"><text:tab/>Capsules and tablets</text:span>: Standardized supplement forms</text:p>
@@ -1639,8 +1652,8 @@
      </draw:image>
     </draw:frame>Safety Considerations 安全上の考慮事項</text:h>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Generally Recognized as Safe (GRAS) 一般的に安全と認められている</text:h>
-   <text:p text:style-name="P12">Well-tolerated at normal food levels </text:p>
-   <text:p text:style-name="P12">通常の食品に含まれる量であれば、忍容性は良好です</text:p>
+   <text:p text:style-name="P13">Well-tolerated at normal food levels </text:p>
+   <text:p text:style-name="P13">通常の食品に含まれる量であれば、忍容性は良好です</text:p>
    <text:p text:style-name="Standard">No significant side effects reported in studies </text:p>
    <text:p text:style-name="Standard">研究では重大な副作用は報告されていない</text:p>
    <text:h text:style-name="Heading_20_3" text:outline-level="3"><text:span text:style-name="T8">•</text:span><text:span text:style-name="T7"> </text:span>Important Precautions 重要な注意事項</text:h>
@@ -1667,56 +1680,56 @@
    <text:p text:style-name="Standard">Research suggests <text:span text:style-name="T2">Moringa</text:span> may:</text:p>
    <text:list text:style-name="L10">
     <text:list-item>
-     <text:p text:style-name="P30">Enhance metformin effectiveness through complementary mechanisms</text:p>
+     <text:p text:style-name="P36">Enhance metformin effectiveness through complementary mechanisms</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">Reduce medication side effects through antioxidant protection</text:p>
+     <text:p text:style-name="P36">Reduce medication side effects through antioxidant protection</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P30">Improve overall metabolic health beyond glucose control</text:p>
+     <text:p text:style-name="P36">Improve overall metabolic health beyond glucose control</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard">研究によると、モリンガには以下の効果が期待できます:</text:p>
    <text:list text:style-name="L11">
     <text:list-item>
-     <text:p text:style-name="P31">相補的なメカニズムによってメトホルミンの効果を高める</text:p>
+     <text:p text:style-name="P37">相補的なメカニズムによってメトホルミンの効果を高める</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">抗酸化作用によって薬剤の副作用を軽減する</text:p>
+     <text:p text:style-name="P37">抗酸化作用によって薬剤の副作用を軽減する</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P31">血糖コントロールにとどまらず、全身の代謝健康状態を改善する</text:p>
+     <text:p text:style-name="P37">血糖コントロールにとどまらず、全身の代謝健康状態を改善する</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Future Research Directions 今後の研究方向</text:h>
    <text:p text:style-name="Standard">Current gaps in knowledge include:</text:p>
    <text:list text:style-name="L12">
     <text:list-item>
-     <text:p text:style-name="P32">Large-scale human trials needed for definitive recommendations</text:p>
+     <text:p text:style-name="P38">Large-scale human trials needed for definitive recommendations</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32">Standardized dosing protocols for different diabetes stages</text:p>
+     <text:p text:style-name="P38">Standardized dosing protocols for different diabetes stages</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32">Long-term safety studies in diabetic populations</text:p>
+     <text:p text:style-name="P38">Long-term safety studies in diabetic populations</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P32">Mechanism clarification at molecular level</text:p>
+     <text:p text:style-name="P38">Mechanism clarification at molecular level</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard">現在の知識におけるギャップは以下のとおりです:</text:p>
    <text:list text:style-name="L13">
     <text:list-item>
-     <text:p text:style-name="P33">確定的な推奨事項を策定するための大規模なヒト臨床試験が必要</text:p>
+     <text:p text:style-name="P39">確定的な推奨事項を策定するための大規模なヒト臨床試験が必要</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P33">糖尿病の病期に応じた標準的な投与プロトコルの確立</text:p>
+     <text:p text:style-name="P39">糖尿病の病期に応じた標準的な投与プロトコルの確立</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P33">糖尿病患者集団における長期的な安全性に関する研究</text:p>
+     <text:p text:style-name="P39">糖尿病患者集団における長期的な安全性に関する研究</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P33">分子レベルでの作用機序の解明</text:p>
+     <text:p text:style-name="P39">分子レベルでの作用機序の解明</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_2" text:outline-level="2">Practical Recommendations 実践的な推奨事項</text:h>
@@ -1742,33 +1755,33 @@
    <text:p text:style-name="Standard">The scientific evidence supports <text:span text:style-name="T2">Moringa&apos;s</text:span> potential as a valuable complementary approach in diabetes management, particularly for:</text:p>
    <text:list text:style-name="L14">
     <text:list-item>
-     <text:p text:style-name="P34">Blood glucose regulation through multiple mechanisms</text:p>
+     <text:p text:style-name="P40">Blood glucose regulation through multiple mechanisms</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P34">Reducing oxidative stress and inflammation</text:p>
+     <text:p text:style-name="P40">Reducing oxidative stress and inflammation</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P34">Improving lipid profiles and cardiovascular risk factors</text:p>
+     <text:p text:style-name="P40">Improving lipid profiles and cardiovascular risk factors</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard">科学的証拠は、モリンガが糖尿病管理における貴重な補助療法として有効である可能性を示しており、特に以下の点において効果が期待できます:</text:p>
    <text:list text:style-name="L15">
     <text:list-item>
-     <text:p text:style-name="P35">複数のメカニズムによる血糖値の調節</text:p>
+     <text:p text:style-name="P41">複数のメカニズムによる血糖値の調節</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">酸化ストレスと炎症の軽減</text:p>
+     <text:p text:style-name="P41">酸化ストレスと炎症の軽減</text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P35">脂質プロファイルおよび心血管疾患リスク因子の改善</text:p>
+     <text:p text:style-name="P41">脂質プロファイルおよび心血管疾患リスク因子の改善</text:p>
     </text:list-item>
    </text:list>
    <text:h text:style-name="Heading_20_3" text:outline-level="3">Supporting overall metabolic health 全体的な代謝の健康をサポートする</text:h>
    <text:p text:style-name="Standard">However, more robust clinical trials are needed to establish standardized dosing recommendations and confirm long-term safety in diabetic populations. <text:span text:style-name="T2">Moringa</text:span> should be used as part of a comprehensive diabetes management plan under medical supervision.</text:p>
    <text:p text:style-name="Standard">しかし、標準的な投与量を確立し、糖尿病患者における長期的な安全性を確認するためには、より厳密な臨床試験が必要です。モリンガは、医師の監督のもと、包括的な糖尿病管理計画の一環として使用されるべきです。</text:p>
    <text:p text:style-name="Standard"/>
-   <text:p text:style-name="P38">Revised <text:span text:style-name="T14">January 17, 2026</text:span></text:p>
-   <text:p text:style-name="P38"/>
+   <text:p text:style-name="P15">Revised <text:span text:style-name="T14">January 17, 2026</text:span></text:p>
+   <text:p text:style-name="P15"/>
   </office:text>
  </office:body>
 </office:document>

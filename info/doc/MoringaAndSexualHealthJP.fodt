@@ -6,18 +6,18 @@
   <config:config-item-set config:name="ooo:view-settings">
    <config:config-item config:name="ViewAreaTop" config:type="long">0</config:config-item>
    <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
-   <config:config-item config:name="ViewAreaWidth" config:type="long">50220</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">50008</config:config-item>
    <config:config-item config:name="ViewAreaHeight" config:type="long">21407</config:config-item>
    <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
    <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
    <config:config-item-map-indexed config:name="Views">
     <config:config-item-map-entry>
      <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
-     <config:config-item config:name="ViewLeft" config:type="long">16512</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">16406</config:config-item>
      <config:config-item config:name="ViewTop" config:type="long">1771</config:config-item>
      <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
      <config:config-item config:name="VisibleTop" config:type="long">0</config:config-item>
-     <config:config-item config:name="VisibleRight" config:type="long">50218</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">50006</config:config-item>
      <config:config-item config:name="VisibleBottom" config:type="long">21405</config:config-item>
      <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
      <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
@@ -115,7 +115,7 @@
    <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
    <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedLatinScriptFonts" config:type="boolean">true</config:config-item>
-   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ywH+/0czMDAwLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpHMzAwMC1zZXJpZXMAAAAAAAAAAAAAAAAAAAAWAAMArAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9RzMwMDAtc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKSW5wdXRTbG90OlJlYXIAUGFnZVNpemU6QTQAABIAQ09NUEFUX0RVUExFWF9NT0RFEwBEdXBsZXhNb2RlOjpVbmtub3duDABQUklOVEVSX05BTUUMAEczMDAwLXNlcmllcwsARFJJVkVSX05BTUURAENVUFM6RzMwMDAtc2VyaWVz</config:config-item>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary">ywH+/0czMDAwLXNlcmllcwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQ1VQUzpHMzAwMC1zZXJpZXMAAAAAAAAAAAAAAAAAAAAWAAMArAAAAAAAAAAEAAhSAAAEdAAASm9iRGF0YSAxCnByaW50ZXI9RzMwMDAtc2VyaWVzCm9yaWVudGF0aW9uPVBvcnRyYWl0CmNvcGllcz0xCmNvbGxhdGU9ZmFsc2UKbWFyZ2luYWRqdXN0bWVudD0wLDAsJzAsMApjb2xvcmRlcHRoPTI0CmNvbG9yZGV2aWNlPTAKUFBEQ29udGV4dERhdGEKUGFnZVNpemU6QTQASW5wdXRTbG90OlJlYXIAABIAQ09NUEFUX0RVUExFWF9NT0RFEwBEdXBsZXhNb2RlOjpVbmtub3duDABQUklOVEVSX05BTUUMAEczMDAwLXNlcmllcwsARFJJVkVSX05BTUURAENVUFM6RzMwMDAtc2VyaWVz</config:config-item>
    <config:config-item config:name="UseVariableWidthNBSP" config:type="boolean">false</config:config-item>
    <config:config-item config:name="EmbedOnlyUsedFonts" config:type="boolean">false</config:config-item>
    <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
@@ -139,7 +139,7 @@
    <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
    <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
    <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
-   <config:config-item config:name="Rsid" config:type="int">1704865</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">1818091</config:config-item>
    <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
    <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
    <config:config-item config:name="MsWordCompMinLineHeightByFly" config:type="boolean">false</config:config-item>
@@ -171,13 +171,13 @@
  <office:styles>
   <style:default-style style:family="graphic">
    <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.1181in" draw:shadow-offset-y="0.1181in" draw:start-line-spacing-horizontal="0.1114in" draw:start-line-spacing-vertical="0.1114in" draw:end-line-spacing-horizontal="0.1114in" draw:end-line-spacing-vertical="0.1114in" style:writing-mode="lr-tb" style:flow-with-text="false"/>
-   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:font-independent-line-spacing="false">
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" loext:tab-stop-distance="0in" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
     <style:tab-stops/>
    </style:paragraph-properties>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="ＭＳ 明朝1" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
   </style:default-style>
   <style:default-style style:family="paragraph">
-   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="page"/>
+   <style:paragraph-properties fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.4925in" style:writing-mode="lr-tb"/>
    <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Liberation Serif" fo:font-size="12pt" fo:language="en" fo:country="US" style:letter-kerning="true" style:font-name-asian="ＭＳ 明朝1" style:font-size-asian="12pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="Noto Sans Devanagari" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-remain-char-count="2" fo:hyphenation-push-char-count="2" loext:hyphenation-no-caps="false" loext:hyphenation-no-last-word="false" loext:hyphenation-word-char-count="5" loext:hyphenation-zone="no-limit"/>
   </style:default-style>
   <style:default-style style:family="table">
@@ -211,6 +211,9 @@
   <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:list-style-name="WWNum1" style:list-level="2" style:class="text">
    <style:paragraph-properties fo:margin-top="0.139in" fo:margin-bottom="0.0835in" style:contextual-spacing="false"/>
    <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Table_20_Contents" style:display-name="Table Contents" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:orphans="0" fo:widows="0" text:number-lines="false" text:line-number="0"/>
   </style:style>
   <style:style style:name="Default_20_Paragraph_20_Font" style:display-name="Default Paragraph Font" style:family="text"/>
   <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
@@ -670,10 +673,13 @@
  </office:styles>
  <office:automatic-styles>
   <style:style style:name="Table1" style:family="table">
-   <style:table-properties style:width="6.7701in" table:align="margins"/>
+   <style:table-properties style:width="6.7701in" table:align="margins" style:writing-mode="lr-tb"/>
   </style:style>
   <style:style style:name="Table1.A" style:family="table-column">
-   <style:table-column-properties style:column-width="3.3854in" style:rel-column-width="32767*"/>
+   <style:table-column-properties style:column-width="3.3847in" style:rel-column-width="32767*"/>
+  </style:style>
+  <style:style style:name="Table1.B" style:family="table-column">
+   <style:table-column-properties style:column-width="3.3854in" style:rel-column-width="32768*"/>
   </style:style>
   <style:style style:name="Table1.A1" style:family="table-cell">
    <style:table-cell-properties style:writing-mode="page"/>
@@ -702,44 +708,57 @@
    <style:paragraph-properties fo:margin-left="0.5in"/>
    <style:text-properties fo:font-size="11pt" style:font-size-asian="11pt" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum1">
-   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:paragraph-rsid="0018a3d2"/>
-  </style:style>
-  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
-   <style:text-properties style:font-name-asian="ＭＳ 明朝1" style:language-asian="ja" style:country-asian="JP"/>
-  </style:style>
-  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.5in"/>
-   <style:text-properties style:font-name-asian="ＭＳ 明朝1" style:language-asian="ja" style:country-asian="JP"/>
-  </style:style>
-  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2"/>
-  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
-   <style:text-properties officeooo:paragraph-rsid="0016aa72"/>
-  </style:style>
-  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum3"/>
-  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4"/>
-  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard">
-   <style:paragraph-properties fo:margin-left="0.5in"/>
-   <style:text-properties style:font-name="ＭＳ 明朝" style:font-name-asian="ＭＳ 明朝1" style:language-asian="ja" style:country-asian="JP" style:font-name-complex="ＭＳ 明朝1"/>
-  </style:style>
-  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.5in"/>
    <style:text-properties fo:font-size="11pt" style:font-name-asian="ＭＳ 明朝1" style:font-size-asian="11pt" style:language-asian="ja" style:country-asian="JP" style:font-size-complex="11pt"/>
   </style:style>
-  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:margin-left="0.5in"/>
+   <style:text-properties style:font-name="ＭＳ 明朝" style:font-name-asian="ＭＳ 明朝1" style:language-asian="ja" style:country-asian="JP" style:font-name-complex="ＭＳ 明朝1"/>
   </style:style>
-  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-size="8pt" officeooo:rsid="000a9e07" officeooo:paragraph-rsid="001a03a1" style:font-size-asian="7pt" style:font-size-complex="8pt"/>
   </style:style>
-  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Standard">
    <style:text-properties fo:font-size="16pt" officeooo:paragraph-rsid="001a03a1" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
   </style:style>
-  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Standard">
    <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
    <style:text-properties fo:color="#00a933" loext:opacity="100%" style:font-name="Noto Serif Display" fo:font-size="16pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="002299a1" officeooo:paragraph-rsid="001a03a1" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
   </style:style>
-  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WWNum1">
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:paragraph-rsid="001a03a1"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Heading_20_2" style:list-style-name="WWNum1">
+   <style:text-properties style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:paragraph-rsid="0018a3d2"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+   <style:text-properties fo:font-size="16pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:rsid="000d7f02" officeooo:paragraph-rsid="001a03a1" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+   <style:text-properties fo:font-size="16pt" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" officeooo:paragraph-rsid="001a03a1" style:font-size-asian="16pt" style:font-size-complex="16pt"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum1">
+   <style:paragraph-properties fo:text-align="end" style:justify-single-word="false"/>
+   <style:text-properties fo:color="#00a933" loext:opacity="100%" style:font-name="Noto Serif Display" fo:font-size="16pt" fo:font-style="normal" style:text-underline-style="none" fo:font-weight="bold" officeooo:rsid="002299a1" officeooo:paragraph-rsid="001a03a1" style:font-size-asian="16pt" style:font-style-asian="normal" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-style-complex="normal" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Standard">
+   <style:text-properties style:font-name-asian="ＭＳ 明朝1" style:language-asian="ja" style:country-asian="JP"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.5in"/>
+   <style:text-properties style:font-name-asian="ＭＳ 明朝1" style:language-asian="ja" style:country-asian="JP"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2"/>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum2">
+   <style:text-properties officeooo:paragraph-rsid="0016aa72"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum3"/>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Standard" style:list-style-name="WWNum4"/>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-left="0.5in"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="WWNum1">
    <style:text-properties officeooo:paragraph-rsid="001a03a1"/>
   </style:style>
   <style:style style:name="T1" style:family="text">
@@ -818,15 +837,18 @@
    <style:text-properties fo:font-size="11pt" style:font-name-asian="ＭＳ 明朝1" style:font-size-asian="11pt" style:language-asian="ja" style:country-asian="JP" style:font-size-complex="11pt"/>
   </style:style>
   <style:style style:name="T26" style:family="text">
-   <style:text-properties officeooo:rsid="0016e947" style:font-size-asian="8pt"/>
+   <style:text-properties style:font-size-asian="8pt"/>
   </style:style>
   <style:style style:name="T27" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Sans" fo:font-weight="normal" officeooo:rsid="0013279a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties officeooo:rsid="0016e947" style:font-size-asian="8pt"/>
   </style:style>
   <style:style style:name="T28" style:family="text">
-   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Sans" fo:letter-spacing="-0.0016in" fo:font-weight="normal" officeooo:rsid="0013279a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Sans" fo:font-weight="normal" officeooo:rsid="0013279a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:style style:name="T29" style:family="text">
+   <style:text-properties style:use-window-font-color="true" loext:opacity="0%" style:font-name="Noto Sans" fo:letter-spacing="-0.0016in" fo:font-weight="normal" officeooo:rsid="0013279a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
    <style:text-properties fo:color="#81d41a" loext:opacity="100%" style:font-name="Noto Sans" fo:font-weight="normal" officeooo:rsid="0013279a" style:font-weight-asian="normal" style:font-weight-complex="normal"/>
   </style:style>
   <style:page-layout style:name="pm1">
@@ -854,29 +876,30 @@
    </text:sequence-decls>
    <text:list text:style-name="WWNum1">
     <text:list-item>
-     <text:p text:style-name="P21"/>
+     <text:p text:style-name="P25"/>
     </text:list-item>
    </text:list>
    <table:table table:name="Table1" table:style-name="Table1">
-    <table:table-column table:style-name="Table1.A" table:number-columns-repeated="2"/>
+    <table:table-column table:style-name="Table1.A"/>
+    <table:table-column table:style-name="Table1.B"/>
     <table:table-row>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
       <text:list text:continue-numbering="true" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P19"><text:span text:style-name="T3">Moringa and Sexual Health</text:span></text:p>
+        <text:p text:style-name="P15">Moringa and Sexual Health</text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P19"><text:span text:style-name="T1">モリンガと性的健康</text:span></text:p>
+        <text:p text:style-name="P16">モリンガと性的健康</text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
      <table:table-cell table:style-name="Table1.A1" office:value-type="string">
-      <text:list xml:id="list124956448980592" text:continue-numbering="true" text:style-name="WWNum1">
+      <text:list xml:id="list81345052561785" text:continue-numbering="true" text:style-name="WWNum1">
        <text:list-item>
-        <text:p text:style-name="P20">Green Power <text:span text:style-name="T27">White Paper</text:span></text:p>
+        <text:p text:style-name="P17">Green Power <text:span text:style-name="T28">White Paper</text:span></text:p>
        </text:list-item>
        <text:list-item>
-        <text:p text:style-name="P20"><text:span text:style-name="T29">グリーンパワー</text:span><text:span text:style-name="T27"> </text:span><text:span text:style-name="T28">ホワイトペーパー</text:span></text:p>
+        <text:p text:style-name="P17"><text:span text:style-name="T30">グリーンパワー</text:span><text:span text:style-name="T28"> </text:span><text:span text:style-name="T29">ホワイトペーパー</text:span></text:p>
        </text:list-item>
       </text:list>
      </table:table-cell>
@@ -888,97 +911,97 @@
    <text:p text:style-name="P3" loext:marker-style-name="T6"/>
    <text:list text:style-name="WWNum2">
     <text:list-item>
-     <text:p text:style-name="P11">🍃<text:span text:style-name="T7">Supports Blood Flow &amp; Circulation</text:span><text:span text:style-name="T9">　血流と循環をサポート</text:span></text:p>
+     <text:p text:style-name="P20">🍃<text:span text:style-name="T7">Supports Blood Flow &amp; Circulation</text:span><text:span text:style-name="T9">　血流と循環をサポート</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11">Good circulation is essential for sexual performance. <text:span text:style-name="T6">良好な血行は性生活に不可欠</text:span></text:p>
+       <text:p text:style-name="P20">Good circulation is essential for sexual performance. <text:span text:style-name="T6">良好な血行は性生活に不可欠</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P11"><text:span text:style-name="T16">Moringa</text:span> contains: Antioxidants (quercetin, vitamin C &amp; E) and Nutrients supporting heart health<text:span text:style-name="T6">. モリンガには抗酸化物質（ケルセチン、ビタミンC,E）と心臓の健康をサポートする栄養素が含まれています。</text:span></text:p>
+       <text:p text:style-name="P20"><text:span text:style-name="T16">Moringa</text:span> contains: Antioxidants (quercetin, vitamin C &amp; E) and Nutrients supporting heart health<text:span text:style-name="T6">. モリンガには抗酸化物質（ケルセチン、ビタミンC,E）と心臓の健康をサポートする栄養素が含まれています。</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P11">These help maintain healthy blood vessels and blood flow, which indirectly supports sexual function.<text:span text:style-name="T10"> これらは健康な血管と血流を維持し性機能もサポートします。</text:span></text:p>
+       <text:p text:style-name="P20">These help maintain healthy blood vessels and blood flow, which indirectly supports sexual function.<text:span text:style-name="T10"> これらは健康な血管と血流を維持し性機能もサポートします。</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">🔥<text:span text:style-name="T7">Supports Libido</text:span><text:span text:style-name="T9">　</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T8">性欲をサポート</text:span></text:p>
+     <text:p text:style-name="P20">🔥<text:span text:style-name="T7">Supports Libido</text:span><text:span text:style-name="T9">　</text:span><text:span text:style-name="T7"> </text:span><text:span text:style-name="T8">性欲をサポート</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11">In many cultures, <text:span text:style-name="T16">Moringa</text:span> is used as a natural vitality booster because it contains: Zinc, Magnesium, and Plant compounds that reduce stress.<text:span text:style-name="T6"> </text:span>These factors help improve overall sexual energy and desire. <text:span text:style-name="T6">古くからモリンガは天然の活力増強剤として利用されています。これ等の理由として亜鉛、マグネシウム、そしてストレスを軽減する植物性化合物が含まれているからです。これ等の成分は性欲エネルギーを高めるのに役立ちます。</text:span></text:p>
+       <text:p text:style-name="P20">In many cultures, <text:span text:style-name="T16">Moringa</text:span> is used as a natural vitality booster because it contains: Zinc, Magnesium, and Plant compounds that reduce stress.<text:span text:style-name="T6"> </text:span>These factors help improve overall sexual energy and desire. <text:span text:style-name="T6">古くからモリンガは天然の活力増強剤として利用されています。これ等の理由として亜鉛、マグネシウム、そしてストレスを軽減する植物性化合物が含まれているからです。これ等の成分は性欲エネルギーを高めるのに役立ちます。</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">🧬 <text:span text:style-name="T7">Helps Reduce Oxidative Stress</text:span><text:span text:style-name="T9">　酸化によるストレス軽減</text:span></text:p>
+     <text:p text:style-name="P20">🧬 <text:span text:style-name="T7">Helps Reduce Oxidative Stress</text:span><text:span text:style-name="T9">　酸化によるストレス軽減</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11"><text:span text:style-name="T16">Moringa’s</text:span> strong antioxidants may help support: Hormonal balance, Reproductive cell health, and Long-term sexual vitality. Oxidative stress affects hormones and reproductive cells.<text:span text:style-name="T6"> モリンガの抗酸化物質は、ホルモンバランス、生殖細胞の健康、長期的な性的活力に役立ちます。</text:span><text:span text:style-name="T25">酸化ストレスはホルモンと生殖細胞に好影響を与えます）</text:span></text:p>
+       <text:p text:style-name="P20"><text:span text:style-name="T16">Moringa’s</text:span> strong antioxidants may help support: Hormonal balance, Reproductive cell health, and Long-term sexual vitality. Oxidative stress affects hormones and reproductive cells.<text:span text:style-name="T6"> モリンガの抗酸化物質は、ホルモンバランス、生殖細胞の健康、長期的な性的活力に役立ちます。</text:span><text:span text:style-name="T25">酸化ストレスはホルモンと生殖細胞に好影響を与えます）</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">💪<text:span text:style-name="T7">Supports Energy &amp; Stamina</text:span><text:span text:style-name="T9">　エネルギーとスタミナをサポート</text:span></text:p>
+     <text:p text:style-name="P20">💪<text:span text:style-name="T7">Supports Energy &amp; Stamina</text:span><text:span text:style-name="T9">　エネルギーとスタミナをサポート</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11"><text:span text:style-name="T16">Moringa</text:span> is rich in: Iron (supporting oxygen flow &amp; energy), B vitamins (supporting metabolism), and Protein (supporting overall strength and stamina).<text:span text:style-name="T6"> </text:span>Better energy provides better performance and endurance.<text:span text:style-name="T6"> モリンガには、鉄分（酸素の流れとエネルギーをサポート）ビタミンB群（代謝をサポート）、タンパク質 （全身の筋力とスタミナをサポート）</text:span><text:span text:style-name="T25">が豊富に含まれておりエネルギーと持久力が向上します。</text:span></text:p>
+       <text:p text:style-name="P20"><text:span text:style-name="T16">Moringa</text:span> is rich in: Iron (supporting oxygen flow &amp; energy), B vitamins (supporting metabolism), and Protein (supporting overall strength and stamina).<text:span text:style-name="T6"> </text:span>Better energy provides better performance and endurance.<text:span text:style-name="T6"> モリンガには、鉄分（酸素の流れとエネルギーをサポート）ビタミンB群（代謝をサポート）、タンパク質 （全身の筋力とスタミナをサポート）</text:span><text:span text:style-name="T25">が豊富に含まれておりエネルギーと持久力が向上します。</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">🧠 <text:span text:style-name="T7">Supports Stress Reduction</text:span><text:span text:style-name="T9">　ストレス軽減をサポート</text:span></text:p>
+     <text:p text:style-name="P20">🧠 <text:span text:style-name="T7">Supports Stress Reduction</text:span><text:span text:style-name="T9">　ストレス軽減をサポート</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11">Stress is one of the biggest causes of low libido.<text:span text:style-name="T10"> ストレスは性欲減退の最大の原因。</text:span></text:p>
+       <text:p text:style-name="P20">Stress is one of the biggest causes of low libido.<text:span text:style-name="T10"> ストレスは性欲減退の最大の原因。</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P12"><text:span text:style-name="T16">Moringa</text:span> contains compounds that support: Mood balance, Mental calmness, and Nervous system resilience.<text:span text:style-name="T6"> </text:span><text:span text:style-name="T10">モリンガには、気分のバランス、心の平穏、神経系の回復力をサポートする物質が含まれており心が穏やかになると、</text:span></text:p>
+       <text:p text:style-name="P21"><text:span text:style-name="T16">Moringa</text:span> contains compounds that support: Mood balance, Mental calmness, and Nervous system resilience.<text:span text:style-name="T6"> </text:span><text:span text:style-name="T10">モリンガには、気分のバランス、心の平穏、神経系の回復力をサポートする物質が含まれており心が穏やかになると、</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P11">A calmer mind often improves sexual desire and performance. <text:span text:style-name="T10">性欲やそのパフォーマンスも向上します。</text:span></text:p>
+       <text:p text:style-name="P20">A calmer mind often improves sexual desire and performance. <text:span text:style-name="T10">性欲やそのパフォーマンスも向上します。</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11">❤️ <text:s/><text:span text:style-name="T7">Heart Health provides Sexual Health</text:span><text:span text:style-name="T9">　健康なハートは性的健康を寄与します</text:span></text:p>
+     <text:p text:style-name="P20">❤️ <text:s/><text:span text:style-name="T7">Heart Health provides Sexual Health</text:span><text:span text:style-name="T9">　健康なハートは性的健康を寄与します</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11">Heart health and sexual health are closely connected.<text:span text:style-name="T10"> 心臓の健康と性的健康は密接に関係しています。</text:span></text:p>
+       <text:p text:style-name="P20">Heart health and sexual health are closely connected.<text:span text:style-name="T10"> 心臓の健康と性的健康は密接に関係しています。</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P11"><text:soft-page-break/><text:span text:style-name="T16">Moringa’s</text:span> fiber, antioxidants, and minerals help support: Healthy cholesterol, Improved circulation, and Vascular wellness.<text:span text:style-name="T10"> </text:span><text:span text:style-name="T6">モリンガの食物繊維、抗酸化物質、ミネラルは、コレステロール値の改善、血行改善、血管の健康維持に役立ちます。</text:span></text:p>
+       <text:p text:style-name="P20"><text:soft-page-break/><text:span text:style-name="T16">Moringa’s</text:span> fiber, antioxidants, and minerals help support: Healthy cholesterol, Improved circulation, and Vascular wellness.<text:span text:style-name="T10"> </text:span><text:span text:style-name="T6">モリンガの食物繊維、抗酸化物質、ミネラルは、コレステロール値の改善、血行改善、血管の健康維持に役立ちます。</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P11">This indirectly supports erectile function and overall sexual vitality. <text:span text:style-name="T6">これは間接的に勃起機能と全体的な性的活力をサポートします。</text:span></text:p>
+       <text:p text:style-name="P20">This indirectly supports erectile function and overall sexual vitality. <text:span text:style-name="T6">これは間接的に勃起機能と全体的な性的活力をサポートします。</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11"><text:span text:style-name="T19">♂</text:span> <text:span text:style-name="T7">Men’s Sexual Health</text:span><text:span text:style-name="T9">　男性の性的な健康</text:span></text:p>
+     <text:p text:style-name="P20"><text:span text:style-name="T19">♂</text:span> <text:span text:style-name="T7">Men’s Sexual Health</text:span><text:span text:style-name="T9">　男性の性的な健康</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P12"><text:span text:style-name="T16">Moringa</text:span> is sometimes used to support: Sperm quality, Sperm count, and Cellular protection. <text:span text:style-name="T10">モリンガは、精子数の増加や細胞保護などのサポートに用いられることがあります。これはホルモンの変化によるものではなく、</text:span></text:p>
+       <text:p text:style-name="P21"><text:span text:style-name="T16">Moringa</text:span> is sometimes used to support: Sperm quality, Sperm count, and Cellular protection. <text:span text:style-name="T10">モリンガは、精子数の増加や細胞保護などのサポートに用いられることがあります。これはホルモンの変化によるものではなく、</text:span></text:p>
       </text:list-item>
       <text:list-item>
-       <text:p text:style-name="P11">This comes from its antioxidant richness: Not from hormonal changes.<text:span text:style-name="T10"> モリンガの抗酸化作用によるものです。</text:span></text:p>
+       <text:p text:style-name="P20">This comes from its antioxidant richness: Not from hormonal changes.<text:span text:style-name="T10"> モリンガの抗酸化作用によるものです。</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P11"><text:span text:style-name="T20">♀</text:span> <text:span text:style-name="T7">Women’s Sexual Health</text:span><text:span text:style-name="T9">　女性の性的な健康</text:span></text:p>
+     <text:p text:style-name="P20"><text:span text:style-name="T20">♀</text:span> <text:span text:style-name="T7">Women’s Sexual Health</text:span><text:span text:style-name="T9">　女性の性的な健康</text:span></text:p>
      <text:list>
       <text:list-item>
-       <text:p text:style-name="P11">For women, <text:span text:style-name="T16">Moringa</text:span> may help with: Natural lubrication (indirectly via hydration &amp; antioxidants), Energy and mood support, Hormonal balance pathways, and Stress relief.<text:span text:style-name="T6">　</text:span>This can help improve desire and comfort. <text:span text:style-name="T6">女性にとってモリンガは、自然な潤滑（間接的に水分補給と抗酸化作用）、エネルギーと気分のサポート、ホルモンバランスの調整、ストレス軽減に役立ちます。性欲と快適さの向上にも役立ちます。</text:span></text:p>
+       <text:p text:style-name="P20">For women, <text:span text:style-name="T16">Moringa</text:span> may help with: Natural lubrication (indirectly via hydration &amp; antioxidants), Energy and mood support, Hormonal balance pathways, and Stress relief.<text:span text:style-name="T6">　</text:span>This can help improve desire and comfort. <text:span text:style-name="T6">女性にとってモリンガは、自然な潤滑（間接的に水分補給と抗酸化作用）、エネルギーと気分のサポート、ホルモンバランスの調整、ストレス軽減に役立ちます。性欲と快適さの向上にも役立ちます。</text:span></text:p>
       </text:list-item>
      </text:list>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
-   <text:list text:continue-list="list124956448980592" text:style-name="WWNum1">
+   <text:list text:continue-list="list81345052561785" text:style-name="WWNum1">
     <text:list-item>
      <text:list>
       <text:list-item>
-       <text:h text:style-name="P8" text:outline-level="2"><text:span text:style-name="T22">Us</text:span><text:span text:style-name="T23">ing</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T18">Moringa</text:span><text:span text:style-name="T22"> for Sexual Wellness </text:span><text:span text:style-name="T24">モリンガを性的な健康に活用する方法</text:span></text:h>
+       <text:h text:style-name="P14" text:outline-level="2"><text:span text:style-name="T22">Us</text:span><text:span text:style-name="T23">ing</text:span><text:span text:style-name="T22"> </text:span><text:span text:style-name="T18">Moringa</text:span><text:span text:style-name="T22"> for Sexual Wellness </text:span><text:span text:style-name="T24">モリンガを性的な健康に活用する方法</text:span></text:h>
       </text:list-item>
      </text:list>
     </text:list-item>
@@ -986,19 +1009,19 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T12"><text:s/>These are general wellness amounts:<text:span text:style-name="T10">　下記は一般的な健康量です</text:span></text:p>
    <text:list text:style-name="WWNum3">
     <text:list-item>
-     <text:p text:style-name="P13">Moringa powder: 1–2 teaspoons daily<text:span text:style-name="T10">：モリンガパウダー　（１日１－２スプーン）</text:span></text:p>
+     <text:p text:style-name="P22">Moringa powder: 1–2 teaspoons daily<text:span text:style-name="T10">：モリンガパウダー　（１日１－２スプーン）</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13"><text:span text:style-name="T15">L</text:span>eaves: ½–1 cup cooked<text:span text:style-name="T10">：乾燥葉：３－５ｇ（煮）</text:span></text:p>
+     <text:p text:style-name="P22"><text:span text:style-name="T15">L</text:span>eaves: ½–1 cup cooked<text:span text:style-name="T10">：乾燥葉：３－５ｇ（煮）</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13">Seeds: 1–2 seeds/day<text:span text:style-name="T10">種：一日２―３粒</text:span></text:p>
+     <text:p text:style-name="P22">Seeds: 1–2 seeds/day<text:span text:style-name="T10">種：一日２―３粒</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13">Tea: ½–1 tsp powder in hot water<text:span text:style-name="T10">：５分間沸騰</text:span></text:p>
+     <text:p text:style-name="P22">Tea: ½–1 tsp powder in hot water<text:span text:style-name="T10">：５分間沸騰</text:span></text:p>
     </text:list-item>
     <text:list-item>
-     <text:p text:style-name="P13">Oil: Topical use only (skin/hair)<text:span text:style-name="T10">：局所使用のみ</text:span></text:p>
+     <text:p text:style-name="P22">Oil: Topical use only (skin/hair)<text:span text:style-name="T10">：局所使用のみ</text:span></text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="Standard"/>
@@ -1006,25 +1029,25 @@
    <text:p text:style-name="Standard" loext:marker-style-name="T12">⚠️ <text:span text:style-name="T7">Cautions</text:span><text:span text:style-name="T9">　注意</text:span></text:p>
    <text:list text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P14">Moringa is not a medicine for sexual problems.</text:p>
+     <text:p text:style-name="P23">Moringa is not a medicine for sexual problems.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P15">モリンガは性的な問題の効果を保証しておりません。</text:p>
+   <text:p text:style-name="P9">モリンガは性的な問題の効果を保証しておりません。</text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P14">It supports overall nutrition, energy, and circulation: Factors that affect sexual health.</text:p>
+     <text:p text:style-name="P23">It supports overall nutrition, energy, and circulation: Factors that affect sexual health.</text:p>
     </text:list-item>
    </text:list>
-   <text:p text:style-name="P16">栄養、エネルギー、血液の循環をサポートし性的な健康を保つ事を目的としています。</text:p>
+   <text:p text:style-name="P8">栄養、エネルギー、血液の循環をサポートし性的な健康を保つ事を目的としています。</text:p>
    <text:list text:continue-numbering="true" text:style-name="WWNum4">
     <text:list-item>
-     <text:p text:style-name="P14">People with blood sugar, blood pressure, thyroid conditions, or on medication should use small amounts and consult a professional before large daily doses.</text:p>
+     <text:p text:style-name="P23">People with blood sugar, blood pressure, thyroid conditions, or on medication should use small amounts and consult a professional before large daily doses.</text:p>
     </text:list-item>
    </text:list>
    <text:p text:style-name="P6" loext:marker-style-name="T6"><text:span text:style-name="T6">血糖値、血圧、甲状腺疾患のある人、又は薬を服用している人は、少量を使用し、</text:span><text:span text:style-name="T6"/></text:p>
    <text:p text:style-name="P6" loext:marker-style-name="T6"><text:span text:style-name="T6">毎日大量に摂取する場合は専門家に相談して下さい。</text:span><text:span text:style-name="T6"/></text:p>
    <text:p text:style-name="P4" loext:marker-style-name="T6"/>
-   <text:p text:style-name="P18"><text:span text:style-name="T13">Revised </text:span><text:span text:style-name="T26">January 17, 2026</text:span></text:p>
+   <text:p text:style-name="P10"><text:span text:style-name="T26">Revised </text:span><text:span text:style-name="T27">January 17, 2026</text:span></text:p>
   </office:text>
  </office:body>
 </office:document>
